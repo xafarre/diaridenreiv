@@ -40,12 +40,13 @@ Les imatges de l'acte poden viure dins la mateixa carpeta i es poden referenciar
 
 La portada llistara automaticament els capitols i cada pagina de capitol llistara automaticament els actes ordenats per `order`.
 
-## Migracio del diari antic
+## Postproduccio narrativa
 
-El material original pot viure localment dins `.olddiary/`, que esta ignorat per Git. Per regenerar el contingut publicat a partir de `.olddiary/olddiary.html`:
+Les instruccions d'estil per convertir esborranys en actes literaris viuen a `.agent/reiv-postproduccio.md`.
 
-```bash
-ruby scripts/migrate_old_diary.rb
+Per usar-les en un xat, referencia l'arxiu al prompt:
+
+```text
+Aplica les instruccions de .agent/reiv-postproduccio.md i transforma aquest esborrany en un fragment del Diari d'en Reiv.
+Primer fes la planificacio per paragrafs i despres redacta el text final.
 ```
-
-El script divideix el document en capitols i actes, copia les imatges a la carpeta de cada acte i les converteix a WebP amb noms descriptius.
