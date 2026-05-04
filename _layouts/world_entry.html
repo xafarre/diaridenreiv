@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<article class="world-entry" id="entry-top">
+  <header class="world-heading">
+    <p class="chapter-kicker">{{ page.section_label }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.resum %}
+      <p>{{ page.resum }}</p>
+    {% endif %}
+  </header>
+
+  {% if page.tipus == "personatge" and page.fitxa %}
+    <section class="character-sheet" aria-label="Fitxa de personatge">
+      {% for camp in site.data.personatge_camps %}
+        {% assign valor = page.fitxa[camp.key] %}
+        {% if valor %}
+          <div class="character-field">
+            <dt>{{ camp.label }}</dt>
+            <dd>
+              {% if valor.first %}
+                <ul>
+                  {% for item in valor %}
+                    <li>{{ item }}</li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                {{ valor }}
+              {% endif %}
+            </dd>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+  {% endif %}
+
+  <div class="world-entry-content">
+    {{ content }}
+  </div>
+</article>
+
+<nav class="floating-nav" aria-label="Navegacio d'entrada">
+  <a class="floating-nav-button" href="{{ page.back_url | default: '/' | relative_url }}" aria-label="Tornar enrere" title="Tornar enrere">&lt;</a>
+  <a class="floating-nav-button" href="#entry-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+</nav>

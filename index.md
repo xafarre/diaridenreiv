@@ -1,4 +1,4 @@
 ---
-layout: home
-title: "Capitols"
+layout: landing
+title: "Portada"
 ---

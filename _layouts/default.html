@@ -9,8 +9,15 @@
   </head>
   <body>
     <header class="site-header">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      <p>{{ site.description }}</p>
+      <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
+        <span>Diari</span>
+        <strong>d'en Reiv</strong>
+      </a>
+      <nav class="site-nav" aria-label="Navegacio principal">
+        <a href="{{ '/diari/' | relative_url }}">diari</a>
+        <a href="{{ '/mon/personatges/' | relative_url }}">personatges</a>
+        <a href="{{ '/mon/naus/' | relative_url }}">naus</a>
+      </nav>
     </header>
 
     <main class="site-main">

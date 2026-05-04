@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% assign entries = site.pages | where: "tipus", page.item_tipus | sort: "order" %}
+
+<header class="world-heading" id="world-top">
+  <p class="chapter-kicker">{{ page.kicker | default: "Mon" }}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.resum %}
+    <p>{{ page.resum }}</p>
+  {% endif %}
+</header>
+
+<section class="world-grid" aria-label="{{ page.title }}">
+  {% for entry in entries %}
+    <article class="world-card">
+      <a href="{{ entry.url | relative_url }}">
+        <p>{{ entry.section_label }}</p>
+        <h2>{{ entry.title }}</h2>
+        {% if entry.resum %}
+          <span>{{ entry.resum }}</span>
+        {% endif %}
+      </a>
+    </article>
+  {% else %}
+    <p class="empty-state">{{ page.empty | default: "Encara no hi ha cap entrada." }}</p>
+  {% endfor %}
+</section>
+
+<nav class="floating-nav" aria-label="Navegacio de seccio">
+  <a class="floating-nav-button" href="{{ '/' | relative_url }}" aria-label="Tornar a la portada" title="Tornar a la portada">&lt;</a>
+  <a class="floating-nav-button" href="#world-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+</nav>
