@@ -281,6 +281,39 @@ img {
   color: var(--muted);
 }
 
+.floating-nav {
+  position: fixed;
+  right: max(18px, calc((100vw - var(--measure)) / 2 - 56px));
+  bottom: max(18px, env(safe-area-inset-bottom));
+  z-index: 20;
+  display: grid;
+  gap: 10px;
+}
+
+.floating-nav-button {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  color: var(--accent-dark);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.floating-nav-button:hover,
+.floating-nav-button:focus-visible {
+  background: var(--accent-dark);
+  color: #fff;
+  outline: none;
+}
+
 @media (max-width: 680px) {
   body {
     font-size: 17px;
@@ -294,5 +327,14 @@ img {
 
   .act-index li {
     grid-template-columns: 3.2rem max-content;
+  }
+
+  .floating-nav-button {
+    width: 38px;
+    height: 38px;
+  }
+
+  .floating-nav {
+    right: max(18px, env(safe-area-inset-right));
   }
 }

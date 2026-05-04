@@ -5,7 +5,7 @@ layout: default
 {% assign actes = site.pages | where: "tipus", "acte" | where: "chapter", page.slug | where_exp: "acte", "acte.published != false" | sort: "order" %}
 {% assign hide_chapter_chrome = page.hide_chapter_chrome | default: false %}
 
-<article class="chapter">
+<article class="chapter" id="chapter-top">
   {% if hide_chapter_chrome %}
     <header class="chapter-heading chapter-heading-simple">
       <h1>{{ page.title }}</h1>
@@ -50,3 +50,8 @@ layout: default
     {% endfor %}
   </div>
 </article>
+
+<nav class="floating-nav" aria-label="Navegacio de capitol">
+  <a class="floating-nav-button" href="{{ '/' | relative_url }}" aria-label="Tornar a la portada" title="Tornar a la portada">&lt;</a>
+  <a class="floating-nav-button" href="#chapter-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+</nav>
