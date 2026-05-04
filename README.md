@@ -1,2 +1,2 @@
-# reiv.github.io
+# diaridenreiv
 Diari d’en Reiv al Setè Mar
