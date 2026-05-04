@@ -2,18 +2,21 @@
 layout: acte
 tipus: acte
 chapter: capitol01
-title: "El Moll De Les Promeses"
+title: Viatge al Setè Mar
+label: Acte I
 order: 1
 ---
 
-### Arribada
+![viatge sete mar](viatge-sete-mar.webp)
 
-La tarda que vam veure el port, el cel tenia aquell color de metall antic que nomes apareix quan la mar prepara un secret. **Reiv** va baixar a coberta sense dir res, amb la ma al pom de l'espasa i els ulls clavats en les torres blanques de la ciutat.
+Des de la barra de la taverna, vaig observar com els primers rajos de llum es filtraven a través de les finestres emboirades, despertant-me d’un son inquiet. La preocupació per la Luna encara pesava sobre el meu cor. “On haurà anat?”, em preguntava, mentre la necessitat de trobar-la em consumia. Amb els records de la nit anterior encara vius, vaig sortir de la taverna amb els altres viatgers. A la plaça del poble, entre mercaders i artesans, vam buscar les eines per a la nostra imminent expedició: espases brillants, escuts robustos i artefactes prometedors.
 
-![Una illa entre boires](imatge-illa.webp)
+Al moll, on les onades besaven la fusta dels vaixells amb tendresa, la companyia d’Alarik Dantés ens esperava. El nostre primer viatge ens portaria a una illa misteriosa, una terra verge on tres rius serpentejaven a través del verd exuberant, com camins que esperaven ser descoberts. La nostra missió era clara: trobar les antigues ruïnes de Syrne, un lloc de llegenda i riquesa oculta.
 
-El capita havia promes una escala curta, pero les promeses fetes en veu baixa tenen mala tendencia a esquerdar-se. A la taverna del moll, una dona amb guants vermells va deixar una moneda damunt la taula i va pronunciar un nom que ningu no esperava tornar a sentir.
+Mentre la caravela s’apropava a la costa, una imponent figura va aparèixer a l’horitzó: un vaixell de casc vermell amb veles inflades pel vent, tan roges com la sang dels valents. Era el vaixell de Sigurd Ragnarson, un nom que ressonava amb respecte i temor entre els mariners. Alonso de la Vega, el contramaestre, va cridar-nos amb una veu que tallava el vent: “Atenció, companys! Aquell és el vaixell de Ragnarson. No podem permetre que la seva tripulació trepitgi les ruïnes abans que nosaltres. La glòria i el tresor de Syrne han de ser nostres!”
 
-### La pista
+![vaixell vermell](vaixell-vermell.webp)
 
-El missatge era breu, escrit amb tinta salada: *la carta no ha cremat*. Aixo bastava per convertir una nit tranquil-la en una persecucio pels carrers molls, entre fanals, rialles i portes que es tancaven massa de pressa.
+Amb aquelles paraules, una nova determinació va encendre els nostres cors, preparant-nos per a la competició que ens esperava a terra ferma. La cursa per Syrne havia començat, i jo estava decidit a liderar-nos cap a la victòria.
+
+![illa misteriosa](illa-misteriosa.webp)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign actes = site.pages | where: "tipus", "acte" | where: "chapter", page.slug | sort: "order" %}
+{% assign actes = site.pages | where: "tipus", "acte" | where: "chapter", page.slug | where_exp: "acte", "acte.published != false" | sort: "order" %}
 
 <article class="chapter">
   <header class="chapter-heading">
@@ -21,7 +21,7 @@ layout: default
       <h2>Actes</h2>
       <ol>
         {% for acte in actes %}
-          <li><a href="#acte-{{ acte.order }}">{{ acte.title }}</a></li>
+          <li><a href="#acte-{{ acte.order }}">{% if acte.label %}{{ acte.label }}{% else %}Acte {{ acte.order }}{% endif %}. {{ acte.title }}</a></li>
         {% endfor %}
       </ol>
     </nav>
@@ -35,7 +35,7 @@ layout: default
 
       <section class="act" id="acte-{{ acte.order }}">
         <header class="act-heading">
-          <p>Acte {{ acte.order }}</p>
+          <p>{% if acte.label %}{{ acte.label }}{% else %}Acte {{ acte.order }}{% endif %}</p>
           <h2>{{ acte.title }}</h2>
         </header>
         {{ acte_content }}

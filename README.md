@@ -39,3 +39,13 @@ Les imatges de l'acte poden viure dins la mateixa carpeta i es poden referenciar
 ```
 
 La portada llistara automaticament els capitols i cada pagina de capitol llistara automaticament els actes ordenats per `order`.
+
+## Migracio del diari antic
+
+El material original pot viure localment dins `.olddiary/`, que esta ignorat per Git. Per regenerar el contingut publicat a partir de `.olddiary/olddiary.html`:
+
+```bash
+ruby scripts/migrate_old_diary.rb
+```
+
+El script divideix el document en capitols i actes, copia les imatges a la carpeta de cada acte i les converteix a WebP amb noms descriptius.
