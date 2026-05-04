@@ -1,0 +1,15 @@
+title: "Diari d'en Reiv"
+description: "Fragments de campanya i actes del Sete Mar."
+lang: ca
+baseurl: "/diaridenreiv"
+url: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

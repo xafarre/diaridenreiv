@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% assign capitols = site.pages | where: "tipus", "capitol" | sort: "order" %}
+
+<header class="home-heading">
+  <h1>{{ page.title }}</h1>
+</header>
+
+<section class="chapter-list" aria-label="Llista de capitols">
+  {% for capitol in capitols %}
+    <article class="chapter-card">
+      <a href="{{ capitol.url | relative_url }}" aria-label="Llegir {{ capitol.title }}">
+        {% if capitol.cover %}
+          <img src="{{ capitol.cover | relative_url }}" alt="" loading="lazy">
+        {% endif %}
+        <div class="chapter-card-body">
+          <p class="chapter-kicker">Capitol {{ capitol.order }}</p>
+          <h2>{{ capitol.title }}</h2>
+          <p>{{ capitol.resum }}</p>
+        </div>
+      </a>
+    </article>
+  {% else %}
+    <p class="empty-state">Encara no hi ha cap capitol publicat.</p>
+  {% endfor %}
+</section>

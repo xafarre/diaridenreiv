@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% assign actes = site.pages | where: "tipus", "acte" | where: "chapter", page.slug | sort: "order" %}
+
+<article class="chapter">
+  <header class="chapter-heading">
+    {% if page.cover %}
+      <img class="chapter-cover" src="{{ page.cover | relative_url }}" alt="">
+    {% endif %}
+    <p class="chapter-kicker">Capitol {{ page.order }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.resum %}
+      <p class="chapter-summary">{{ page.resum }}</p>
+    {% endif %}
+  </header>
+
+  {% if actes.size > 0 %}
+    <nav class="act-index" aria-label="Index d'actes">
+      <h2>Actes</h2>
+      <ol>
+        {% for acte in actes %}
+          <li><a href="#acte-{{ acte.order }}">{{ acte.title }}</a></li>
+        {% endfor %}
+      </ol>
+    </nav>
+  {% endif %}
+
+  <div class="chapter-content">
+    {% for acte in actes %}
+      {% capture image_prefix %}<img src="{{ acte.dir | relative_url }}{% endcapture %}
+      {% capture image_prefix_single %}<img src='{{ acte.dir | relative_url }}{% endcapture %}
+      {% assign acte_content = acte.content | replace: '<img src="', image_prefix | replace: "<img src='", image_prefix_single %}
+
+      <section class="act" id="acte-{{ acte.order }}">
+        <header class="act-heading">
+          <p>Acte {{ acte.order }}</p>
+          <h2>{{ acte.title }}</h2>
+        </header>
+        {{ acte_content }}
+      </section>
+    {% else %}
+      <p class="empty-state">Aquest capitol encara no te actes publicats.</p>
+    {% endfor %}
+  </div>
+</article>
