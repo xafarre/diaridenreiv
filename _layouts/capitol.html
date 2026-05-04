@@ -36,8 +36,9 @@ layout: default
 
   <div class="chapter-content">
     {% for acte in actes %}
-      {% capture image_prefix %}<img src="{{ acte.dir | relative_url }}{% endcapture %}
-      {% capture image_prefix_single %}<img src='{{ acte.dir | relative_url }}{% endcapture %}
+      {% assign acte_relative_dir = acte.dir | remove_first: page.dir %}
+      {% capture image_prefix %}<img src="{{ acte_relative_dir }}{% endcapture %}
+      {% capture image_prefix_single %}<img src='{{ acte_relative_dir }}{% endcapture %}
       {% assign acte_content = acte.content | replace: '<img src="', image_prefix | replace: "<img src='", image_prefix_single %}
 
       <section class="act" id="acte-{{ acte.order }}">
