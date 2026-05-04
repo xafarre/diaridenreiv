@@ -2,9 +2,8 @@
 layout: capitol
 tipus: capitol
 slug: capitol02
-title: Capítol II
-resum: Aclarit el malentès, Alarik ens demana que l’acompanyem en una nova missió,
-  aquesta vegada a una ciutat llunyana coneguda com a Magerit.
+title: Les ombres de Magerit
+resum: A Magerit, els herois d’Alarik s’endinsen en una ciutat dividida entre luxe i misèria per aconseguir uns plànols perduts. Però la missió aviat deriva en una xarxa de màfia, pactes i traïcions que encendrà una revolta impossible d’aturar.
 cover: "/diari/capitol02/acte09/acte-planols-magerit-aclarit-malentes.webp"
 order: 2
 ---
