@@ -6,7 +6,11 @@ layout: default
 {% assign hide_chapter_chrome = page.hide_chapter_chrome | default: false %}
 
 <article class="chapter">
-  {% unless hide_chapter_chrome %}
+  {% if hide_chapter_chrome %}
+    <header class="chapter-heading chapter-heading-simple">
+      <h1>{{ page.title }}</h1>
+    </header>
+  {% else %}
     <header class="chapter-heading">
       {% if page.cover %}
         <img class="chapter-cover" src="{{ page.cover | relative_url }}" alt="">
@@ -17,18 +21,14 @@ layout: default
         <p class="chapter-summary">{{ page.resum }}</p>
       {% endif %}
     </header>
-  {% endunless %}
+  {% endif %}
 
   {% if actes.size > 0 and hide_chapter_chrome != true %}
     <nav class="act-index" aria-label="Index d'actes">
       <h2>Actes</h2>
       <ol>
         {% for acte in actes %}
-          {% assign acte_marker = acte.label | remove: "Acte " %}
-          <li>
-            <span class="act-index-marker">{% if acte.label %}{{ acte_marker }}{% else %}{{ acte.order }}{% endif %}.</span>
-            <a href="#acte-{{ acte.order }}">{{ acte.title }}</a>
-          </li>
+          <li><a href="#acte-{{ acte.order }}">{{ acte.title }}</a></li>
         {% endfor %}
       </ol>
     </nav>
