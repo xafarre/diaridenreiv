@@ -41,7 +41,7 @@ Mentre el campament començava a prendre forma, el grup decidí iniciar una prim
 
 Des de l’aire, pogué estudiar la geografia de l’illa. En tornar, ens descrigué tres grans muntanyes que semblaven antics volcans adormits. Al centre hi havia un llac, i diversos rius descendien des de les muntanyes fins a trobar-lo o bé fins a morir directament al mar. L’illa, segons ella, tenia forma de pètal: estreta i punxeguda al sud, més arrodonida al nord. Una muntanya s’alçava cap al sud, una altra al nord i la tercera a l’est. El llac reposava gairebé al centre, com un ull quiet.
 
-Però aquella no fou l’única notícia. Durant el vol, l’Alina detectà un altre vaixell a la llunyania. S’hi apropà prou per observar-lo millor, però no tant com per oferir-se a ser observada. Quan ho explicà, en Johannes arrufà el front.
+Però aquella no fou l’única notícia. Durant el vol, l’Alina detectà un altre vaixell al nord. S’hi apropà prou per observar-lo millor, però no tant com per oferir-se a ser observada. Li semblà distingir-hi una vintena d’homes entre els que ja havien baixat a terra i els que encara romanien a bord. Dos d’ells, segons digué, duien una armadura que recordava massa la d’en Kamui per passar per un detall menor. Quan ho explicà, en Johannes arrufà el front.
 
 —Podria ser la Freia —digué—, del grup d’en Sigurd.
 
