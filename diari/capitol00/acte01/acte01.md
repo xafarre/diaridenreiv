@@ -9,13 +9,13 @@ order: 1
 
 En un pintoresc poble costaner de Castella anomenat Valdeluna, on les onades acaricien la sorra i els somnis es confonen amb la brisa marina, el destí començava a traçar la història d’una gran aventura. Un grup de viatgers, desconeguts entre si, portava a les espatlles el pes de relats mai explicats. En els seus ulls es reflectia la promesa d’una odissea que tot just començava.
 
-![poble valdeluna](poble-valdeluna.webp)
+![poble valdeluna]({{ '/diari/capitol00/acte01/poble-valdeluna.webp' | relative_url }})
 
 A mesura que el sol s’enfonsava a l’horitzó, els seus passos els van portar pels carrerons empedrats fins a una taverna, refugi de mariners, bandolers i corsaris. Un santuari de fusta i pedra on les seves vides s’entrellaçarien per primera vegada. L’ambient era càlid, ple de rialles, murmuris i la remor d’un violí desafinat. Les espelmes tremolaven com cors inquiets, mentre l’aire s’omplia d’aromes de cervesa, vi ranci i promeses de fortuna.
 
 Aquella nit, la taverna va ser testimoni de disputes, brindis eufòrics i paraules murmurades en l’ombra. La música i el xivarri creaven una melodia pròpia, una simfonia de destins que es trobaven i es posaven a prova. Els daus rodolaven, les monedes canviaven de mans amb rapidesa i les cartes es llançaven a la taula amb la mateixa destresa que les dagues es brandaven en la foscor. Un brindis es va alçar per aquells que s'atrevien a desafiar el destí, mentre un vell mariner explicava històries de monstres marins i ciutats enfonsades.
 
-![taverna valdeluna](taverna-valdeluna.webp)
+![taverna valdeluna]({{ '/diari/capitol00/acte01/taverna-valdeluna.webp' | relative_url }})
 
 La nit avançava i els habitants de la taverna sucumbien un per un al regne dels somnis.
 

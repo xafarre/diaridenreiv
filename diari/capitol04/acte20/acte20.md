@@ -13,13 +13,13 @@ Partírem en Günnar, Kamui, Helen i jo; la resta de companys encara tenien assu
 
 El primer dia transcorregué sense cap incident. El sol, suau i generós, ens acompanyà mentre travessàvem les àmplies planes que separen Magerit dels turons del sud. Les rodes del carro rodolaven amb un ritme constant i hipnòtic, i només el cant llunyà d’algun ocell o el bufar del vent entre els matolls trencava el silenci. A la posta, férem nit entre dues grans roques, enmig d’una immensa esplanada de blat daurat; el lloc era obert i tranquil, amb prou visibilitat per albirar qualsevol perill abans no ens sorprengués.
 
-![acte xviii retorn valdeluna primer](acte-xviii-retorn-valdeluna-primer.webp)
+![acte xviii retorn valdeluna primer]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-primer.webp' | relative_url }})
 
 L’endemà, a l’alba i després d’un esmorzar frugal, reprenguérem la marxa. La llum matinal, tènue i rosada, es filtrava entre núvols com si el dia dubtés a esclatar del tot. No havíem recorregut gaire quan topàrem amb una bifurcació. El camí que havia de dur-nos a Valdeluna era tallat per un arbre caigut. El tronc, d’un metre i mig de diàmetre i més de deu metres de llarg, ocupava tota la via. No semblava un accident: el tall era massa net, la caiguda massa precisa.
 
 Baixàrem del carro i inspeccionàrem el terreny. L’escena feia olor de trampa: potser uns bandits comuns, o pitjor encara, algú que coneixia el nostre botí i el nostre itinerari. Durant uns instants debatérem en silenci; aquella tensió muda que precedeix les decisions difícils: seguir pel desviament o desafiar el perill. Finalment, coincidírem que, si l’objectiu dels qui ens esperaven era fer-nos desviar, la millor resposta era no fer-los el joc.
 
-![acte xviii retorn valdeluna baixarem](acte-xviii-retorn-valdeluna-baixarem.webp)
+![acte xviii retorn valdeluna baixarem]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-baixarem.webp' | relative_url }})
 
 La Helen dissenyà un pla senzill i efectiu. En Günnar i jo faríem palanca amb dues branques per aixecar lleugerament el tronc, mentre els cavalls, guiats per en Kamui, estirarien amb força fins a fer-lo pivotar fora del camí. Ella, mentrestant, vigilava els voltants amb la mà a la guarda de l’espasa. El treball fou lent i feixuc; el tronc s’alçava amb resistència, grinyolant com si fos viu. El terra cruixia sota el seu pes i la suor m’encegà els ulls.
 
@@ -31,7 +31,7 @@ Vaig contenir la respiració i vaig mirar al voltant.
 
 I aleshores, enmig del silenci que seguí, alguna cosa es mogué entre els arbres. Un home s’hi plantà, dret com un pal, al mig de la via. Portava caputxa i una jaqueta bruta; amb un gest de falsa cortesia, apartà la roba per mostrar un trabuc que duia a la cintura. Entre les ombres dels arbres se’ns revelaren almenys sis figures d’arquers, quiets, apuntant-nos.
 
-![acte xviii retorn valdeluna enmig](acte-xviii-retorn-valdeluna-enmig.webp)
+![acte xviii retorn valdeluna enmig]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-enmig.webp' | relative_url }})
 
 —Bon dia a tothom! —cridà l’home—. Vaja, veig que heu tocat el nostre arbre. Us haurem de fer pagar.
 
@@ -51,17 +51,17 @@ La seva rialla fou curta. —Sembla que no entens bé la situació, jove. Els me
 
 —Dispareu! —ordenà llavors.
 
-![acte xviii retorn valdeluna dispareu](acte-xviii-retorn-valdeluna-dispareu.webp)
+![acte xviii retorn valdeluna dispareu]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-dispareu.webp' | relative_url }})
 
 Els arcs es tensaren; aquell instant que precedeix la mort s’allargà com una ombra. En Kamui, mestre dels tirs ràpids, no perdé el temps: apuntà amb i disparà. El tret impactà el que semblava cap de la banda; el seu crit fou curt i la sang tenyí la camisa a l’espatlla. Era una ferida greu, però no letal.
 
 La Helen s’hi llançà sense vacil·lar. La seva espasa dansà entre ombres i tirs; jo, recolzant la mà sobre el tronc, vaig fer una tombarella que em deixà dempeus i llest, com qui s’aixeca per entrar a la cursa. —Ara! —cridà la Helen, i m’hi aboque.
 
-![acte xviii retorn valdeluna helen](acte-xviii-retorn-valdeluna-helen.webp)
+![acte xviii retorn valdeluna helen]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-helen.webp' | relative_url }})
 
 En aquell moment en Günnar s’endinsà entre els arbres cap als arquers; la seva enorme figura avançava decidida. La lluita fou ferotge: era força contra destresa, ordre contra improvisació. Durant una pausa breu jo cridí al cap:
 
-![acte xviii retorn valdeluna moment](acte-xviii-retorn-valdeluna-moment.webp)
+![acte xviii retorn valdeluna moment]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-moment.webp' | relative_url }})
 
 —Senyor, li aconsello deixar-ho aquí, abans no prenguin un mal irreparable.
 
@@ -71,7 +71,7 @@ No em respongué. I aleshores, del bosc, en sortiren quatre més: la proporció 
 
 La por tanca les oïdes; la noia no s’aturà. La Helen disparà. El tret fou net i encertà al cap; la noia caigué immòbil.
 
-![acte xviii retorn valdeluna tanca](acte-xviii-retorn-valdeluna-tanca.webp)
+![acte xviii retorn valdeluna tanca]({{ '/diari/capitol04/acte20/acte-xviii-retorn-valdeluna-tanca.webp' | relative_url }})
 
 La Helen restà paralitzada, el món li trencà la respiració en un instant: l’impacte, el silenci, la incredulitat.
 

@@ -17,7 +17,7 @@ Un cop a dalt, ens trobàrem en una habitació ombrívola, impregnada d'una espe
 
 —Heu arribat al lloc correcte. Ara, doneu-nos tot el que porteu... i seieu.
 
-![acte ruta lopi arribat lloc](acte-ruta-lopi-arribat-lloc.webp)
+![acte ruta lopi arribat lloc]({{ '/diari/capitol03/acte13/acte-ruta-lopi-arribat-lloc.webp' | relative_url }})
 
 Dos matons de l’Olav s’acostaren a mi, disposats a arrabassar-me el poc que em quedava. Els vaig fer front, ferm però pacífic, i vaig resistir el primer intent de prendre’m la bossa. Però al segon intent, van atacar. Vaig esquivar i colpejar un d’ells, fent-lo caure a terra. La tensió s'intensificà de sobte.
 
@@ -29,7 +29,7 @@ Enmig del caos, un altre home aprofità l’ocasió per arrabassar-me la bossa d
 
 Vaig llençar la pipa a terra amb desdeny.
 
-![acte ruta lopi llencar pipa](acte-ruta-lopi-llencar-pipa.webp)
+![acte ruta lopi llencar pipa]({{ '/diari/capitol03/acte13/acte-ruta-lopi-llencar-pipa.webp' | relative_url }})
 
 Un altre home s'acostà cap a mi, aquesta vegada amb un ganivet en mà, amenaçant-me. Al mateix temps, quatre homes es dirigiren cap a la Helen, intentant immobilitzar-la. Però ella, contundent i ràpida com sempre, tombà dos dels atacants amb moviments precisos. Així i tot, acabaren retenint-la.
 
@@ -57,7 +57,7 @@ L'Olav ordenà a dos dels seus homes que anessin a casa d'en Niels a comprovar l
 
 Quan tornaren els seus homes, li murmuren alguna cosa a l'orella. L'Olav em llançà la bossa de monedes oberta, de manera que algunes caigueren a terra, i m'ordenà novament que me'n anés a buscar en Niels. Recollint la bossa, empenyí les monedes que havien caigut amb el peu.
 
-![acte ruta lopi tornaren homes](acte-ruta-lopi-tornaren-homes.webp)
+![acte ruta lopi tornaren homes]({{ '/diari/capitol03/acte13/acte-ruta-lopi-tornaren-homes.webp' | relative_url }})
 
 —Això t'ho pots quedar —li diguí a l'Olav—. I no penso deixar la Helen sola. És evident que hem començat amb mal peu, però vull que sàpigues que tenim interessos en comú. Seria bo rebaixar la tensió i escoltar-nos d'una vegada.
 
@@ -67,7 +67,7 @@ Tot el que dèiem no feia més que escalfar l'ambient. Finalment, ens veiérem o
 
 La Helen s'apropà al pis franc. Demanà als escoltes que la deixessin pujar sola. Un cop a dalt, li explicà a en Kamui tot el que havia passat, amb la veu baixa i intensa, i li demanà que acompanyés en Niels, recordant-li que l'objectiu principal era alliberar-me a mi. Sense perdre temps, la Helen corregué cap a l'hospital, decidida a reclamar l'ajuda d'en Gunnar i en Cedric.
 
-![acte ruta lopi helen apropa](acte-ruta-lopi-helen-apropa.webp)
+![acte ruta lopi helen apropa]({{ '/diari/capitol03/acte13/acte-ruta-lopi-helen-apropa.webp' | relative_url }})
 
 Per sort, en Gunnar es despertà, recuperat del seu estat precari. Tots tres es posaren en marxa cap al carrer Herreros, com si el temps fos el seu enemic. No obstant això, enmig del camí, un tret ressonà a l'aire. Seguit d'un altre.
 
@@ -77,7 +77,7 @@ En Bruto i l'últim home fugiren cap al carrer Herreros, buscant reforços deses
 
 Finalment, tots ens reunírem: la Helen, en Gunnar, en Cedric, i en Kamui, davant de l'Olav i en Bruto, amb més de vint dels seus homes. L'Olav, amb una mirada que cremava, ordenà que deixéssim en Niels a terra. Ell, despertant durant uns breus segons, confessà amb un fil de veu: estava a la comissaria, atrapat pel Pepe, i el següent que recordava era despertar en un pis davant d'en Kamui, amb totes les ferides sanades.
 
-![acte ruta lopi finalment reunirem](acte-ruta-lopi-finalment-reunirem.webp)
+![acte ruta lopi finalment reunirem]({{ '/diari/capitol03/acte13/acte-ruta-lopi-finalment-reunirem.webp' | relative_url }})
 
 L'Olav, que ja no podia contenir la seva impaciència, ordenà als seus homes que em baixessin. Però abans de deixar-me anar, el punxó del seu ganivet m'impactà per l'esquena i un dolor agut em travessà com un llampec.
 

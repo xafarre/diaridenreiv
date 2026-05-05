@@ -17,7 +17,7 @@ Però l'alegria es veié interrompuda quan en Johannes irrompé al local amb el 
 
 —Alarik us vol veure. Ara mateix.
 
-![acte viii retorn triomfal alarik](acte-viii-retorn-triomfal-alarik.webp)
+![acte viii retorn triomfal alarik]({{ '/diari/capitol02/acte10/acte-viii-retorn-triomfal-alarik.webp' | relative_url }})
 
 L’Alarik ens rebé amb una veu ferma, sense cap rastre de cortesia. Ens preguntà si realment havíem matat l'os, i aleshores ens feu una revelació que ens deixà garratibats: aquell os no era una bèstia qualsevol. Es tractava d'un antic company d'Ussura, un veí del poble. Ens explicà que aquell home havia arribat fa tres anys, fugint d'uns avalonesos que el buscaven per venjança.
 
@@ -27,7 +27,7 @@ El to d'en Alarik es tornà encara més gèlid mentre ens ordenava que lliuréss
 
 Tornàrem al bar amb un mal sabor de boca i la sensació amarga que l’Alarik, el nostre capità, no era un home just. Ell ho veia com un assassinat, però nosaltres sabíem que només havia estat un tràgic accident, un infortuni. Un a un, els companys se’n van anar a descansar. Jo em dirigí cap a El Pony Pisador, buscant una mica de pau en aquell lloc familiar.
 
-![acte viii retorn triomfal tornarem](acte-viii-retorn-triomfal-tornarem.webp)
+![acte viii retorn triomfal tornarem]({{ '/diari/capitol02/acte10/acte-viii-retorn-triomfal-tornarem.webp' | relative_url }})
 
 L’endemà, l’Alarik ens tornà a convocar. Aquesta vegada, el seu rostre era més relaxat, i la seva veu, més continguda. Amb un sospir pesat, ens demanà perdó per la seva actitud del dia anterior. Ens explicà que la tristesa l’havia encegat i reconegué que havíem actuat sense mala fe.
 

@@ -21,7 +21,7 @@ Va fer rodar la copa entre els dits, allargant el silenci amb aquella paciència
 
 —Aquesta és la meva llista negra. —La seva veu sonà com un fil de ganivet—. Si busqueu una manera de compensar-me, segur que trobareu opcions aquí.
 
-![acte traicions meva llista negra](acte-traicions-meva-llista-negra.webp)
+![acte traicions meva llista negra]({{ '/diari/capitol03/acte16/acte-traicions-meva-llista-negra.webp' | relative_url }})
 
 Vaig observar el paper amb atenció, els noms traçats amb una lletra ferma i angulosa. Mentre rumiava, el silenci entre nosaltres es feu espès, només interromput pel suau repicar del whisky contra el vidre de la copa d’en Kinnehan. Després d’uns segons de reflexió, vaig exposar la nostra proposta amb una veu mesurada:
 
@@ -37,7 +37,7 @@ Kinnehan no va parpellejar, però vaig notar un subtil canvi en la seva postura:
 
 3. Pel tercer, segrestarem el comissari Pepe Carvallo i te’l deixarem a mercè.
 
-![acte traicions primer local pagarem](acte-traicions-primer-local-pagarem.webp)
+![acte traicions primer local pagarem]({{ '/diari/capitol03/acte16/acte-traicions-primer-local-pagarem.webp' | relative_url }})
 
 Kinnehan es va quedar en silenci, recargolant el full entre els dits mentre assaboria la nostra oferta com si es tractés d’un vi antic. Finalment, després d’un llarg instant de sospesa, es reclinà amb un somriure lent i aprovador.
 
@@ -55,7 +55,7 @@ En Pepe va esbossar un somriure entusiasmat, i amb una riallada plena d'emoció,
 
 —No us falleu, perquè tinc moltes ganes de veure aquell incendi!
 
-![acte traicions falleu perque tinc](acte-traicions-falleu-perque-tinc.webp)
+![acte traicions falleu perque tinc]({{ '/diari/capitol03/acte16/acte-traicions-falleu-perque-tinc.webp' | relative_url }})
 
 Aquella mateixa tarda, Bruto, la mà dreta d’en Kinnehan, ens acompanyà al primer local. El magatzem era un edifici discret, aparentment abandonat. Però quan vam examinar-lo amb detall, Helen es mostrà neguitosa.
 
@@ -65,7 +65,7 @@ Aquella mateixa tarda, Bruto, la mà dreta d’en Kinnehan, ens acompanyà al pr
 
 Després d’una breu discussió, en Bruto acceptà i ens demanà dues hores més. Quan tornàrem, el magatzem estava ple de barrils etiquetats, llibres de comptes i eines per a la destil·lació. Ara sí semblava un punt real de producció il·legal. Sense perdre temps, encenguérem les flames i ens esvaírem en la foscor de la nit.
 
-![acte traicions despres duna breu](acte-traicions-despres-duna-breu.webp)
+![acte traicions despres duna breu]({{ '/diari/capitol03/acte16/acte-traicions-despres-duna-breu.webp' | relative_url }})
 
 L’endemà, Kamui i jo assistírem al dinar amb els germans Pino i l’alcalde. Alina i Helen ens seguien discretament, assegudes en una altra taula, atentes a cada moviment. Quan ens veié, l’alcalde arrufà les celles amb sorpresa.
 
@@ -79,7 +79,7 @@ Demanàrem vi, i quan el cambrer ens preguntà per les nostres preferències, va
 
 Satisfets amb la meva elecció, em proposaren escollir, i vaig optar per un Pago de Carraovejas gran reserva, un vi que sabia que combinava amb qualsevol àpat de la vetllada.
 
-![acte traicions satisfets meva eleccio](acte-traicions-satisfets-meva-eleccio.webp)
+![acte traicions satisfets meva eleccio]({{ '/diari/capitol03/acte16/acte-traicions-satisfets-meva-eleccio.webp' | relative_url }})
 
 Quan arribàrem al tema dels negocis, ens revelaren que estaven planejant la compra d’uns terrenys ideals per plantar vinyes, amb la intenció d’introduir una varietat molt comuna a Itàlia. Vaig alçar una cella, intrigat.
 
@@ -101,7 +101,7 @@ L’alcalde, recolzat al respatller de la seva cadira, deixà anar una rialleta 
 
 La meva paciència arribà al límit. Vaig deixar la copa amb un cop sec sobre la taula i el vaig mirar fixament.
 
-![acte traicions meva paciencia arriba](acte-traicions-meva-paciencia-arriba.webp)
+![acte traicions meva paciencia arriba]({{ '/diari/capitol03/acte16/acte-traicions-meva-paciencia-arriba.webp' | relative_url }})
 
 —És cert, no som inversors experimentats, però tampoc tolerarem insults d’un home que no ha estat capaç de trobar ni un sol magatzem de Kinnehan a la seva pròpia ciutat. Suposo que ja n’ha sentit a parlar, oi? —Vaig fer una pausa, deixant que les meves paraules penetressin en la seva supèrbia abans de rematar—. Anit vam cremar un punt de producció de whisky a les afores.
 
@@ -119,7 +119,7 @@ Mentre es retocaven el maquillatge al lavabo del restaurant, Alina i Helen teixi
 
 Helen i Alina es miraren i, sense previ avís, la caçadora russa m’arrossegà cap a un passadís discret del bany. Amb un gest àgil, obrí una porta i, abans que pogués protestar, em va empènyer a dins.
 
-![acte traicions helen alina miraren](acte-traicions-helen-alina-miraren.webp)
+![acte traicions helen alina miraren]({{ '/diari/capitol03/acte16/acte-traicions-helen-alina-miraren.webp' | relative_url }})
 
 —Et deixo amb ella. Diverteix-te.
 
@@ -129,7 +129,7 @@ Vaig inclinar-me i li vaig mossegar la pell, assaborint el subtil amargor de la 
 
 La passió esclatà com un llampec enmig d’una tempesta. La vaig encastar contra la paret i els nostres cossos s’aferraren amb una urgència ferotge. Els meus llavis resseguiren el seu coll, assaborint-lo sense pressa, mentre els seus dits s’enfonsaven a la meva esquena, deixant el rastre d’una ànsia irreprimible. Ens desférem en un acte salvatge, sense mesura.
 
-![acte traicions passio esclata llampec](acte-traicions-passio-esclata-llampec.webp)
+![acte traicions passio esclata llampec]({{ '/diari/capitol03/acte16/acte-traicions-passio-esclata-llampec.webp' | relative_url }})
 
 Quan finalment el deliri es fongué en una respiració entretallada, ella es reclinà amb un somriure felí als llavis, el cabell despentinat i la pell encara tèbia del nostre encontre. Amb un gest pausat, tragué el pintallavis i, amb un traç sensual i segur, m’escriví sobre la pell la seva adreça.
 
@@ -155,6 +155,6 @@ Ens intercanviàrem una mirada mesurada abans de respondre amb la cautela pròpi
 
 L’alcalde assentí, amb un somriure que no aconseguia amagar del tot la seva inquietud.
 
-![acte traicions lalcalde assenti somriure](acte-traicions-lalcalde-assenti-somriure.webp)
+![acte traicions lalcalde assenti somriure]({{ '/diari/capitol03/acte16/acte-traicions-lalcalde-assenti-somriure.webp' | relative_url }})
 
 El joc de traïcions estava en marxa. I aquesta vegada, les cartes eren a les nostres mans.

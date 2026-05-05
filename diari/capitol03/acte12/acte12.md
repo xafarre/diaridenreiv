@@ -9,7 +9,7 @@ order: 12
 
 L'endemà, baixí a esmorzar a la barra del Paraíso de Eli. Però no hi havia res per menjar, només begudes. M'atengué Sofia, una senyoreta de bellesa captivadora, i demaní un licor d'herbes. Aprofití l’ocasió per preguntar-li sobre els homes de Kinnehan. Amb una actitud despreocupada, comentà que ajudaven molt al barri. Mentre conversàvem, arribà l'Alina i s'assegué al meu costat. Demanà un got de whisky, interrompent la conversa per xafardejar sobre l'origen del licor. Com que no aconseguírem gaire informació, decidírem anar a la taverna de José per esmorzar.
 
-![acte rates parlen endema baixi](acte-rates-parlen-endema-baixi.webp)
+![acte rates parlen endema baixi]({{ '/diari/capitol03/acte12/acte-rates-parlen-endema-baixi.webp' | relative_url }})
 
 A la taverna, demanàrem salsitxa amb ous, pa i hidromel per beure. En preguntar sobre Kinnehan i el whisky, el taverner es mostrà visiblement evasiu i incòmode, responent amb poques paraules. Després d’unes quantes preguntes més, remugà:
 
@@ -17,7 +17,7 @@ A la taverna, demanàrem salsitxa amb ous, pa i hidromel per beure. En preguntar
 
 I s'esmunyí cap al darrere. L'Alina, observadora com sempre, mirà sota la barra i li semblà veure unes ampolles semblants a les del whisky del Paraíso de Eli.
 
-![acte rates parlen esmunyi darrere](acte-rates-parlen-esmunyi-darrere.webp)
+![acte rates parlen esmunyi darrere]({{ '/diari/capitol03/acte12/acte-rates-parlen-esmunyi-darrere.webp' | relative_url }})
 
 L'Alina ens avisà que es transformaria en gat per espiar l'alcalde i li férem un gest perquè ens retrobéssim al Paraíso a les sis de la tarda. Mentrestant, en Gunnar, la Helen i jo decidírem anar a la comissaria.
 
@@ -41,7 +41,7 @@ Les portes del calabós es tancaren darrere nostre amb un cruixit metàl·lic. P
 
 Aquell home era fastigós. Obès i brut, amb els cabells greixosos enganxats al cap com retalls mal posats, tenia un aire d'arrogància insuportable. Però, malgrat la seva aparença, era sorprenentment obert amb nosaltres. Gaudia del joc. Preguntàrem, amb un cert to de repulsió, pel presoner que acabava de torturar. Pepe repetí que era una de les rates de Kinnehan i insistí, amb el seu somriure sinistre, que les rates no parlaven.
 
-![acte rates parlen home fastigos](acte-rates-parlen-home-fastigos.webp)
+![acte rates parlen home fastigos]({{ '/diari/capitol03/acte12/acte-rates-parlen-home-fastigos.webp' | relative_url }})
 
 Atabalàrem en Pepe amb preguntes sobre el cos policial. Ens explicà que comptaven amb uns seixanta efectius, però només deu d’ells eren de la seva màxima confiança. Ens parlà d’infiltrats a la policia i afirmà que Kinnehan tenia homes per tot arreu. L’Hugo, la seva mà dreta, era un noi jove, discret i formal, la seva afinitat amb Pepe sorprenia, atesa la seva naturalesa elegant. A més de la policia, l’alcalde disposava d’una guàrdia personal d’uns deu homes.
 
@@ -49,15 +49,15 @@ Pel que fa a l’organització que perseguíem, feia tres anys que controlaven l
 
 Mentre reflexionava sobre les nostres possibilitats i la urgència de treure informació, em vingué al cap un pla. Amb un somriure astut, proposí a en Pepe que ens deixés treure el presoner fent-lo passar per mort; si ens guanyàvem la seva confiança, potser aconseguiríem fer-lo parlar. Pepe, rient amb la seva veu aspre, acceptà. Digué que el desgraciat probablement ja era a les últimes, però ens donà via lliure: tant si parlava com si no, la nostra tasca seria tirar-lo al riu quan acabéssim.
 
-![acte rates parlen reflexionava possibilitats](acte-rates-parlen-reflexionava-possibilitats.webp)
+![acte rates parlen reflexionava possibilitats]({{ '/diari/capitol03/acte12/acte-rates-parlen-reflexionava-possibilitats.webp' | relative_url }})
 
 Dos guàrdies ens escortaren fins a la sala. En Gunnar s'agenollà davant del presoner, li examinà els ulls mig tancats i, amb veu ferma, declarà davant els guàrdies que era mort. Ho feu tan bé que fins i tot jo gairebé cregué que el presoner havia exhalat el seu últim alè.
 
-![acte rates parlen guardies escortaren](acte-rates-parlen-guardies-escortaren.webp)
+![acte rates parlen guardies escortaren]({{ '/diari/capitol03/acte12/acte-rates-parlen-guardies-escortaren.webp' | relative_url }})
 
 Embolicàrem el cos amb una tela i el traguérem fora, on en Cedric i en Kamui ja ens esperaven amb una carreta.
 
-![acte rates parlen embolicarem tela](acte-rates-parlen-embolicarem-tela.webp)
+![acte rates parlen embolicarem tela]({{ '/diari/capitol03/acte12/acte-rates-parlen-embolicarem-tela.webp' | relative_url }})
 
 Mentre ens dirigíem al Paraíso de Eli, una tensió estranya pesava en l'ambient. Aquest presoner podria tenir les respostes que buscàvem, però les seves ferides eren tan greus que dubtàvem que sobrevisqués fins a l'alba. En arribar, en Kamui demanà a l'Eli si tenia un lloc discret on portar-lo. Ella sospirà, visiblement farta de les nostres complicacions, però ens oferí un pis franc, amb la condició que no li causéssim més problemes.
 
@@ -67,7 +67,7 @@ Ajudàrem l’home a recuperar-se, però sabíem que el preu a pagar era alt: un
 
 L’Eli, angoixada i molesta, ens informà que hi havia un hospital al barri, però que era millor que anéssim al barri noble. Hi anaren tots excepte en Kamui i jo. Per si feia falta, li deixí 800 monedes a en Gunnar.
 
-![acte rates parlen leli angoixada](acte-rates-parlen-leli-angoixada.webp)
+![acte rates parlen leli angoixada]({{ '/diari/capitol03/acte12/acte-rates-parlen-leli-angoixada.webp' | relative_url }})
 
 A l’hospital noble, els oferiren un tractament per 1500 monedes, però els molt garrepes decidiren retornar al barri pobre. Allí, un metge amb un aire esgotat i potser massa aficionat a la beguda els atengué.
 
@@ -75,6 +75,6 @@ A l’hospital noble, els oferiren un tractament per 1500 monedes, però els mol
 
 Malgrat l’escassa confiança que inspirava, en Gunnar accedí a l’operació. En Cedric i la Helen esperaren durant hores fins que el metge aparegué per assegurar-los que tot havia anat bé, tot i que en Gunnar hauria de quedar-se ingressat tota la nit. En Cedric es quedà a fer-li companyia, mentre que la Helen tornà al pis.
 
-![acte rates parlen malgrat lescassa](acte-rates-parlen-malgrat-lescassa.webp)
+![acte rates parlen malgrat lescassa]({{ '/diari/capitol03/acte12/acte-rates-parlen-malgrat-lescassa.webp' | relative_url }})
 
 Mentrestant, al pis franc, el presoner es despertà breument. La seva veu era un fil, però aconseguí dir-nos el seu nom: Niels. Abans de tornar a caure inconscient, ens revelà que en Pepe l’havia capturat mentre traficava amb opi.

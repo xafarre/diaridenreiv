@@ -11,7 +11,7 @@ El sol s'havia post rere els murs de Magerit, deixant la ciutat submergida en un
 
 Amb veus baixes i mirades discretes, traçàrem un pla per despistar qualsevol ombra que ens seguís. Acordàrem dividir-nos en petits grups i retrobar-nos a la posada quan la nit hagués caigut. Així podríem passejar i atreure qualsevol perseguidor. L'Alina, amb un somriure maliciós, prometé seguir-nos des de les teulades, transformada en gat, per desemmascarar qui ens tenia l'ull posat. La Helen s'oferí a reservar habitacions en una posada propera, ben lluny dels nostres refugis habituals com el Paraíso de Eli. Si algú ens vigilava, no volíem que ens relacionessin amb els llocs on ja érem coneguts.
 
-![acte topada veus baixes mirades](acte-topada-veus-baixes-mirades.webp)
+![acte topada veus baixes mirades]({{ '/diari/capitol03/acte17/acte-topada-veus-baixes-mirades.webp' | relative_url }})
 
 —Anem a celebrar la nostra recompensa al Paraíso de Eli! —vaig dir amb veu alta i un somriure forçat, adreçant-me als homes del grup mentre feia un gest exagerat amb la copa, com si brindés per una victòria.
 
@@ -21,7 +21,7 @@ En Gunnar i en Kamui es dirigiren cap a la posada. L’Alina i la Helen amb la s
 
 —Has tornat —digué amb una veu suau, mentre deixava caure un xal de seda, revelant la seva pell il·luminada per la llum tènue d'una espelma.
 
-![acte topada tornat digue suau](acte-topada-tornat-digue-suau.webp)
+![acte topada tornat digue suau]({{ '/diari/capitol03/acte17/acte-topada-tornat-digue-suau.webp' | relative_url }})
 
 No intercanviàrem paraules. Ens llançàrem a una trobada intensa, més salvatge que la darrera. Una tempesta de passió aturà el temps. Les seves mans em resseguiren amb una urgència que em féu oblidar el món exterior. Durant una hora, la ciutat desaparegué. Quan la raó em tornà, recordí el pla. La Marlen intentà retenir-me.
 
@@ -43,7 +43,7 @@ Recorreguérem el barri durant una hora, amb els sentits a flor de pell. Les con
 
 *Mentrestant, l'Alina s'enfrontava a una persecució silenciosa. Un home la seguia i li exigia, amb veu tallant, que mostrés la seva forma real. Ella, encara en forma de gat, intentà comunicar-se, sospitant si ell podia ser un altre Ussur. Però no ho era. Fugí pels terrats, i l'home, sorprenentment àgil, la seguí des dels carrers. En un salt fallit, ella caigué sobre un balcó. L'home hi pujà amb determinació i li ordenà que s'aturés. L'Alina tornà a la seva forma humana i, fingint seguretat, digué que treballava per al Pepe des de feia pocs dies. L'home es presentà com a Héctor i revelà que ell serveix l’alcalde, amb la missió de seguir el mateix grup. Semblava dipositar certa confiança en l’Alina i li confessà que l’alcalde és un incompetent que no entén res, deixant-li a ell el pes de pensar i actuar. Després d’una estona parlant, havien perdut el rastre del grup i decidiren separar-se. L'Alina saltà del balcó i caigué de genolls. Alçà la mirada, però ell ja havia desaparegut.*
 
-![acte topada tornarem posada absencia](acte-topada-tornarem-posada-absencia.webp)
+![acte topada tornarem posada absencia]({{ '/diari/capitol03/acte17/acte-topada-tornarem-posada-absencia.webp' | relative_url }})
 
 Quan tornàrem a la posada, la seva absència ens inquietà. Ens repartírem per buscar-la. En Cédric esperaria a l'habitació per si tornava. En Kamui i jo anàrem cap al Paraíso de Eli, on una cambrera digué que l'Alina havia anat al bany. No hi havia rastre d'ella. En Gunnar i la Helen referen el camí sense èxit.
 
@@ -57,7 +57,7 @@ Jo, mentrestant, proví d’anar a casa de la Marlen, però només hi vaig troba
 
 Vam entrar a l’hipòdrom, i abans de buscar l’alcalde, vam decidir fer algunes apostes. El cavall de la Helen va arribar primer, i el meu va quedar segon. Després de la cursa, vam pujar a la zona VIP, on els nobles vam pagar els 200 gremials de l’entrada. En Cédric va intentar colar-se amb sigil, i quan el vaig veure, vaig iniciar una conversa amb els dos guàrdies per distreure’ls. La estratègia va funcionar, i va aconseguir passar sense problemes.
 
-![acte topada entrar lhipodrom buscar](acte-topada-entrar-lhipodrom-buscar.webp)
+![acte topada entrar lhipodrom buscar]({{ '/diari/capitol03/acte17/acte-topada-entrar-lhipodrom-buscar.webp' | relative_url }})
 
 Vam trobar-nos amb l’alcalde, acompanyat de dos senyors més, i li vam explicar el pla: preparar primer la reunió amb en Kinnehan i enviar el seu millor home per eliminar-lo amb discreció. L’acord amb en Kinnehan seria que tant ell com la nostra —falsa— autoritat portuària anessin acompanyats d’un sol guàrdia —en Bruto amb en Kinnehan, i en Gunnar amb la nostra disfressa. Vam insistir que la seguretat del nostre home era clau i que no es podia convertir en una batalla oberta. L’èxit del pla depenia de la seva col·laboració.
 
@@ -69,7 +69,7 @@ De nou al barri baix, en Kinnehan mostrà interès per aquest nou enfocament i e
 
 El pla està en marxa. Ens trobem en una posició avantatjosa, avançant cap al nostre objectiu mentre mantenim la confiança de tots dos bàndols. De fet, sigui quin sigui el resultat, sortirem guanyant: si l’HH mata en Kinnehan, l’alcalde ens lliurarà els plànols sense demora; si en Kinnehan venç l’HH, cremarem un nou local i assistirem a la festa de l’alcalde. D’alguna manera, hem aconseguit un pla gairebé perfecte, no us sembla?
 
-![acte topada esta marxa trobem](acte-topada-esta-marxa-trobem.webp)
+![acte topada esta marxa trobem]({{ '/diari/capitol03/acte17/acte-topada-esta-marxa-trobem.webp' | relative_url }})
 
 La nit cau sobre Magerit, i ens preparem al Paraíso de Eli amb els nervis a flor de pell. Decidim que jo assistiré disfressat com a autoritat portuària, mentre la resta dels companys es quedaran de guàrdia. En Gunnar i jo ens apropem a la nau, on en Bruto ens espera a la porta i ens convida a passar. A fora, en Kamui passeja a cavall pels voltants de les naus, vigilant. La Helen i en Cédric s’amaguen en una nau propera, mentre l’Alina, transformada en gat, observa des del sostre. La zona sembla immersa en una calma absoluta, però tots sabem que és una il·lusió.
 
@@ -77,10 +77,10 @@ Dins de la nau, en Kinnehan i jo comencem a parlar de negocis, mantenint el nost
 
 —Vaja, vaja, què tenim aquí! —diu l’HH amb un somriure torçat—. Autoritat portuària, li recomano que abandoni la nau ara mateix. Això no va amb vostè.
 
-![acte topada vaja tenim somriure](acte-topada-vaja-tenim-somriure.webp)
+![acte topada vaja tenim somriure]({{ '/diari/capitol03/acte17/acte-topada-vaja-tenim-somriure.webp' | relative_url }})
 
 Seguint el meu paper, em llanço a un crit de pànic i m’amago ràpidament darrere uns barrils prop de la porta principal. En Gunnar es planta al costat d’en Bruto, i junts amb en Kinnehan es preparen per enfrontar-se als tres sicaris. L’HH empunya un ganivet i, amb una agilitat aterridora, s’abalança sobre en Bruto, clavant-li el punyal al costat amb la intenció de liquidar-lo. Tot i els tres homes, sembla que l’alcalde ha complert la seva paraula evitant una guerra oberta. És una bona notícia per a nosaltres: si eliminem els tres homes aquí, encara mantenirem la confiança de tots dos líders i l’objectiu estarà més a prop.
 
 El temps sembla accelerar-se en un tres i no res. En Gunnar intenta colpejar l’HH, però falla estrepitosament. L’HH respon amb una altra punyalada ràpida i precisa. De sobte, per una porta lateral apareixen la Helen i en Cédric, i l’Alina cau del sostre transformada en mico, unint-se a la batalla. Amb la gràcia d’El Hombre Verde, invoco una benedicció per millorar les capacitats d’en Gunnar, que amb un cop veloç i certer tumba l’HH a terra. En aquell instant precís, corro cap a ell i, amb un salt espectacular i un gir aeri, activo el poder de l’Aegis, caient amb tot el meu pes i impuls sobre l’HH, colpejant-lo al cap i deixant-lo gairebé fora de combat. En Gunnar aprofita per lliurar-li un cop final, deixant-lo moribund. Sense dubtar, en Kinnehan li clava l’espasa al cor, acabant amb qualsevol rastre de vida. No vol deixar cap amenaça moribunda.
 
-![acte topada temps sembla accelerar](acte-topada-temps-sembla-accelerar.webp)
+![acte topada temps sembla accelerar]({{ '/diari/capitol03/acte17/acte-topada-temps-sembla-accelerar.webp' | relative_url }})

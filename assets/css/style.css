@@ -345,7 +345,6 @@ img {
 }
 
 .act-index ol {
-  counter-reset: act-index;
   margin: 0;
   padding: 0;
   color: var(--muted);
@@ -355,16 +354,14 @@ img {
 }
 
 .act-index li {
-  counter-increment: act-index;
   display: grid;
-  grid-template-columns: 3.8rem max-content;
+  grid-template-columns: 4.8rem max-content;
   column-gap: 0.75rem;
   align-items: baseline;
   min-width: max-content;
 }
 
-.act-index li::before {
-  content: counter(act-index, upper-roman) ".";
+.act-index li span {
   color: var(--muted);
   font-variant-numeric: tabular-nums;
   text-align: right;

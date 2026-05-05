@@ -13,7 +13,7 @@ La trobada amb dos pescadors indígenes esdevingué un gir inesperat. La meva br
 
 En un moment d’impuls, en Kamui disparà contra el líder tribal, un tret que ressonà com un tro a través del silenci de la selva. La caiguda del líder desencadenà el pànic, i els habitants del poblat es dispersaren com fulles al vent, deixant enrere només el ressò dels seus passos fugissers i una àvia, capturada per en Gunnar.
 
-![acte vall lombra moment dimpuls](acte-vall-lombra-moment-dimpuls.webp)
+![acte vall lombra moment dimpuls]({{ '/diari/capitol01/acte02/acte-vall-lombra-moment-dimpuls.webp' | relative_url }})
 
 Durant l'interrogatori, descobrírem que el riu ens portaria a la cova oculta darrere de la cascada—la Trula Masala. Era el destí que es complís la nostra missió. Amb aquesta nova informació, ens preparàrem per a la següent etapa de la nostra recerca, amb els ulls fixats en el premi que ens esperava, però amb els cors pesats pel preu pagat.
 
@@ -21,7 +21,7 @@ Als límits verges de l’illa, ens endinsàrem en les venes del riu de Viladrau
 
 La nit caigué com un teló i amb ella, una emboscada. La lluna fou testimoni del nostre combat contra trenta guerrers indígenes. Juntament amb els meus companys, repel·lírem l'atac amb una força que no sabia que teníem. Els captius, en un gir tràgic, foren sacrificats per prevenir represàlies. Només quedaren dos joves amb els ulls plens de secrets que no volien compartir.
 
-![acte vall lombra caigue telo](acte-vall-lombra-caigue-telo.webp)
+![acte vall lombra caigue telo]({{ '/diari/capitol01/acte02/acte-vall-lombra-caigue-telo.webp' | relative_url }})
 
 L'alba ens trobà incansables i la nostra cerca ens conduí a una cascada imponent. Era una meravella de la natura, les seves aigües queien amb una força que em feia sentir petit. Dins el clamor de l’aigua, trobàrem l’entrada secreta de la cova. L’Alina, amb la seva visió aguda, descobrí vestigis d'un passat oblidat i compartí la troballa amb Gunnar, que corregué a informar la resta del grup.
 

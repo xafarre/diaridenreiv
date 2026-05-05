@@ -11,7 +11,7 @@ La nit s’havia tornat espessa com la sang vessada, i el silenci de la nau, aba
 
 Alhora, per la porta del darrere, en Kamui, amb la seva armadura Dracheneisen brillant sota la llum tènue, es disposava a barrar el pas a un altre grup. Trenta homes més, però aquests no eren policies, sinó gent del barri baix, aliats d’en Kinnehan. Amb la seva entrada, la tensió a la nau s’equilibrà, com si els déus mateixos haguessin llançat els daus per donar-nos una nova oportunitat.
 
-![acte sembrant caos alhora porta](acte-sembrant-caos-alhora-porta.webp)
+![acte sembrant caos alhora porta]({{ '/diari/capitol03/acte18/acte-sembrant-caos-alhora-porta.webp' | relative_url }})
 
 En un instant de distracció, en Pepe es girà i fugí per la porta principal, deixant els seus homes bloquejant-nos el pas. Sense pensar-ho dues vegades, vaig cridar amb tota la força dels meus pulmons:
 
@@ -21,7 +21,7 @@ I, amb el cor bategant com un tambor de guerra, vaig córrer per la porta latera
 
 La Helen, en Cedric i en Günnar s’enfrontaren als homes d’en Pepe a l’entrada principal. Els cops d’espasa ressonaven com un cor de ferro. En Günnar, però, aconseguí obrir-se pas i s’uní a mi en la persecució. La ciutat, amb els seus carrers estrets i carrerons tortuosos, esdevingué un laberint on en Pepe jugava amb avantatge. Coneixia cada pedra, cada ombra, i posava obstacles al nostre pas. La cursa era èpica, com si fóssim herois d’una antiga balada, però la distància no cedia.
 
-![acte sembrant caos helen cedric](acte-sembrant-caos-helen-cedric.webp)
+![acte sembrant caos helen cedric]({{ '/diari/capitol03/acte18/acte-sembrant-caos-helen-cedric.webp' | relative_url }})
 
 Confiant en la força d’en Günnar, vaig decidir tornar a la nau: vèncer en Pepe no serviria de res si algun dels seus homes sobrevivia per explicar-ho. Vaig tornar, amb el cor pesant però decidit, per assegurar-me que la nostra missió no fracassés.
 
@@ -37,7 +37,7 @@ Confiant en la força d’en Günnar, vaig decidir tornar a la nau: vèncer en P
 
 **
 
-![acte sembrant caos gunnar torna](acte-sembrant-caos-gunnar-torna.webp)
+![acte sembrant caos gunnar torna]({{ '/diari/capitol03/acte18/acte-sembrant-caos-gunnar-torna.webp' | relative_url }})
 
 Quan en Günnar tornà a la nau, ens reunírem, exhausts però vius. Cap policia, excepte en Pepe, havia escapat. Tot i això, el nostre pla s’havia torçat: era qüestió d’hores que en Pepe informés l’alcalde. La Helen i en Günnar, amb els ulls encesos per la determinació, proposaren un pla agosarat: assaltar la casa de l’alcalde per aconseguir els plànols abans que fos massa tard. En Kinnehan, amb un somriure astut, s’hi uní, parlant d’un cop d’estat. Nosaltres entraríem primer, amb l’Alina, transformada en animal, vigilant desde dins. Si les coses es complicaven, en Kinnehan i els seus homes ens donarien suport.
 
@@ -59,7 +59,7 @@ L’alcalde, furiós, replicà:
 
 —S’equivoca —replicà la Helen, amb un somriure desafiant—. Ja som a dins!!
 
-![acte sembrant caos sequivoca replica](acte-sembrant-caos-sequivoca-replica.webp)
+![acte sembrant caos sequivoca replica]({{ '/diari/capitol03/acte18/acte-sembrant-caos-sequivoca-replica.webp' | relative_url }})
 
 En aquell instant, un crit tallà l’aire. L’Alina, transformada en mico, caigué de la teulada sobre el balcó, amb un ganivet lluent a la mà. Agafà l’alcalde pel coll i, amb un moviment ràpid, el llançà al buit. L’alcalde s’estavellà al jardí, amb l’Alina sobre seu, com una deessa venjativa. Els guàrdies, sorpresos, ens apuntaren amb els trabucs, però l’Antonella corregué cap a l’Alina i, juntes, agafaren l’alcalde com a ostatge.
 
@@ -71,7 +71,7 @@ Mentrestant, al jardí, en Pepe, sense paciència i amb els ulls encesos per la 
 
 En Kamui, amb la seva armadura Dracheneisen resplendent, la Helen, amb la seva capa vermella onejant com una flama, i en Cedric, amb la seva espasa àgil, enfrontaven la resta de policies al nostre voltant, mantenint a ratlla els seus trabucs i espases. Finalment, en Pepe, afeblit però mai vençut en esperit, caigué sota un cop precís d’en Günnar, i els seus homes, desmoralitzats, es rendiren, derrotats, sota el pes de la nostra determinació.
 
-![acte sembrant caos kamui armadura](acte-sembrant-caos-kamui-armadura.webp)
+![acte sembrant caos kamui armadura]({{ '/diari/capitol03/acte18/acte-sembrant-caos-kamui-armadura.webp' | relative_url }})
 
 Poc després, els homes d’en Kinnehan entraren a la casa, acompanyats d’una dona amb una presència imponent: la Grace Kinnehan. Més poderosa que el mateix Thomas, la seva bellesa era tan captivadora com temible. Ens felicità per l’operació, ens agraí amb paraules que ressonaven amb autoritat i ens oferí primers auxilis.
 
@@ -81,7 +81,7 @@ Tot havia sortit bé, però el cos encara em tremolava. L’alegria d’haver tr
 
 —Estic feliç que tot hagi sortit bé —vaig murmurar, amb la veu plena d’un alleujament profund.
 
-![acte sembrant caos estic felic](acte-sembrant-caos-estic-felic.webp)
+![acte sembrant caos estic felic]({{ '/diari/capitol03/acte18/acte-sembrant-caos-estic-felic.webp' | relative_url }})
 
 Vam marxar cap al Paraíso de Eli, amb els plànols a les mans i el cor ple d’orgull. Quan arribàrem, el bar esclatà en una celebració vibrant: les notícies de la nostra gesta havien volat com la pólvora. La Eli, amb crit alegre, exigí que ens convidessin a tots a una ronda de begudes. Alguns companys, amb les marques de la batalla encara visibles en la roba i la pell, preferiren rentar-se abans de sumar-se a l’alegria. Poc a poc, tothom anà marxant cap a les habitacions, exhausts però satisfets. Jo, però, em quedí al bar amb la meva amiga Sofia. Li preguntí si havia pensat en l’oferta que li havia fet, i ella, amb una mirada serena, respongué que sí, però que creia que era millor quedar-se a Magerit amb la seva família. A més, afegí amb esperança, la caiguda de l’alcalde podria portar una vida més pròspera a la ciutat.
 
@@ -89,6 +89,6 @@ Vam marxar cap al Paraíso de Eli, amb els plànols a les mans i el cor ple d’
 
 —Reiv, d’on ha sortit un noi tan increïble? —respongué ella, amb una rialla tímida.
 
-![acte sembrant caos reiv sortit](acte-sembrant-caos-reiv-sortit.webp)
+![acte sembrant caos reiv sortit]({{ '/diari/capitol03/acte18/acte-sembrant-caos-reiv-sortit.webp' | relative_url }})
 
 S’apropà més a mi i, asseguda a la meva falda, em féu mil preguntes sobre la nostra gesta i els meus orígens. Mentre li explicava les meves aventures i les terres llunyanes del nord, els seus ulls s’anaren tancant, i caigué en un son profund, rendida pel cansament. Amb cura, com si fos una princesa d’una antiga balada, la vaig agafar en braços i la vaig dur al meu llit perquè descansés. La vaig deixar allà, sota la llum tènue de la posada, amb el cor ple d’una tendresa que contrastava amb el caos que havíem sembrat aquella nit.

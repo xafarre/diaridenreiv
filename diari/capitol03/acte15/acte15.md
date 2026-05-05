@@ -9,13 +9,13 @@ order: 15
 
 L’endemà al matí, el sol lluïa amb una claror ingènua que contrastava amb les ombres que s’allargaven sobre Magerit. La nostra trobada amb en Kinnehan era imminent, però en Gunnar es negava rotundament a entrar desarmat i en desigualtat de condicions. La seva desconfiança era justificada, i tots compartíem la sensació que aquella aliança era tan inestable com una espasa sobre un fil de seda.
 
-![acte xiii assalt lajuntament lendema](acte-xiii-assalt-lajuntament-lendema.webp)
+![acte xiii assalt lajuntament lendema]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-lendema.webp' | relative_url }})
 
 Decidírem adoptar una estratègia prudent. Alina i Eryn entraren primer a l’establiment per esmorzar. Elles no eren cares conegudes per la màfia, així que podrien vigilar la situació des de dins sense aixecar sospites. Jo, en canvi, em vaig endinsar en solitari cap a la reunió amb en Thomas Kinnehan. Els seus homes m’observaren amb ulls gèlids quan vaig travessar la sala, però ell m’esperava amb una expressió de calculada paciència. Li exposí la nostra situació i les reticències d’en Gunnar. Amb un somriure sec, en Kinnehan es posà dempeus i sortí a buscar-los en persona. Quan retornà, en Gunnar i la resta l’acompanyaven, finalment convençuts que no hi havia trampa, o si més no, que la trampa no es tancaria de seguida.
 
 Durant la conversa, la Helen prengué la iniciativa i, amb un gest sincer, es decidí a compartir tot el que sabíem i buscàvem. En Kinnehan, lluny de molestar-se, es mostrà intrigat. Va escoltar amb interès cada paraula, amb els dits tamborinant sobre la taula de fusta massissa. Quan la Helen acabà de parlar, un lleu somriure es dibuixà als seus llavis.
 
-![acte xiii assalt lajuntament conversa](acte-xiii-assalt-lajuntament-conversa.webp)
+![acte xiii assalt lajuntament conversa]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-conversa.webp' | relative_url }})
 
 —Us faré una oferta —digué, recollint la seva copa i observant el líquid daurat amb deteniment—. Atemptarem junts contra l’ajuntament. Us donaré els plànols que cerqueu i ens endurem la culpa de l’atac. Però hi ha una condició: en el moment que tingueu els plànols, desapareixereu de Magerit.
 
@@ -31,19 +31,19 @@ Kamui, amb la seva presència imponent, intentà conduir la conversa cap al nego
 
 Antonella veié l’oportunitat d’enfocar la situació d’una altra manera. Amb un somriure enigmàtic, s’oferí a tirar les cartes a un dels germans que acceptà, potser per curiositat o per simple entreteniment. Quan la primera carta es girà sobre la taula, els seus ulls s’obriren lleument, i la respiració es féu més pausada. Antonella detectà en ell un canvi subtil, una obertura inesperada.
 
-![acte xiii assalt lajuntament antonella](acte-xiii-assalt-lajuntament-antonella.webp)
+![acte xiii assalt lajuntament antonella]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-antonella.webp' | relative_url }})
 
 Les cartes revelaren que els germans Pino estaven implicats en el negoci del rom de l’alcalde. Impressionats per l’encert d’Antonella, acabaren cedint i convidaren Kamui el dimarts següent per parlar amb l’alcalde, qui en aquells moments es trobava fora de la ciutat. Amb aquesta nova informació, Antonella i Kamui abandonaren el restaurant. Havien trobat una possible escletxa per infiltrar-se en els negocis de l’alcalde.
 
 Quan caigué la nit, el grup es reuní davant el bar Budo, disposat a iniciar l’atemptat.
 
-![acte xiii assalt lajuntament caigue](acte-xiii-assalt-lajuntament-caigue.webp)
+![acte xiii assalt lajuntament caigue]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-caigue.webp' | relative_url }})
 
 Fora del mur, dues parelles de guàrdies vigilaven l’entrada de l’ajuntament, inconscients del perill imminent. Amb moviments precisos i coordinats, cada grup s’encarregà d’eliminar una parella de manera sigil·losa, evitant aixecar cap sospita. Un cop neutralitzats, ens apropàrem a la finestra del darrere, que, tal com havia promès en Kinnehan, restava oberta, donant accés directe al despatx de l’ajuntament.
 
 Però la sort ens jugà una mala passada. En intentar enfilar-se, Kamui féu massa soroll, alertant un dels guàrdies apostats a la porta. Aquest obrí de cop i entrà al despatx, però Kamui, sense dubtar-ho, li disparà a boca de canó, destrossant-li el crani en un instant. El segon guàrdia, testimoni de la brutal execució, sortí corrent per donar la veu d’alarma. Alina disparà per aturar-lo, però errà el tret. Gunnar aconseguí ferir-lo, però fou Helen qui, amb una puntada de peu calculada, el féu rodolar escales avall. El cop final contra la pedra posà fi a la seva fugida.
 
-![acte xiii assalt lajuntament sort](acte-xiii-assalt-lajuntament-sort.webp)
+![acte xiii assalt lajuntament sort]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-sort.webp' | relative_url }})
 
 Mentrestant, Kinnehan aprofità la confusió per fer esclatar la caixa forta. El fum i l’olor de pólvora ompliren l’estança mentre ell omplia ràpidament una bossa amb els documents. Alina, veient la situació, es transformà en gat i, aprofitant la densitat del fum, saltà per la finestra per seguir-lo sense ser detectada. Antonella intentà fer el mateix, però aterrà malament i es torçà el turmell. Kamui, que saltà just després, no tingué més sort: caigué com un pes mort i es també es torçà el peu.
 
@@ -63,6 +63,6 @@ Quan la resta del grup va arribar, Kinnehan abocà el contingut de la bossa sobr
 
 Els nostres cors es van enfonsar. Els documents consistien en un mapa de les inundacions de la ciutat i un altre de rutes marítimes. Res que pogués ser útil per a la nostra missió, res que pogués satisfer les demandes d’Alarick. Ens haviem jugat la vida per informació que no ens servia de res.
 
-![acte xiii assalt lajuntament cors](acte-xiii-assalt-lajuntament-cors.webp)
+![acte xiii assalt lajuntament cors]({{ '/diari/capitol03/acte15/acte-xiii-assalt-lajuntament-cors.webp' | relative_url }})
 
 Un silenci espès s’instal·là entre nosaltres mentre ens miràvem amb expressions de desconcert i frustració. En aquell moment, el pes de la incertesa ens va caure a sobre com un mur de pedra. Què faríem ara?

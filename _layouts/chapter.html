@@ -30,7 +30,10 @@ layout: default
       <h2>Actes</h2>
       <ol>
         {% for act in acts %}
-          <li><a href="#act-{{ act.order }}">{{ act.title }}</a></li>
+          <li>
+            <span>{% if act.label %}{{ act.label }}{% else %}Acte {{ act.order }}{% endif %}</span>
+            <a href="#act-{{ act.order }}">{{ act.title }}</a>
+          </li>
         {% endfor %}
       </ol>
     </nav>

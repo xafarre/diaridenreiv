@@ -9,13 +9,13 @@ order: 4
 
 Ens endinsàrem a través de la porta en la penombra d'una antiga església Theana, abandonada i oblidada pel pas del temps. Bancs de fusta desgastats es dispersaven pel recinte, testimonis silenciosos d’una època passada. Hi havia dues portes laterals, tancades. Al fons, una imponent estàtua de marbre mostrava una verge amb els braços plegats, dominant l'espai amb una presència majestuosa. Una llàgrima de sang lluïa per la seva galta, com si plorés per les ànimes perdudes. Al pedestal, una inscripció en llengua antiga cridà la nostra atenció: “Ἀεὶ ὁ θεὸς γεωμετρεῖ.”
 
-![acte sigurd ragnarson endinsarem traves](acte-sigurd-ragnarson-endinsarem-traves.webp)
+![acte sigurd ragnarson endinsarem traves]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-endinsarem-traves.webp' | relative_url }})
 
 Davant d'ella, m'agenollí en un gest de veneració i murmuré pregàries amb desesperació. La llum tènue que s’escolava a través dels vitralls trencats banyava l’estàtua amb una aura celestial. El silenci era profund, només trencat pel so suau de les meves pròpies pregàries i el batec inquiet del meu cor. Aquí, en aquest santuari oblidat, cercava la força per enfrontar-me als perills que encara ens esperaven.
 
 Mentrestant, en Gunnar, en Kelsier i en Kamui exploraven la sala esquerra, descobrint un ampli menjador envoltat per diverses portes. Algunes es trobaven tancades, mentre altres donaven accés als dormitoris de la gent que en el seu moment va habitar aquest lloc. Al fons de la sala, una porta entreoberta revelava una cuina amb els records de festins passats, ara només restes podrides i plats oblidats pel temps.
 
-![acte sigurd ragnarson mentrestant gunnar](acte-sigurd-ragnarson-mentrestant-gunnar.webp)
+![acte sigurd ragnarson mentrestant gunnar]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-mentrestant-gunnar.webp' | relative_url }})
 
 A l’altre costat, a través de la porta de la dreta, l’Alina i l’Eryn captaren veus en castellà que ressonaven amb un esclat d’urgència.
 
@@ -31,7 +31,7 @@ La figura imponent d’un pirata es perfilà davant nostre. La seva barba negra,
 
 —Sóc en Sigurd Ragnarson —respongué ell, la seva veu ressonant com un tro entre els murs de pedra.
 
-![acte sigurd ragnarson respongue ressonant](acte-sigurd-ragnarson-respongue-ressonant.webp)
+![acte sigurd ragnarson respongue ressonant]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-respongue-ressonant.webp' | relative_url }})
 
 Amb aquesta revelació ens quedàrem immòbils. Els nostres cors bategaven amb intensitat. Sabíem que cada paraula, cada moviment, podia ser el detonant que decantaria el nostre destí cap a l’èxit o la ruïna.
 
@@ -51,11 +51,11 @@ Dient mitges veritats, intentava evitar que la conversa esdevingués contradict�
 
 Va revelar que el veritable tresor que cercava era el coneixement. Tot seguit, els seus homes ens van guiar cap a un passadís ocult darrere d'una estanteria. Un cop vam travessar el llindar, un estrèpit que va ressonar a través de la cova va destruir la sortida. A l'exterior, en Sigurd, amb un moviment gairebé imperceptible, va fer que una roca massiva ocultés la cova, segellant el nostre camí de retorn. En aquell instant, la grandesa d'en Sigurd es va fer més evident que mai.
 
-![acte sigurd ragnarson revelar veritable](acte-sigurd-ragnarson-revelar-veritable.webp)
+![acte sigurd ragnarson revelar veritable]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-revelar-veritable.webp' | relative_url }})
 
 Vam fer camí de tornada cap a la costa. El trajecte seria llarg, i preveiem que ens prendria dos dies sencers. Mentre avançàvem, alguns companys intercanviaren paraules amb en Sigurd i els seus homes. Era estrany, però no percebíem cap hostilitat per part seva.
 
-![acte sigurd ragnarson cami tornada](acte-sigurd-ragnarson-cami-tornada.webp)
+![acte sigurd ragnarson cami tornada]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-cami-tornada.webp' | relative_url }})
 
 Quan el sol començà a amagar-se darrere l’horitzó, la llum s’enfosquí i la foscor ens envoltà. En Sigurd ordenà acampar i observàrem com els seus homes s’organitzaven amb una precisió i eficàcia que tan sols podia resultar d’una llarga experiència a la mar. Cada moviment, cada acció, era meticulosa, mostrant una disciplina que ens impressionava.
 
@@ -69,6 +69,6 @@ La seva ordre inesperada, però decidida, ressonà dins nostre com el pas de cen
 
 Dos dels seus homes s’acostaren a cadascun de nosaltres. L’Alina i en Kamui, amb valentia, intentaren resistir-se. En Sigurd desenfundà la seva espasa i s’acostà a mi. Instintivament, vaig alçar el meu escut, però amb un sol cop ell el féu miques, i la força del cop destrossà també la meva mà. El dolor fou indescriptible i la por m’envaí. No vaig poder fer altra cosa que cridar als companys que entreguessin les armes.
 
-![acte sigurd ragnarson homes sacostaren](acte-sigurd-ragnarson-homes-sacostaren.webp)
+![acte sigurd ragnarson homes sacostaren]({{ '/diari/capitol01/acte04/acte-sigurd-ragnarson-homes-sacostaren.webp' | relative_url }})
 
 Ens lligaren amb fermesa i ens ordenaren que anéssim a dormir sense causar més problemes. La foscor de la nit semblava més pesada ara, mentre la realitat de la nostra situació s’asserenava dins meu. Havíem de trobar una manera de sortir d’aquesta.
