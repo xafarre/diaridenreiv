@@ -19,7 +19,9 @@ layout: default
           <img src="{{ chapter.cover | relative_url }}" alt="" loading="lazy">
         {% endif %}
         <div class="chapter-card-body">
-          <p class="chapter-kicker">Capítol {{ chapter.order }}</p>
+          {% unless chapter.numbered == false or chapter.hide_chapter_chrome %}
+            <p class="chapter-kicker">Capítol {{ chapter.order }}</p>
+          {% endunless %}
           <h2>{{ chapter.title }}</h2>
           <p>{{ chapter.summary }}</p>
         </div>

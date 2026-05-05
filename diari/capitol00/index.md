@@ -8,5 +8,6 @@ summary: En un pintoresc poble costaner de Castella anomenat Valdeluna, on les o
   a traçar la...
 cover: "/diari/capitol00/acte01/poble-valdeluna.webp"
 order: 0
+numbered: false
 hide_chapter_chrome: true
 ---

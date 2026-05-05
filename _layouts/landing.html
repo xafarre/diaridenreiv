@@ -7,17 +7,17 @@ layout: default
   <img class="landing-game-logo" src="{{ '/assets/images/brand/7thseatitle.gif' | relative_url }}" alt="7th Sea">
 </section>
 
-<nav class="content-menu" aria-label="Menu de contingut">
-  <a class="menu-tile" href="{{ '/diari/' | relative_url }}">
-    <span>diari d'en Reiv</span>
-    <strong>Actes i capítols</strong>
-  </a>
-  <a class="menu-tile" href="{{ '/mon/personatges/' | relative_url }}">
-    <span>personatges</span>
-    <strong>Figures del món</strong>
-  </a>
-  <a class="menu-tile" href="{{ '/mon/naus/' | relative_url }}">
-    <span>naus</span>
-    <strong>Vaixells i llegendes</strong>
-  </a>
-</nav>
+{% assign latest_acts = site.pages | where: "type", "act" | where_exp: "act", "act.published != false" | sort: "order" | reverse %}
+
+<section class="latest-acts" aria-labelledby="latest-acts-title">
+  <h2 id="latest-acts-title">últims actes</h2>
+  <div class="latest-act-list">
+    {% for act in latest_acts limit: 3 %}
+      <a class="latest-act-card" href="{{ act.url | relative_url }}">
+        <h3>{% if act.label %}{{ act.label }}{% else %}Acte {{ act.order }}{% endif %}. {{ act.title }}</h3>
+        {% assign act_preview = act.content | strip_html | normalize_whitespace | truncatewords: 25, "" | strip %}
+        <p>{% if act_preview == "" %}En curs{% else %}{{ act_preview }}{% endif %}...</p>
+      </a>
+    {% endfor %}
+  </div>
+</section>
