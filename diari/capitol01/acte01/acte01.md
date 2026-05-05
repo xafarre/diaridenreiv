@@ -15,7 +15,9 @@ Des de la barra de la taverna, vaig observar com els primers rajos de llum es fi
 
 Amb els records de la nit anterior encara vius, vaig sortir de la taverna amb els altres viatgers. A la plaça del poble, entre mercaders i artesans, cercàrem les eines per a la nostra imminent expedició: espases brillants, escuts robustos i artefactes prometedors. Tot allò tenia l’aparença d’un mercat qualsevol, però sota el crit dels venedors i el dring dels metalls hi bategava una urgència que cap de nosaltres no gosava pronunciar massa alt.
 
-Al moll, on les onades besaven la fusta dels vaixells amb tendresa, la companyia d’Alarik Dantés ens esperava. Els mariners anaven i venien amb aquella pressa ordenada que només tenen els homes avesats al mar: cordes tibants, caixes carregades a l’espatlla, ordres breus que el vent s’enduia abans que poguessin caure a terra. En pujar a bord, vaig mirar enrere un instant. Les teulades del poble, encara humides de matinada, semblaren encongir-se darrere nostre com si ja pertanyessin a una vida anterior.
+Al moll, on les onades besaven la fusta dels vaixells amb tendresa, la companyia d’Alarik Dantés ens esperava. Els mariners anaven i venien amb aquella pressa ordenada que només tenen els homes avesats al mar: cordes tibants, caixes carregades a l’espatlla, ordres breus que el vent s’enduia abans que poguessin caure a terra. Darrere d’ells s’alçava el Corazón Sombrío, un galió de fusta tan fosca que semblava haver estat tallat d’una nit antiga. Les seves veles negres, encara recollides, penjaven dels pals com ales adormides, i la proa barroca, gastada per la sal, tenia aquella mena de bellesa severa que no promet comoditat, sinó travessia. En pujar a bord, vaig mirar enrere un instant. Les teulades del poble, encara humides de matinada, semblaren encongir-se darrere nostre com si ja pertanyessin a una vida anterior.
+
+![corazon sombrio moll]({{ '/diari/capitol01/acte01/corazon-sombrio-moll.webp' | relative_url }})
 
 Salpàrem amb la llum encara baixa, i durant les primeres hores el Setè Mar ens rebé amb una calma que em semblà gairebé desconfiada. La vela s’inflà sobre els nostres caps, la fusta gemegà sota els peus i la costa quedà reduïda a una línia pàl·lida entre la boira i el record. Alguns parlaven poc; d’altres fingien revisar armes o corretges ja revisades. Jo, incapaç d’allunyar del tot el pensament de la Luna, vaig deixar que el moviment de l’aigua em marcés el pas de les hores.
 
@@ -23,10 +25,10 @@ El nostre primer viatge ens portaria a una illa misteriosa, una terra verge on t
 
 ![illa misteriosa]({{ '/diari/capitol01/acte01/illa-misteriosa.webp' | relative_url }})
 
-Fou aleshores, mentre la caravela s’apropava a aquella costa, que una imponent figura aparegué a l’horitzó: un vaixell de casc vermell amb les veles inflades pel vent, tan roges com la sang dels valents. Era el vaixell de Sigurd Ragnarson, un nom que ressonava amb respecte i temor entre els mariners. Alonso de la Vega, el contramaestre, ens cridà amb una veu que tallà el vent:
+Fou aleshores, mentre el galió s’apropava a aquella costa, que una imponent figura aparegué a l’horitzó, mig amagada rere un illot proper: un galió de casc carmesí, amb les veles recollides i la fusta roja com la sang dels valents. Encara en desconeixíem el nom, i per això, entre nosaltres, no trigà a convertir-se en el Galió Carmesí. Era el galió de Sigurd Ragnarson, un nom que ressonava amb respecte i temor entre els mariners. Alonso de la Vega, el contramaestre, ens cridà amb una veu que tallà el vent:
 
-—Atenció, companys! Aquell és el vaixell de Ragnarson. No podem permetre que la seva tripulació trepitgi les ruïnes abans que nosaltres. La glòria i el tresor de Syrne han de ser nostres!
+—Atenció, companys! Aquell és el galió de Ragnarson. No podem permetre que la seva tripulació trepitgi les ruïnes abans que nosaltres. La glòria i el tresor de Syrne han de ser nostres!
 
-![vaixell vermell]({{ '/diari/capitol01/acte01/vaixell-vermell.webp' | relative_url }})
+![galio carmesi]({{ '/diari/capitol01/acte01/vaixell-vermell.webp' | relative_url }})
 
 Amb aquelles paraules, una nova determinació encengué els nostres cors. La calma del viatge s’esberlà com una corda massa tibada, i tot prengué de sobte una forma més clara: ja no navegàvem només cap a unes ruïnes, sinó contra uns altres homes, contra el temps i contra l’ombra d’un nom que feia abaixar la veu als mariners. La cursa per Syrne havia començat, i jo estava decidit a liderar-nos cap a la victòria.
