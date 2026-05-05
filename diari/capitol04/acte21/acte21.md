@@ -2,33 +2,68 @@
 layout: act
 type: act
 chapter: chapter04
-title: Una casa a Valdeluna
+title: Emboscada tràgica
 label: Acte XXI
 order: 21
 ---
 
-Quan arribàrem al desfilader, no poguérem evitar de somriure. Encara ens quedaven unes poques hores de camí, però l’aire ja tenia una altra mena de gust: menys pols de fugida, menys amenaça amagada entre els arbres, més promesa de sostre conegut i de cares que no ens rebrien amb arcs tensats. Valdeluna no era exactament casa meva, però començava a adquirir aquell perillós costum dels llocs que un home enyora abans d’adonar-se’n.
+—Has sentit això? —murmurà en Kamui, amb to greu.
 
-![acte xxi una casa valdeluna desfilader]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-desfilader.webp' | relative_url }})
+Vaig contenir la respiració i vaig mirar al voltant.
 
-Entràrem al poble sense grans cerimònies i ens dirigírem directament a casa d’en Johannes. Li explicàrem el percal del viatge, els bandits, els ostatges i tota aquella successió d’inconveniències que semblaven haver-nos sortit al pas amb una puntualitat gairebé professional. Ell ens escoltà amb aquella calma seva, més pròpia d’algú que rep un encàrrec de llenya que no pas d’algú a qui li porten presoners. Després ens acompanyà fins a l’ajuntament i deixàrem els captius al calabós. No li donà gaire més importància. Potser a Valdeluna, després de nosaltres, la paraula “incident” havia perdut una part del seu antic prestigi.
+—Sí… —vaig respondre.
 
-Alarik Dantès havia de tornar al cap de dos dies, de manera que aprofitàrem aquell breu respir per posar una mica d’ordre a les nostres vides. Primer anàrem al banc. Per una vegada, les notícies foren bones: els ingressos dels nobles havien estat confirmats. El director ens rebé amb una cortesia gairebé untuosa, ens demanà disculpes pels entrebancs anteriors i insistí que tot plegat formava part d’un protocol necessari per garantir la qualitat i la seguretat de l’entitat. Vaig assentir amb la dignitat que exigeixen tres mil gremials quan, finalment, decideixen reconèixer la seva legítima companyia.
+I aleshores, enmig del silenci que seguí, alguna cosa es mogué entre els arbres. Un home s’hi plantà, dret com un pal, al mig de la via. Portava caputxa i una jaqueta bruta; amb un gest de falsa cortesia, apartà la roba per mostrar un trabuc que duia a la cintura. Entre les ombres dels arbres se’ns revelaren almenys sis figures d’arquers, quiets, apuntant-nos.
 
-Amb els plebeus del grup acordàrem també la qüestió de la casa. El lloguer seria domiciliat entre els nobles: dos mil quatre-cents gremials repartits entre cinc butxaques de sang distingida i paciència limitada. A més, establírem que, de cada missió, un trenta per cent del botí es destinaria al manteniment de la casa i al pagament de les rendes. Era una decisió assenyada, i precisament per això em sorprengué que sortís de nosaltres amb tanta facilitat.
+![acte xxi emboscada tràgica bandit trabuc arquers]({{ '/diari/capitol04/acte21/acte-xxi-emboscada-bandit-trabuc-arquers.webp' | relative_url }})
 
-Després anàrem al Kraken. La gent ens reconegué de seguida i celebrà la nostra tornada amb aquella alegria franca dels qui encara no han hagut de pagar les conseqüències de les teves decisions. Ens convidaren a la primera ronda, i nosaltres, generosos com prínceps en vigília de ruïna, obrírem un parell d’ampolles de whisky de Magerit perquè tothom en tastés. La beguda fou rebuda amb entusiasme, i ben aviat començaren les bromes sobre iniciar-ne el comerç a Valdeluna. He vist empreses més absurdes néixer amb menys aplaudiments.
+—Bon dia a tothom! —cridà l’home—. Vaja, veig que heu tocat el nostre arbre. Us haurem de fer pagar.
 
-![acte xxi una casa valdeluna kraken]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-kraken.webp' | relative_url }})
+—Bon dia, senyor. És aquest el seu arbre? Me n’alegro —li responguí amb to de falsa ingenuïtat—. Ja se’l pot endur a casa.
 
-També parlàrem amb el propietari de la casa, que d’entrada es mostrà ofès per la nostra desaparició. No el podia culpar del tot: havíem promès interès i havíem respost amb absència. Tanmateix, una mica de whisky, quatre històries ben servides de Magerit i el primer pagament tingueren l’efecte balsàmic que sovint no aconsegueixen ni les disculpes més sinceres. Acceptà que la resta quedés domiciliada i ens prometé que l’endemà, a primera hora, ens lliuraria tres còpies de les claus. També procuraria tenir els llits llestos. Amb això resolt, la festa continuà fins que la nit començà a confondre brindis amb sentències.
+La seva rialla fou curta.
 
-L’endemà, la casa ens esperava en ordre. Encara li mancava aquella pàtina que només donen l’ús, les discussions i algun moble adquirit amb criteri dubtós, però ja era nostra en tot allò que importava. Decidírem separar-nos per fer gestions personals. Jo aní al ferrer, on comprí un conjunt d’escut i espasa que em cridà l’atenció des del primer moment. L’espasa era d’acer negre, amb detalls blancs com marfil polit; tenia una aparença severa, gairebé cerimonial, però el tall prometia més que ornament. L’escut, de fusta reforçada amb acer negre, semblava fet per resistir no pas cops, sinó opinions.
+—Sembla que no entens bé la situació, jove. Els meus homes us apunten amb arcs. Si no voleu prendre mal, deixeu que ens enduguem el carro i les vostres armes.
 
-Mentre provava l’espasa, entrà en Kamui. Li demaní que colpegés l’escut amb tota la seva força. Ho feu sense gaire necessitat de convèncer-lo, i el cop ressonà dins la ferreria com si algú hagués tancat una porta al rostre del destí. L’aturí. Miràrem tots dos la superfície. Ni una marca. Ni una esquerda. Res. Vaig contenir el somriure amb una dignitat que, confesso, no sentia del tot. Aquell escut era increïble.
+—Em podria dir el seu nom, senyor? —vaig demanar.
 
-![acte xxi una casa valdeluna escut]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-escut.webp' | relative_url }})
+—No és de la teva incumbència. Aparteu-vos del carro.
 
-Finalment, visití la costurera, a qui havia deixat la jaqueta perquè me la reparés. Me la retornà en un estat impecable. Havia reforçat les costures, netejat la tela, polit i curat les cintes de pell, i afegit petits detalls que elevaven encara més la noblesa de la peça sense convertir-la en una fanfarronada. Me la vaig posar amb discreció, que és la forma més refinada de la vanitat quan un sap que la peça parla prou bé tota sola.
+—Senyor “no és de la teva incumbència”, li ofereixo dues formes de pagament: cent gremials en metàl·lic, o tres hòsties amb la mà oberta.
 
-![acte xxi una casa valdeluna jaqueta]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-jaqueta.webp' | relative_url }})
+—Apunteu! —ordenà l’home.
+
+—D’acord, tres hòsties amb la mà oberta.
+
+La tensió es trencà com una corda massa estirada.
+
+—Dispareu! —ordenà llavors.
+
+Els arcs es tensaren; aquell instant que precedeix la mort s’allargà com una ombra. En Kamui, mestre dels tirs ràpids, no perdé el temps: apuntà i disparà. El tret impactà el que semblava cap de la banda; el seu crit fou curt i la sang tenyí la camisa a l’espatlla. Era una ferida greu, però no letal.
+
+La Helen s’hi llançà sense vacil·lar. La seva espasa dansà entre ombres i tirs; jo, recolzant la mà sobre el tronc, vaig fer una tombarella que em deixà dempeus i llest, com qui s’aixeca per entrar a la cursa.
+
+![acte xxi emboscada tràgica helen reiv tronc]({{ '/diari/capitol04/acte21/acte-xxi-emboscada-helen-reiv-tronc.webp' | relative_url }})
+
+
+—Ara! —cridà la Helen.
+
+I m’hi aboquí.
+
+En aquell moment en Günnar s’endinsà entre els arbres cap als arquers; la seva enorme figura avançava decidida entre branques, fum i crits. La lluita fou ferotge: força contra destresa, ordre contra improvització.
+
+![acte xxi günnar arquers bosc]({{ '/diari/capitol04/acte21/acte-xxi-gunnar-arquers-bosc.webp' | relative_url }})
+
+Durant una pausa breu jo cridí al cap:
+
+—Senyor, li aconsello deixar-ho aquí, abans no prenguin un mal irreparable.
+
+No em respongué. I aleshores, del bosc, en sortiren quatre més. La proporció canvià, i el camí mateix semblà fer-se més estret. La Helen em cridà mentre combatia: algú remenava el carro. S’hi aproximà i descobrí una noia jove, nerviosa, regirant cofres amb els plànols a la mà. Sense pensar, la Helen apuntà.
+
+—Alto! Deixa els papers!
+
+La por tanca les oïdes; la noia no s’aturà. La Helen disparà. El tret fou net i encertà al cap; la noia caigué immòbil.
+
+![acte xxi helen xoc dins carro]({{ '/diari/capitol04/acte21/acte-xxi-helen-xoc-dins-carro.webp' | relative_url }})
+
+La Helen restà paralitzada, el món li trencà la respiració en un instant: l’impacte, el silenci, la incredulitat.
