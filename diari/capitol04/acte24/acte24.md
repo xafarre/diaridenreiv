@@ -2,43 +2,55 @@
 layout: act
 type: act
 chapter: chapter04
-title: Naufragi a l’illa syrne
+title: La Perla de Valdeluna
 label: Acte XXIV
 order: 24
 ---
 
-El trajecte començà amb una normalitat gairebé sospitosa. Durant tres nits navegàrem sense més sobresalts que el cruixir de la fusta, el gemec de les cordes i aquella conversa constant entre el mar i el casc que, al principi, sembla música i, al cap d’unes hores, ja és simplement part del pensament. La Gavina Coqueta avançava amb dignitat modesta, i nosaltres començàvem a acostumar-nos a la idea que, potser, per una vegada, el camí cap al perill no havia de ser ell mateix un perill.
+Decidírem separar-nos per fer gestions personals. Jo aní al ferrer, on comprí un conjunt d’escut i espasa que em cridà l’atenció des del primer moment. L’espasa era d’acer negre, amb detalls blancs com marfil polit; tenia una aparença severa, gairebé cerimonial, però el tall prometia més que ornament. L’escut, de fusta reforçada amb acer negre, semblava fet per resistir no pas cops, sinó opinions.
 
-La primera escala fou en una illa intermèdia, situada encara dins la ruta cap a la nostra destinació final. Hi baixàrem per carregar provisions i completar allò que el vaixell, per mida i prudència, no havia pogut dur en excés des de Valdeluna. L’indret no tenia res d’extraordinari a primer cop d’ull: un petit port, gent avesada a veure cares de pas i aquella olor barreja de sal, fruita madura i fusta humida que tenen les illes quan encara no han decidit si volen ser refugi o trampa.
+Mentre provava l’espasa, entrà en Kamui. Li demaní que colpegés l’escut amb tota la seva força. Ho feu sense gaire necessitat de convèncer-lo, i el cop ressonà dins la ferreria com si algú hagués tancat una porta al rostre del destí. L’aturí. Miràrem tots dos la superfície. Ni una marca. Ni una esquerda. Res. Vaig contenir el somriure amb una dignitat que, confesso, no sentia del tot. Aquell escut era increïble.
 
-Fou allí on coneguérem en Pablo Pato. Era un home baixet i grassonet, amb ulleres i una actitud tan introvertida que semblava voler ocupar menys espai del que el seu cos ja ocupava. Parlava d’una manera estranya, gairebé ximple, com si cada frase hagués d’ensopegar abans d’arribar a port; però sota aquella aparença hi havia alguna cosa que no encaixava amb la simple estupidesa. Sabia massa de plantes, d’arrels, de fulles, de terres i d’humitats. Quan parlava de natura, la seva veu perdia part de la vacil·lació i guanyava una precisió que feia difícil burlar-se’n sense sentir-se injust.
+![acte xxiv ferreria escut kamui]({{ '/diari/capitol04/acte24/acte-xxiv-ferreria-escut-kamui.webp' | relative_url }})
 
-Ens demanà unir-se a l’expedició. Havia sentit rumors sobre l’illa que cercàvem: plantes exòtiques, espècies rares, flora desconeguda en una terra que cap savi decent havia trepitjat amb llibreta i paciència. Volia estudiar-la. No vaig poder evitar pensar que, si nosaltres hi anàvem perseguint ruïnes syrne i artefactes impossibles, ell hi anava perseguint fulles. Tothom té la seva forma de follia. Acceptàrem que ens acompanyés.
+Finalment, visití la costurera, a qui havia deixat la jaqueta perquè me la reparés. Me la retornà en un estat impecable. Havia reforçat les costures, netejat la tela, polit i curat les cintes de pell, i afegit petits detalls que elevaven encara més la noblesa de la peça sense convertir-la en una fanfarronada. Me la vaig posar amb discreció, que és la forma més refinada de la vanitat quan un sap que la peça parla prou bé tota sola.
 
-Reprenguérem el viatge cap al nord. Passaren quatre o cinc nits més de navegació abans que la silueta de l’illa objectiu comencés a insinuar-se a la llunyania. No era encara una presència clara, sinó una taca fosca al límit del món, prou propera per despertar esperances i prou llunyana per recordar-nos que el mar encara tenia veu en la conversa.
+![acte xxiv la perla de valdeluna jaqueta]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-jaqueta.webp' | relative_url }})
 
-Aleshores les veiérem. Primer semblaren ondulacions estranyes, moviments massa ràpids sota la superfície. Després emergiren amb una elegància terrible: serps marines enormes, llargues com malsons, que avançaven cap al vaixell amb una agilitat impròpia de criatures d’aquella mida. La tripulació cridà ordres, els mercenaris corregueren a les posicions i els canons començaren a carregar-se amb una pressa que ja naixia tard.
+Quan el sol s’amagà darrere els turons, la llum de Valdeluna prengué aquell daurat trist que tenen les ciutats quan el dia no vol acabar de morir. Caminí pels carrerons empedrats sense pressa, deixant enrere el brogit més franc de les tavernes i les finestres obertes, fins que arribí davant La Perla, el prostíbul més refinat i discret del poble. El rètol, tallat en fusta i daurat pel temps, oscil·lava suaument amb el vent, com si saludés només aquells que ja sabien què hi cercaven.
 
-Intentàrem atacar-les des de coberta. Les armes de foc esclataren amb més fum que encert, les fletxes xiularen damunt les ones i els canons, pobres gegants lents, demostraren que hi ha enemics que no tenen la cortesia d’esperar la teva punteria. Les serps esquivaven els tirs amb moviments sobtats, tallant l’aigua i desapareixent just abans que el ferro les trobés.
+![acte xxiv la perla exterior capvespre]({{ '/diari/capitol04/acte24/acte-xxiv-la-perla-exterior-capvespre.webp' | relative_url }})
 
-Finalment arribaren al vaixell. Una d’elles saltà amb una força brutal i s’enroscà al màstil, que gemegà sota aquella pressió com si fos un os a punt de trencar-se. L’altra colpejà el casc amb una violència seca, profunda, de bèstia que no vol espantar-te, sinó enfonsar-te. Ens llançàrem contra elles amb espases, arcs i tot allò que poguérem empunyar o llançar. Però aquelles criatures eren resistents, i cada ferida semblava enfurismar-les més que no pas aturar-les.
+A l’interior, l’aire era espès i càlid, perfumat amb essències de canyella i vi dolç. Darrere el taulell, una dona madura, de cabells recollits i ulls que havien après a no sorprendre’s de res, em rebé amb un somriure tan amable com calculat.
 
-La serp del màstil començà a debilitar-se després de diversos atacs ben dirigits. Durant un instant, vaig creure que podríem vèncer. Fou una idea breu, bella i completament equivocada. L’altra serp entrà en còlera, es retirà només prou per agafar embranzida i colpejà la Gavina Coqueta amb una força monstruosa. El so que seguí no fou un cruixit, sinó una sentència. El vaixell es partí per la meitat.
+—Si voleu passar una bona estona, senyor, la porta de l’esquerra. Si preferiu prendre alguna cosa, la de la dreta.
 
-El naufragi fou inevitable. Caiguérem entre fustes, cordes, crits i escuma, amb la costa prou a prop per oferir esperança i prou lluny per exigir-nos encara un últim esforç. La major part del que portàvem s’enfonsà amb el vaixell: provisions, armes, eines i petites seguretats que, fins aquell moment, havíem tingut la ingenuïtat de considerar nostres.
+M’incliní lleugerament, amb aquella cortesia que sovint evita haver de respondre, i em decantí per la dreta.
 
-Malgrat tot, salvàrem allò que calia salvar. L’orbe arribà a la costa perquè en Kamui l’havia protegit amb una determinació que hauria fet avergonyir una muralla. També recuperàrem un barril de cervesa, d’uns cinquanta o seixanta litres, que surà fins a nosaltres amb una dignitat que cap objecte de fusta i beguda fermentada no hauria tingut dret a posseir.
+La sala era fosca i elegant, il·luminada per espelmes que tremolaven dins petites gàbies metàl·liques. Hi havia poques taules, gairebé totes disposades per a parelles, una barra curta de fusta noble i, al centre, un piano de cua que trencava la quietud amb una melodia suau. La pianista, vestida de negre, tocava amb el rostre serè, però els dits li lliscaven sobre les tecles com si cada nota li arrenqués un record que hauria preferit conservar tancat.
 
-El més important, però, fou que arribàrem tots vius a la platja. Tots: companys, mercenaris i aquell pobre Pablo Pato, que semblava més sorprès d’haver sobreviscut que no pas agraït. No hi hagué cap baixa. En aquell moment, coberts de sal, esgotats i amb les restes de la Gavina Coqueta escampades sobre les ones, aquella sola certesa pesava més que qualsevol tresor.
+![acte xxiv la perla pianista]({{ '/diari/capitol04/acte24/acte-xxiv-la-perla-pianista.webp' | relative_url }})
 
-El barril de cervesa es convertí, gairebé sense que ningú ho decidís, en un símbol. No era només una provisió rescatada de l’aigua. Era una declaració de principis. Si el mar ens havia pres el vaixell, nosaltres encara podíem brindar a la seva mala educació. Si l’illa pretenia rebre’ns com a nàufrags, nosaltres hi posaríem campament, foc i una mica de cervesa. Hi ha derrotes que no s’han de negar, però tampoc cal agenollar-s’hi.
+M’acostí a la barra i demaní vi. El primer tast fou una decepció discreta, però decepció al capdavall.
 
-Un cop a terra, prenguérem decisions amb la rapidesa que imposa la desgràcia. Demanàrem als mercenaris que construïssin un campament base, no pas una solució provisional de branques mal lligades i excuses. Necessitàvem un lloc habitable: espai per cuinar, per emmagatzemar allò que poguéssim recuperar, per descansar sense exposar-nos a qualsevol bèstia amb gana o curiositat. També calia pensar en el futur, en bots, en fusta, potser fins i tot en un nou vaixell si l’illa i el temps ens ho permetien. Però abans de fugir d’un lloc, convé sobreviure-hi.
+—No m’agrada —diguí, sense aixecar el to.
 
-Mentre el campament començava a prendre forma, el grup decidí iniciar una primera exploració. Abans de posar-nos en marxa, l’Alina prengué la iniciativa. Com a bona ussura, posseïa talents que la resta només podíem observar amb una barreja d’admiració i incomoditat. Es transformà en una serp voladora i s’enlairà per fer reconeixement aeri.
+El cambrer, que tenia l’ofici d’un home avesat a llegir més mirades que paraules, no s’ofengué. Em presentà una ampolla de Montaigne, i aquesta vegada el vi tingué cos i amargor, com una confessió feta sense ornaments.
 
-Des de l’aire, pogué estudiar la geografia de l’illa. En tornar, ens descrigué tres grans muntanyes que semblaven antics volcans adormits. Al centre hi havia un llac, i diversos rius descendien des de les muntanyes fins a trobar-lo o bé fins a morir directament al mar. L’illa, segons ella, tenia forma de pètal: estreta i punxeguda al sud, més arrodonida al nord. Una muntanya s’alçava cap al sud, una altra al nord i la tercera a l’est. El llac reposava gairebé al centre, com un ull quiet.
+—Aquest està bé. Dues copes, si us plau.
 
-Però aquella no fou l’única notícia. Durant el vol, l’Alina detectà un altre vaixell a la llunyania. S’hi apropà prou per observar-lo millor, però no tant com per oferir-se a ser observada. No sabíem si es tractava d’un perill, d’una oportunitat o d’una altra broma del destí, però la seva presència afegia una nova incògnita a una expedició que ja havia començat amb naufragi, serps marines i una esfera negra.
+A la barra hi havia tres dones assegudes, soles, cadascuna embolcallada en una mena de reserva pròpia. Cap d’elles parlava. Una, la més jove, que no devia passar dels vint-i-tres anys, em mirava amb una atenció que no semblava ni atzarosa ni impacient. Es deia Rachel, tot i que encara no ho sabia. Era fina, elegant, de cabell fosc i ulls d’ambre, i duia un vestit vermell fosc, curt i arrapat, prou suggeridor per recordar-me que fins i tot la discreció pot tenir una forma precisa.
 
-Amb aquella informació, iniciàrem la primera incursió terrestre a l’illa. Decidírem enfilar la muntanya més propera per obtenir una visió més clara del territori. Teníem un campament a mig néixer, una tripulació sense vaixell, un barril de cervesa convertit en bandera moral i una illa desconeguda davant nostre. No era exactament el començament que havíem imaginat. Però, si he après alguna cosa, és que les aventures rarament demanen permís abans de triar la seva forma.
+Amb un gest suau, llisquí una de les copes en la seva direcció. No diguí res. Només la música, la fusta de la barra i el so lleu del cristall avançant entre nosaltres.
+
+Ella s’aixecà amb gràcia i s’apropà. El seu perfum, una barreja de flors seques i vi vell, m’arribà abans que la seva veu.
+
+—No sé si he interpretat malament —digué, amb un somriure gairebé imperceptible—, o m’esteu convidant a beure amb vós.
+
+—Ho heu entès bé —responguí, mirant-la als ulls.
+
+![acte xxiv reiv rachel barra]({{ '/diari/capitol04/acte24/acte-xxiv-reiv-rachel-barra.webp' | relative_url }})
+
+S’assegué al meu costat. Els seus ulls tenien un to que cap espelma no podia imitar del tot. Parlàrem primer del vi, després del piano, i més tard de res concret, que és sovint el camí més ràpid cap a les converses que importen. La seva veu posseïa una calma hipnòtica, i el seu riure, quan finalment aparegué, trencà amb delicadesa el vel de solemnitat que cobria la sala.
+
+A cada paraula i a cada pausa, la distància entre nosaltres s’anà desfent com el vi sobre la llengua. No hauria sabut dir si la conversa era més sensual que intel·ligent o més intel·ligent que sensual, i potser hauria estat una vulgaritat intentar separar una cosa de l’altra. Dins La Perla, aquella nit, el temps deixà de comptar-se per minuts.
