@@ -1,24 +1,24 @@
 ---
 layout: world_entry
-tipus: personatge
+type: character
 title: "Reiv Anvil"
 section_label: "Personatge"
-resum: "Noble aventurer, narrador del diari i company d'una tripulació tan gloriosa com problemàtica."
+summary: "Noble aventurer, narrador del diari i company d'una tripulació tan gloriosa com problemàtica."
 back_url: "/mon/personatges/"
 order: 1
-fitxa:
-  edat: "Per determinar"
-  alcada: "Per determinar"
-  constitucio: "Per determinar"
-  procedencia: "Valdeluna, Castella"
-  cabell: "Per determinar"
-  ulls: "Per determinar"
-  pell: "Per determinar"
-  ocupacio: "Noble aventurer i cronista"
-  afiliacions:
+sheet:
+  age: "Per determinar"
+  height: "Per determinar"
+  build: "Per determinar"
+  origin: "Valdeluna, Castella"
+  hair: "Per determinar"
+  eyes: "Per determinar"
+  skin: "Per determinar"
+  occupation: "Noble aventurer i cronista"
+  affiliations:
     - "Companyia d'Alarik Dantés"
     - "Tripulació vinculada al Corazón Sombrío"
-  trets:
+  traits:
     - "Impulsiu"
     - "Lleial"
     - "Atret per la glòria"

@@ -1,9 +1,9 @@
 ---
 layout: world_entry
-tipus: nau
+type: ship
 title: "Corazón Sombrío"
 section_label: "Nau"
-resum: "Una embarcació vinculada a Alarik Dantés i a les expedicions que porten la companyia de port en port."
+summary: "Una embarcació vinculada a Alarik Dantés i a les expedicions que porten la companyia de port en port."
 back_url: "/mon/naus/"
 order: 1
 ---

@@ -1,20 +1,20 @@
-- key: edat
+- key: age
   label: Edat
-- key: alcada
+- key: height
   label: Alçada
-- key: constitucio
+- key: build
   label: Constitució
-- key: procedencia
+- key: origin
   label: Procedència
-- key: cabell
+- key: hair
   label: Cabell
-- key: ulls
+- key: eyes
   label: Ulls
-- key: pell
+- key: skin
   label: Pell
-- key: ocupacio
+- key: occupation
   label: Ocupació
-- key: afiliacions
+- key: affiliations
   label: Afiliacions
-- key: trets
+- key: traits
   label: Trets destacats

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign actes = site.pages | where: "tipus", "acte" | where: "chapter", page.slug | where_exp: "acte", "acte.published != false" | sort: "order" %}
+{% assign acts = site.pages | where: "type", "act" | where: "chapter", page.slug | where_exp: "act", "act.published != false" | sort: "order" %}
 {% assign hide_chapter_chrome = page.hide_chapter_chrome | default: false %}
 
 <article class="chapter" id="chapter-top">
@@ -15,43 +15,43 @@ layout: default
       {% if page.cover %}
         <img class="chapter-cover" src="{{ page.cover | relative_url }}" alt="">
       {% endif %}
-      <p class="chapter-kicker">Capitol {{ page.order }}</p>
+      <p class="chapter-kicker">Capítol {{ page.order }}</p>
       <h1>{{ page.title }}</h1>
-      {% if page.resum %}
-        <p class="chapter-summary">{{ page.resum }}</p>
+      {% if page.summary %}
+        <p class="chapter-summary">{{ page.summary }}</p>
       {% endif %}
     </header>
   {% endif %}
 
-  {% if actes.size > 0 and hide_chapter_chrome != true %}
+  {% if acts.size > 0 and hide_chapter_chrome != true %}
     <nav class="act-index" aria-label="Index d'actes">
       <h2>Actes</h2>
       <ol>
-        {% for acte in actes %}
-          <li><a href="#acte-{{ acte.order }}">{{ acte.title }}</a></li>
+        {% for act in acts %}
+          <li><a href="#act-{{ act.order }}">{{ act.title }}</a></li>
         {% endfor %}
       </ol>
     </nav>
   {% endif %}
 
   <div class="chapter-content">
-    {% for acte in actes %}
-      <section class="act" id="acte-{{ acte.order }}">
-        {% unless hide_chapter_chrome and actes.size == 1 %}
+    {% for act in acts %}
+      <section class="act" id="act-{{ act.order }}">
+        {% unless hide_chapter_chrome and acts.size == 1 %}
           <header class="act-heading">
-            <p>{% if acte.label %}{{ acte.label }}{% else %}Acte {{ acte.order }}{% endif %}</p>
-            <h2>{{ acte.title }}</h2>
+            <p>{% if act.label %}{{ act.label }}{% else %}Acte {{ act.order }}{% endif %}</p>
+            <h2>{{ act.title }}</h2>
           </header>
         {% endunless %}
-        {{ acte.content }}
+        {{ act.content }}
       </section>
     {% else %}
-      <p class="empty-state">Aquest capitol encara no te actes publicats.</p>
+      <p class="empty-state">Aquest capítol encara no té actes publicats.</p>
     {% endfor %}
   </div>
 </article>
 
-<nav class="floating-nav" aria-label="Navegacio de capitol">
+<nav class="floating-nav" aria-label="Navegacio de capítol">
   <a class="floating-nav-button" href="{{ '/diari/' | relative_url }}" aria-label="Tornar al diari" title="Tornar al diari">&lt;</a>
   <a class="floating-nav-button" href="#chapter-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
 </nav>

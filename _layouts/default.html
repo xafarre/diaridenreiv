@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta name="description" content="{{ page.resum | default: site.description | strip_html | normalize_whitespace }}">
+    <meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
     <header class="site-header">
       <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
-        <span>Diari</span>
-        <strong>d'en Reiv</strong>
+        <span>Cròniques del</span>
+        <strong>Setè Mar</strong>
       </a>
       <nav class="site-nav" aria-label="Navegacio principal">
-        <a href="{{ '/diari/' | relative_url }}">diari</a>
+        <a href="{{ '/diari/' | relative_url }}">diari d'en Reiv</a>
         <a href="{{ '/mon/personatges/' | relative_url }}">personatges</a>
         <a href="{{ '/mon/naus/' | relative_url }}">naus</a>
       </nav>

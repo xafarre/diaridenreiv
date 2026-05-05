@@ -6,27 +6,27 @@ layout: default
   <header class="world-heading">
     <p class="chapter-kicker">{{ page.section_label }}</p>
     <h1>{{ page.title }}</h1>
-    {% if page.resum %}
-      <p>{{ page.resum }}</p>
+    {% if page.summary %}
+      <p>{{ page.summary }}</p>
     {% endif %}
   </header>
 
-  {% if page.tipus == "personatge" and page.fitxa %}
+  {% if page.type == "character" and page.sheet %}
     <section class="character-sheet" aria-label="Fitxa de personatge">
-      {% for camp in site.data.personatge_camps %}
-        {% assign valor = page.fitxa[camp.key] %}
-        {% if valor %}
+      {% for field in site.data.character_fields %}
+        {% assign value = page.sheet[field.key] %}
+        {% if value %}
           <div class="character-field">
-            <dt>{{ camp.label }}</dt>
+            <dt>{{ field.label }}</dt>
             <dd>
-              {% if valor.first %}
+              {% if value.first %}
                 <ul>
-                  {% for item in valor %}
+                  {% for item in value %}
                     <li>{{ item }}</li>
                   {% endfor %}
                 </ul>
               {% else %}
-                {{ valor }}
+                {{ value }}
               {% endif %}
             </dd>
           </div>

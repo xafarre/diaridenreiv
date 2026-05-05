@@ -1,23 +1,23 @@
 ---
 layout: world_entry
-tipus: personatge
+type: character
 title: "Nom del personatge"
 section_label: "Personatge"
-resum: "Descripció breu per a la llista de personatges."
+summary: "Descripció breu per a la llista de personatges."
 back_url: "/mon/personatges/"
 order: 99
-fitxa:
-  edat: ""
-  alcada: ""
-  constitucio: ""
-  procedencia: ""
-  cabell: ""
-  ulls: ""
-  pell: ""
-  ocupacio: ""
-  afiliacions:
+sheet:
+  age: ""
+  height: ""
+  build: ""
+  origin: ""
+  hair: ""
+  eyes: ""
+  skin: ""
+  occupation: ""
+  affiliations:
     - ""
-  trets:
+  traits:
     - ""
 ---
 
