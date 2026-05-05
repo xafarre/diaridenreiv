@@ -316,17 +316,17 @@ La portada llistara automaticament els capitols i cada pagina de capitol llistar
 
 ## Postproduccio narrativa
 
-Les instruccions d'estil per convertir esborranys en actes literaris viuen a `.agent/reiv-postproduccio.md`.
+Les instruccions operatives per convertir esborranys en actes literaris viuen a `.agent/actions/redaccio-acte.md`, `.agent/actions/revisio-acte.md` i `.agent/globals/estil-text.md`. L'arxiu `.agent/reiv-postproduccio.md` es conserva nomes com a compatibilitat historica.
 
 Per usar-les en un xat, referencia l'arxiu al prompt:
 
 ```text
-Aplica les instruccions de .agent/reiv-postproduccio.md i transforma aquest esborrany en un fragment del Diari d'en Reiv.
+Aplica les instruccions de .agent/actions/redaccio-acte.md i transforma aquest esborrany en un fragment del Diari d'en Reiv.
 Primer fes la planificacio per paragrafs i despres redacta el text final.
 ```
 
-La guia per generar o revisar prompts d'imatge de personatges viu a `.agent/personatges-imatges.md`. Les fitxes canoniques estan separades per personatge dins `.agent/personatges/`, per carregar nomes les necessaries en cada escena. La font original es `.olddiary/personatges.pdf`.
+La guia operativa per generar o revisar prompts d'imatge viu a `.agent/actions/illustracio-acte.md` i `.agent/globals/estil-imatge.md`. Les fitxes canoniques estan separades per personatge dins `.agent/canon/personatges/`, per carregar nomes les necessaries en cada escena. L'arxiu `.agent/personatges-imatges.md` es conserva nomes com a compatibilitat historica.
 
 ```text
-Aplica .agent/personatges-imatges.md i revisa aquest prompt d'imatge perquè els personatges siguin coherents amb la biblia visual.
+Aplica .agent/actions/illustracio-acte.md i revisa aquest prompt d'imatge perquè els personatges siguin coherents amb la biblia visual.
 ```
