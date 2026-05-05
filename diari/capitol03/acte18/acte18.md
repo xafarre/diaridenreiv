@@ -1,90 +1,94 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol03
-title: Retorn a Valdeluna
+layout: act
+type: act
+chapter: chapter03
+title: Sembrant el caos
 label: Acte XVIII
 order: 18
 ---
 
-Ens llevàrem a primera hora, disposats a emprendre el camí de retorn a Valdeluna. La Grace ja tenia preparat un carro amb quatre cavalls negres com la nit i prou provisions per a tres jornades. A més, ens obsequià amb tres caixes de whisky i un sac d’opi del bo, recordant-nos amb un somriure que “la pau d’esperit també és un tresor que cal repartir”.
+La nit s’havia tornat espessa com la sang vessada, i el silenci de la nau, abans ple de promeses, s’esquinçà amb l’entrada sobtada d’en Pepe Carvallo. Vaig recordar el seu rostre, tallat per l’experiència i la duresa, quan aparegué amb trenta homes uniformats de policia. Havíem ajudat en Kinnehan a eliminar en HH, i ara, en Pepe, amb la seva perspicàcia de caçador, ho havia descobert. La situació era clara: no podíem deixar-lo marxar, però la balança ens era desfavorable.
 
-Partírem en Günnar, Kamui, Helen i jo; la resta de companys encara tenien assumptes pendents a la ciutat.
+Alhora, per la porta del darrere, en Kamui, amb la seva armadura Dracheneisen brillant sota la llum tènue, es disposava a barrar el pas a un altre grup. Trenta homes més, però aquests no eren policies, sinó gent del barri baix, aliats d’en Kinnehan. Amb la seva entrada, la tensió a la nau s’equilibrà, com si els déus mateixos haguessin llançat els daus per donar-nos una nova oportunitat.
 
-El primer dia transcorregué sense cap incident. El sol, suau i generós, ens acompanyà mentre travessàvem les àmplies planes que separen Magerit dels turons del sud. Les rodes del carro rodolaven amb un ritme constant i hipnòtic, i només el cant llunyà d’algun ocell o el bufar del vent entre els matolls trencava el silenci. A la posta, férem nit entre dues grans roques, enmig d’una immensa esplanada de blat daurat; el lloc era obert i tranquil, amb prou visibilitat per albirar qualsevol perill abans no ens sorprengués.
+![acte sembrant caos alhora porta](acte-sembrant-caos-alhora-porta.webp)
 
-![acte xviii retorn valdeluna primer](acte-xviii-retorn-valdeluna-primer.webp)
+En un instant de distracció, en Pepe es girà i fugí per la porta principal, deixant els seus homes bloquejant-nos el pas. Sense pensar-ho dues vegades, vaig cridar amb tota la força dels meus pulmons:
 
-L’endemà, a l’alba i després d’un esmorzar frugal, reprenguérem la marxa. La llum matinal, tènue i rosada, es filtrava entre núvols com si el dia dubtés a esclatar del tot. No havíem recorregut gaire quan topàrem amb una bifurcació. El camí que havia de dur-nos a Valdeluna era tallat per un arbre caigut. El tronc, d’un metre i mig de diàmetre i més de deu metres de llarg, ocupava tota la via. No semblava un accident: el tall era massa net, la caiguda massa precisa.
+—No deixeu que cap policia surti viu d’aquesta nau!
 
-Baixàrem del carro i inspeccionàrem el terreny. L’escena feia olor de trampa: potser uns bandits comuns, o pitjor encara, algú que coneixia el nostre botí i el nostre itinerari. Durant uns instants debatérem en silenci; aquella tensió muda que precedeix les decisions difícils: seguir pel desviament o desafiar el perill. Finalment, coincidírem que, si l’objectiu dels qui ens esperaven era fer-nos desviar, la millor resposta era no fer-los el joc.
+I, amb el cor bategant com un tambor de guerra, vaig córrer per la porta lateral, perseguint en Pepe sota la nit freda i traïdora.
 
-![acte xviii retorn valdeluna baixarem](acte-xviii-retorn-valdeluna-baixarem.webp)
+La Helen, en Cedric i en Günnar s’enfrontaren als homes d’en Pepe a l’entrada principal. Els cops d’espasa ressonaven com un cor de ferro. En Günnar, però, aconseguí obrir-se pas i s’uní a mi en la persecució. La ciutat, amb els seus carrers estrets i carrerons tortuosos, esdevingué un laberint on en Pepe jugava amb avantatge. Coneixia cada pedra, cada ombra, i posava obstacles al nostre pas. La cursa era èpica, com si fóssim herois d’una antiga balada, però la distància no cedia.
 
-La Helen dissenyà un pla senzill i efectiu. En Günnar i jo faríem palanca amb dues branques per aixecar lleugerament el tronc, mentre els cavalls, guiats per en Kamui, estirarien amb força fins a fer-lo pivotar fora del camí. Ella, mentrestant, vigilava els voltants amb la mà a la guarda de l’espasa. El treball fou lent i feixuc; el tronc s’alçava amb resistència, grinyolant com si fos viu. El terra cruixia sota el seu pes i la suor m’encegà els ulls.
+![acte sembrant caos helen cedric](acte-sembrant-caos-helen-cedric.webp)
 
-—Has sentit això? —murmurà en Kamui, amb to greu.
+Confiant en la força d’en Günnar, vaig decidir tornar a la nau: vèncer en Pepe no serviria de res si algun dels seus homes sobrevivia per explicar-ho. Vaig tornar, amb el cor pesant però decidit, per assegurar-me que la nostra missió no fracassés.
 
-Vaig contenir la respiració i vaig mirar al voltant.
+**
 
-—Sí… —vaig respondre.
+***Les aventures d’en Günnar***
 
-I aleshores, enmig del silenci que seguí, alguna cosa es mogué entre els arbres. Un home s’hi plantà, dret com un pal, al mig de la via. Portava caputxa i una jaqueta bruta; amb un gest de falsa cortesia, apartà la roba per mostrar un trabuc que duia a la cintura. Entre les ombres dels arbres se’ns revelaren almenys sis figures d’arquers, quiets, apuntant-nos.
+*Mentrestant, en Günnar, amb la seva tenacitat nòrdica, retallà distàncies amb en Pepe. Quan finalment l’atrapà, en Pepe, exhaust i amb el rostre marcat per la fatiga, s’aturà i es girà, desenvainant l’espasa.*
 
-![acte xviii retorn valdeluna enmig](acte-xviii-retorn-valdeluna-enmig.webp)
+*—Ja n’hi ha prou! —cridà, amb la veu trencada.*
 
-—Bon dia a tothom! —cridà l’home—. Vaja, veig que heu tocat el nostre arbre. Us haurem de fer pagar.
+*La lluita que seguí fou ferotge, un duel de titans sota la lluna. Les espases xocaven amb guspires, i la sang tenyí el terra. Tots dos, greument ferits, arribaren a un punt d’equilibri mortal. En Pepe, amb un gest inesperat, oferí una treva, i en Günnar, amb la saviesa d’un guerrer que sap quan l’orgull pot costar massa, acceptà. Una doble mort no hauria servit a ningú.*
 
-—Bon dia, senyor. És aquest el seu arbre? Me n’alegro —li responguí amb to de falsa ingenuïtat—. Ja se’l pot endur a casa.
+**
 
-La seva rialla fou curta. —Sembla que no entens bé la situació, jove. Els meus homes us apunten amb arcs. Si no voleu prendre mal, deixeu que ens enduguem el carro i les vostres armes.
+![acte sembrant caos gunnar torna](acte-sembrant-caos-gunnar-torna.webp)
 
-—Em podria dir el seu nom, senyor? —vaig demanar.
+Quan en Günnar tornà a la nau, ens reunírem, exhausts però vius. Cap policia, excepte en Pepe, havia escapat. Tot i això, el nostre pla s’havia torçat: era qüestió d’hores que en Pepe informés l’alcalde. La Helen i en Günnar, amb els ulls encesos per la determinació, proposaren un pla agosarat: assaltar la casa de l’alcalde per aconseguir els plànols abans que fos massa tard. En Kinnehan, amb un somriure astut, s’hi uní, parlant d’un cop d’estat. Nosaltres entraríem primer, amb l’Alina, transformada en animal, vigilant desde dins. Si les coses es complicaven, en Kinnehan i els seus homes ens donarien suport.
 
-—No és de la teva incumbència. Aparteu-vos del carro.
+La casa de l’alcalde era un fortí, amb guàrdies armats patrullant el perímetre. Tot i això, en Kamui forçà la porta exterior i ens endinsàrem al jardí. Llavors, l’alcalde aparegué al balcó, amb una mirada de menyspreu, flanquejat per setze homes armats amb trabucs que ens rodejaren. Al seu darrere, en Pepe, amb els ulls plens d’odi, ens observava.
 
-—Senyor “*no és de la teva incumbència”*,li ofereixo dues formes de pagament: cent gremials en metàl·lic, o tres hòsties amb la mà oberta.
+—Pagareu aquesta traïció amb la vostra vida! —proclamà l’alcalde.
 
-—Apunteu! —ordenà l’home.
+La Helen, amb la seva veu clara i autoritària, respongué:
 
-—D’acord, tres hòsties amb la mà oberta. —La tensió es trencà com una corda massa estirada.
+—Senyor alcalde, és vós qui heu traït. Si no haguéssiu enviat aquells homes, si no haguéssiu envoltat la zona amb la policia, el pla hauria estat perfecte i la nostra seguretat no s’hauria vist compromesa.
 
-—Dispareu! —ordenà llavors.
+L’alcalde, furiós, replicà:
 
-![acte xviii retorn valdeluna dispareu](acte-xviii-retorn-valdeluna-dispareu.webp)
+—Esteu amb les rates del barri baix! No perdrem més temps. Us eliminaré ara mateix!
 
-Els arcs es tensaren; aquell instant que precedeix la mort s’allargà com una ombra. En Kamui, mestre dels tirs ràpids, no perdé el temps: apuntà amb i disparà. El tret impactà el que semblava cap de la banda; el seu crit fou curt i la sang tenyí la camisa a l’espatlla. Era una ferida greu, però no letal.
+—Senyor alcalde —digué jo, amb un to que tallava com l’acer—, esteu a punt de prendre l’última de les vostres males decisions. Us aconsello que ens lliureu els plànols, i a canvi nosaltres escamparem la boira, posant fi a aquest assalt.
 
-La Helen s’hi llançà sense vacil·lar. La seva espasa dansà entre ombres i tirs; jo, recolzant la mà sobre el tronc, vaig fer una tombarella que em deixà dempeus i llest, com qui s’aixeca per entrar a la cursa. —Ara! —cridà la Helen, i m’hi aboque.
+—Jo? Però què dius? —es burlà l’alcalde—. Per favor, sou homes morts! Assalt a on? Si no podeu ni tan sols passar d’aquest jardí!
 
-![acte xviii retorn valdeluna helen](acte-xviii-retorn-valdeluna-helen.webp)
+—S’equivoca —replicà la Helen, amb un somriure desafiant—. Ja som a dins!!
 
-En aquell moment en Günnar s’endinsà entre els arbres cap als arquers; la seva enorme figura avançava decidida. La lluita fou ferotge: era força contra destresa, ordre contra improvisació. Durant una pausa breu jo cridí al cap:
+![acte sembrant caos sequivoca replica](acte-sembrant-caos-sequivoca-replica.webp)
 
-![acte xviii retorn valdeluna moment](acte-xviii-retorn-valdeluna-moment.webp)
+En aquell instant, un crit tallà l’aire. L’Alina, transformada en mico, caigué de la teulada sobre el balcó, amb un ganivet lluent a la mà. Agafà l’alcalde pel coll i, amb un moviment ràpid, el llançà al buit. L’alcalde s’estavellà al jardí, amb l’Alina sobre seu, com una deessa venjativa. Els guàrdies, sorpresos, ens apuntaren amb els trabucs, però l’Antonella corregué cap a l’Alina i, juntes, agafaren l’alcalde com a ostatge.
 
-—Senyor, li aconsello deixar-ho aquí, abans no prenguin un mal irreparable.
+—Baixeu les armes o el mato! —cridà l’Antonella, amb la veu plena de foc.
 
-No em respongué. I aleshores, del bosc, en sortiren quatre més: la proporció canvià, eren cinc contra nosaltres tres. La Helen em cridà mentre combatia: algú remenava el carro. S’hi aproximà i descobrí una noia jove, nerviosa, remenant cofres amb els plànols a la mà. Sense pensar, la Helen apuntà:
+Els esdeveniments següents foren un torbellí. L’Alina i l’Antonella entraren a la casa amb l’alcalde, forçant-lo a obrir la caixa forta per obtenir els plànols. Quan l’Alina els tingué a les mans i comprovà que eren autèntics, l’alcalde, amb un intent de traïció final, tragué un trabuc amagat. Però l’Alina, ràpida com el llamp, li clavà l’espasa, deixant-lo estès a terra. Totes dues fugiren per la porta del darrere.
 
-—Alto! Deixa els papers!
+Mentrestant, al jardí, en Pepe, sense paciència i amb els ulls encesos per la sospita del pitjor, ordenà als seus homes que ens ataquessin amb un crit que ressonà com un tro. La batalla esclatà amb una fúria desfermada, un caos d’espases, crits i pólvora. Estàvem ferits, amb el cos pesant per l’esgotament, però lluitàrem com un sol ésser, units per l’esperit d’una germandat forjada en el foc de mil perills. En Günnar, imponent com un senyor nòrdic, liderà l’enfrontament contra en Pepe. Al seu costat, jo el recolzava amb el meu escut alçat, aturant cops i obrint camí perquè ell pogués avançar. En Pepe, malgrat les ferides del seu duel anterior, aguantà amb un orgull ferotge, els seus moviments àgils i la seva mirada desafiant fins al darrer instant.
 
-La por tanca les oïdes; la noia no s’aturà. La Helen disparà. El tret fou net i encertà al cap; la noia caigué immòbil.
+En Kamui, amb la seva armadura Dracheneisen resplendent, la Helen, amb la seva capa vermella onejant com una flama, i en Cedric, amb la seva espasa àgil, enfrontaven la resta de policies al nostre voltant, mantenint a ratlla els seus trabucs i espases. Finalment, en Pepe, afeblit però mai vençut en esperit, caigué sota un cop precís d’en Günnar, i els seus homes, desmoralitzats, es rendiren, derrotats, sota el pes de la nostra determinació.
 
-![acte xviii retorn valdeluna tanca](acte-xviii-retorn-valdeluna-tanca.webp)
+![acte sembrant caos kamui armadura](acte-sembrant-caos-kamui-armadura.webp)
 
-La Helen restà paralitzada, el món li trencà la respiració en un instant: l’impacte, el silenci, la incredulitat.
+Poc després, els homes d’en Kinnehan entraren a la casa, acompanyats d’una dona amb una presència imponent: la Grace Kinnehan. Més poderosa que el mateix Thomas, la seva bellesa era tan captivadora com temible. Ens felicità per l’operació, ens agraí amb paraules que ressonaven amb autoritat i ens oferí primers auxilis.
 
-—Eva!! —El cap de la banda, malferit i fora de si, volà cap al carro. Al veure la noia, una llàgrima li ratllà la galta mentre cridava: —Retirada!!
+—La ciutat us ho agrairà —digué, amb un somriure que amagava mil secrets—. Ara, descanseu.
 
-Quatre arquers, confusos, fugiren entre els arbres. Dos bandits restaren atrapats en la voràgine del combat; en Kamui, amb la seva força serena, els reduí i els lligà. El cap, amb la noia en braços, desaparegué en el bosc; coneixia aquell laberint millor que nosaltres i s’esmunyí com una ombra. Jo intentí perseguir-lo, però la foscor entre les alzines l’engolí massa aviat.
+Tot havia sortit bé, però el cos encara em tremolava. L’alegria d’haver triomfat, de veure els meus companys sans i estalvis, em desbordava el cor. Vaig creuar la mirada amb la Helen i, sense dubtar-ho, vaig avançar i la vaig envoltar amb una abraçada franca i càlida.
 
-Ens reunírem al voltant dels dos capturats, polsosos i amb l’adrenalina a flor de pell, i discutírem el seu destí. En Günnar, sempre pràctic, proposava portar-los davant el capità a Valdeluna: calia esbrinar si eren simples bandolers o peces d’una trama més àmplia. Un dels presoners, amb la veu trencada i ulls plens de por, suplicà:
+—Estic feliç que tot hagi sortit bé —vaig murmurar, amb la veu plena d’un alleujament profund.
 
-—No, no volem problemes. Soc en Sergio. Si us plau, no ens feu mal. —L’altre restà mut, amb la mirada clavada a terra, i no volgué dir res
+![acte sembrant caos estic felic](acte-sembrant-caos-estic-felic.webp)
 
-—Ens heu intentat matar, tu i els teus companys —li etzibí—. No ploris misericòrdia.
+Vam marxar cap al Paraíso de Eli, amb els plànols a les mans i el cor ple d’orgull. Quan arribàrem, el bar esclatà en una celebració vibrant: les notícies de la nostra gesta havien volat com la pólvora. La Eli, amb crit alegre, exigí que ens convidessin a tots a una ronda de begudes. Alguns companys, amb les marques de la batalla encara visibles en la roba i la pell, preferiren rentar-se abans de sumar-se a l’alegria. Poc a poc, tothom anà marxant cap a les habitacions, exhausts però satisfets. Jo, però, em quedí al bar amb la meva amiga Sofia. Li preguntí si havia pensat en l’oferta que li havia fet, i ella, amb una mirada serena, respongué que sí, però que creia que era millor quedar-se a Magerit amb la seva família. A més, afegí amb esperança, la caiguda de l’alcalde podria portar una vida més pròspera a la ciutat.
 
-Els interrogàrem amb la brevetat dels qui necessiten respostes ràpides; confirmaren el nom del cap —en Juan— i declararen el que qualsevol acusat diria: que eren bandits i que només robaven viatgers. No podíem confiar només en paraules pronunciades sota la por. Els lligàrem amb cura, els asseguràrem amb nusos ferms, i decidírem conduir-los a Valdeluna: el camí seria llarg i, el judici, de la ciutat.
+—Ho entenc perfectament, Sofia —vaig dir, amb un somriure sincer—. Espero que tot et vagi bé. I si mai visites Valdeluna, si us plau, vine’m a veure.
 
-Abans d’arrencar el carro, vam llençar una última mirada cap al bosc. La Helen, encara blanca pel xoc, romania muda. Jo mirí el tronc que ens havia aturat i vaig pensar que aquell arbre caigut no era només una maniobra per robar-nos; era un missatge: algú sabia els nostres passos i tenia la sang freda d’ordir una emboscada. Tots sentíem el mateix:**una ombra s’havia estès sobre el nostre viatge**.
+—Reiv, d’on ha sortit un noi tan increïble? —respongué ella, amb una rialla tímida.
+
+![acte sembrant caos reiv sortit](acte-sembrant-caos-reiv-sortit.webp)
+
+S’apropà més a mi i, asseguda a la meva falda, em féu mil preguntes sobre la nostra gesta i els meus orígens. Mentre li explicava les meves aventures i les terres llunyanes del nord, els seus ulls s’anaren tancant, i caigué en un son profund, rendida pel cansament. Amb cura, com si fos una princesa d’una antiga balada, la vaig agafar en braços i la vaig dur al meu llit perquè descansés. La vaig deixar allà, sota la llum tènue de la posada, amb el cor ple d’una tendresa que contrastava amb el caos que havíem sembrat aquella nit.

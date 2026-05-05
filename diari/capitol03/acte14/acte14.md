@@ -1,10 +1,10 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
+layout: act
+type: act
+chapter: chapter03
 title: Calmant la tempesta
-label: Acte XII
-order: 12
+label: Acte XIV
+order: 14
 ---
 
 Ens llevàrem a primera hora del matí, amb la ferida encara ardent i la ment carregada de dubtes i pors. El sol començava a despuntar mentre ens dirigíem de nou cap al carrer Herreros. En Bruto, ara amb una actitud més pacífica, ens esperava davant del bar Sagartoki i, amb un gest sec, assenyalà l’entrada. Sense intercanviar paraules, travessàrem la porta i ens deixàrem engolir per la penombra del local.

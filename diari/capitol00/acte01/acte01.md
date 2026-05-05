@@ -1,7 +1,7 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol00
+layout: act
+type: act
+chapter: chapter00
 title: Pròleg
 label: Pròleg
 order: 1

@@ -1,7 +1,7 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol01
+layout: act
+type: act
+chapter: chapter01
 title: Viatge al Setè Mar
 label: Acte I
 order: 1

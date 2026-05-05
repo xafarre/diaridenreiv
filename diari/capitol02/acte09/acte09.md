@@ -1,30 +1,34 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
-title: Els plànols de Magerit
+layout: act
+type: act
+chapter: chapter02
+title: Sobrenatural
 label: Acte IX
 order: 9
 ---
 
-![acte planols magerit aclarit malentes](acte-planols-magerit-aclarit-malentes.webp)
+Arribàrem a una muntanya i decidírem guaitar des d'un punt elevat per obtenir una millor visió del terreny. Mentre la resta del grup s’amagava entre les roques, vaig decidir avançar sol cap a un clar elevat per atraure l’atenció del Grifó.
 
-Aclarit el malentès, Alarik ens demana que l’acompanyem en una nova missió, aquesta vegada a una ciutat llunyana coneguda com a Magerit.
+Passada una estona, el vaig veure volant en cercles sobre meu, analitzant cada moviment. Aterrà sobre una roca una mica més elevada que jo, a uns dos-cents metres de distància, les seves urpes es clavaren a la pedra mentre ens observava amb ulls plens de desconfiança.
 
-Arribàrem a Magerit després de tres llargues jornades a cavall. La ciutat es revelava imponent, molt més gran que Valdeluna. Situada en una vall i envoltada per tres rius, un d'ells navegable fins al mar, Magerit mostrava a simple vista les seves grans desigualtats. A la part alta, les mansions majestuoses i els carrers amples eren símbols de riquesa i poder, mentre que a la part baixa imperava la misèria: carrers bruts i estrets, on les ombres de les persones atrapades en addiccions recorrien les voreres amb rostres desfigurats pel desànim.
+Intentàrem provocar-lo, fent moviments bruscs i cridant, però el Grifó, amb una elegància gairebé sobrenatural, tornà a alçar el vol i desaparegué dins el bosc. Sense perdre temps, el vam seguir a cavall, en una persecució frenètica a través de la vegetació espessa.
 
-![acte planols magerit arribarem despres](acte-planols-magerit-arribarem-despres.webp)
+![acte cacera grifo intentarem provocar](acte-cacera-grifo-intentarem-provocar.webp)
 
-L'Alarik ens conduí cap al Paraíso de Eli, un prostíbul situat en aquesta part més desafavorida de la ciutat. L’establiment ens sorprengué pel seu aire refinat. L'interior era net i elegant, i les dones que hi treballaven no eren com ens havíem imaginat: tenien una presència culta i misteriosa, i transmetien una professionalitat inesperada en un lloc com aquell. Sembla que l'Alarik era un vell amic de la regent, l’Eli, qui ens oferí allotjament durant els pròxims dies.
+Finalment, després d’una llarga cursa, arribàrem a una clariana on el vam trobar defensant ferotgement el seu niu, amb les ales mig esteses i una mirada amenaçadora que ens advertia que no féssim un pas més.
 
-![acte planols magerit alarik condui](acte-planols-magerit-alarik-condui.webp)
+Mentre la resta es perdien en discussions sobre com localitzar-lo, en Kamui i jo decidírem actuar. Ens llençàrem en un atac frontal sense vacil·lar. Aquesta vegada, el Grifó no fugí. Al contrari, es mostrà encara més ferotge, adoptant una actitud completament defensiva. La seva força i agilitat superaven fins i tot les de l'os: esquivava gairebé tots els nostres atacs amb destresa, i les seves urpes no fallaven. Cada enfrontament amb ell era més intens que l'anterior, fent-nos veure que no ens enfrontàvem a un simple animal, sinó a un adversari llegendari.
 
-L’endemà, l’alcalde de Magerit ens rebé a l’ajuntament, en una sala imponent i extremadament elegant. Ens explicà que havien trobat un vaixell enfonsat del qual havien rescatat uns plànols que l’Alarik estava buscant. Els oferí per un milió de gremials, una quantitat clarament desorbitada. Alarik refusà l’oferta i exigí un preu més raonable. L’alcalde, amb un somriure calculador, ens informà que existia una màfia avalonesa establerta a la ciutat que es dedicava al comerç d’opi i a la producció i venda il·legal de whisky. Si aconseguíem acabar amb aquesta organització i, preferiblement, capturar viu el seu líder, en Kinnehan, els plànols serien nostres. Afegí que, en dues setmanes, celebraria el seu aniversari i ens convidà a assistir-hi si assolíem l’objectiu.
+![acte cacera grifo resta perdien](acte-cacera-grifo-resta-perdien.webp)
 
-![acte planols magerit lendema lalcalde](acte-planols-magerit-lendema-lalcalde.webp)
+Mentre en Kamui i jo l’enfrontàvem, la Helen, en Cedric i en Gunnar escalaren per trobar el niu. La pujada era costeruda, amb la roca esmolada i relliscosa sota els seus peus. En arribar al cim, descobriren un segon Grifó, la femella, que protegia amb zel un únic ou d’un blanc nacrat amb reflexos daurats. La criatura, amb les ales mig esteses i les urpes clavades a la pedra, emetia un gruny profund d’advertència.
 
-Abans de marxar, ens recomanà que visitéssim la comissaria i preguntéssim per Pepe Carvallo, el cap de la policia, per obtenir més informació.
+![acte cacera grifo kamui lenfrontavem](acte-cacera-grifo-kamui-lenfrontavem.webp)
 
-Dediquem la resta del dia a recórrer el barri pobre, intentant obtenir informació rellevant sobre l’organització de Kinnehan, però amb poc èxit. La dada més interessant sobre l’opi ens la proporcionà Fernando Secas, el propietari del Bar Secas. Ens explicà que hi havia un carrer anomenat Herreros, on es trobava una porta roja. Allà es venia opi.
+Helen, astuta, usà el seu Glamour per transformar l’ou en un simple botó, que s’amagà amb destresa a la seva bossa. Alhora, en Gunnar, amb la seva determinació implacable, calà foc al niu amb una torxa improvisada. Les flames s’alçaren ràpidament, el fum ennegrí l’aire i la femella emeté un crit esquinçador, ple de desesperació i ràbia.
 
-Cansats i frustrats, decidírem anar a dormir aviat.
+El caos esclatà en un instant. Els Grifons, embogits per la pèrdua del niu, ens atacaren amb una fúria incontrolable. El mascle redoblà la seva agressivitat, atacant-nos amb una força devastadora, mentre la femella descendia furiosa cap a Helen i Gunnar.
+
+![acte cacera grifo caos esclata](acte-cacera-grifo-caos-esclata.webp)
+
+Després d’un combat esgotador, vam decidir fugir, però els Grifons ens perseguiren implacablement. Un d’ells atrapà en Gunnar i el sacsejà amb violència en un intent desesperat de recuperar l’ou. Sense trobar-ne rastre, el deixà caure amb fúria i es girà cap a Helen, els seus ulls plens d’ira. Veient-se atrapada, Helen no tingué més remei que desfer l’encanteri i deixar l’ou a terra. Els Grifons, en un instant, oblidaren la nostra presència. La femella s’abalançà sobre el seu tresor recuperat, i amb un últim esguard carregat de ressentiment, les criatures s’enlairaren i desaparegueren en l’horitzó.

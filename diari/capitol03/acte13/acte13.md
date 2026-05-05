@@ -1,10 +1,10 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
+layout: act
+type: act
+chapter: chapter03
 title: La ruta de l’opi
-label: Acte XI
-order: 11
+label: Acte XIII
+order: 13
 ---
 
 La jornada arribava al seu final quan la Helen em proposà un passeig pel carrer Herreros. De passada, volia comprar una mica d'opi. Arribàrem a la porta roja que ens havia indicat en Fernando Secas. A prop de l'entrada, hi havia dos grups: un de dues persones i un altre de quatre, amb una presència inquietant. Sense pensar-s'ho dues vegades, la Helen preguntà directament on podíem comprar opi. Entre rialles malicioses, els malfactors ens indicaren que entréssim per la porta i pugéssim fins a la tercera planta.

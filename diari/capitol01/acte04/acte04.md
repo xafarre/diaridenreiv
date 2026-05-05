@@ -1,7 +1,7 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol01
+layout: act
+type: act
+chapter: chapter01
 title: Soc en Sigurd Ragnarson
 label: Acte IV
 order: 4

@@ -1,7 +1,7 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol01
+layout: act
+type: act
+chapter: chapter01
 title: Trula Masala
 label: Acte III
 order: 3

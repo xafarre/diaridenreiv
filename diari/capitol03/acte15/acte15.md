@@ -1,10 +1,10 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
+layout: act
+type: act
+chapter: chapter03
 title: Assalt a l’ajuntament
-label: Acte XIII
-order: 13
+label: Acte XV
+order: 15
 ---
 
 L’endemà al matí, el sol lluïa amb una claror ingènua que contrastava amb les ombres que s’allargaven sobre Magerit. La nostra trobada amb en Kinnehan era imminent, però en Gunnar es negava rotundament a entrar desarmat i en desigualtat de condicions. La seva desconfiança era justificada, i tots compartíem la sensació que aquella aliança era tan inestable com una espasa sobre un fil de seda.

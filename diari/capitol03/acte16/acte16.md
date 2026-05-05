@@ -1,10 +1,10 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
+layout: act
+type: act
+chapter: chapter03
 title: Joc de traïcions
-label: Acte XIV
-order: 14
+label: Acte XVI
+order: 16
 ---
 
 Després del nostre fracàs amb els plànols, vam tornar al Sagartoki de matinada, arrossegant els peus, esgotats i amb el pes de la decepció aferrat a les nostres espatlles. L’ambient del local era més tènue que mai, il·luminat per la llum tremolosa d’algunes espelmes i el reflex daurat del whisky a les copes mig buides.

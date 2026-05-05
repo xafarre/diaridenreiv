@@ -2,10 +2,8 @@
 layout: chapter
 type: chapter
 slug: chapter03
-title: Capítol III
-summary: Ens llevàrem a primera hora, disposats a emprendre el camí de retorn a Valdeluna.
-  La Grace ja tenia preparat un carro amb quatre cavalls negres com la nit i prou
-  provisions per...
-cover: "/diari/capitol03/acte18/acte-xviii-retorn-valdeluna-primer.webp"
+title: Les ombres de Magerit
+summary: A Magerit, els herois d’Alarik s’endinsen en una ciutat dividida entre luxe i misèria per aconseguir uns plànols perduts. Però la missió aviat deriva en una xarxa de màfia, pactes i traïcions que encendrà una revolta impossible d’aturar.
+cover: "/diari/capitol03/acte11/acte-planols-magerit-aclarit-malentes.webp"
 order: 3
 ---

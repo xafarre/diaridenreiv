@@ -1,10 +1,10 @@
 ---
-layout: acte
-tipus: acte
-chapter: capitol02
+layout: act
+type: act
+chapter: chapter03
 title: Topada amb HH
-label: Acte XV
-order: 15
+label: Acte XVII
+order: 17
 ---
 
 El sol s'havia post rere els murs de Magerit, deixant la ciutat submergida en un mantell de penombra que semblava xiuxiuejar secrets a cada carreró. Sentíem l'aire espès, carregat de sospites, mentre ens allunyàrem de l'ajuntament amb la sensació inquietant que érem preses d'una cacera. L'Alina, amb el seu instint felí i els ulls escrutant les ombres amb una intensitat que em posà la pell de gallina, murmurà que algú ens seguia. No vérem ningú, però la seva mirada mai no mentia. Ens aturàrem en un bar de la plaça del mercat, un indret ple de vida i xivarri, on les rialles i el dring de les copes podien amagar les nostres paraules.
