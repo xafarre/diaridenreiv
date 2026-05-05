@@ -7,7 +7,7 @@ label: Acte XXVI
 order: 26
 ---
 
-El trajecte començà amb una normalitat gairebé sospitosa. Durant tres nits navegàrem sense més sobresalts que el cruixir de la fusta, el gemec de les cordes i aquella conversa constant entre el mar i el casc que, al principi, sembla música i, al cap d’unes hores, ja és simplement part del pensament. La Gavina Coqueta avançava amb dignitat modesta, i nosaltres començàvem a acostumar-nos a la idea que, potser, per una vegada, el camí cap al perill no havia de ser ell mateix un perill.
+El trajecte avançava amb una normalitat gairebé sospitosa. Durant tres nits navegàrem sense més sobresalts que el cruixir de la fusta, el gemec de les cordes i aquella conversa constant entre el mar i el casc que, al principi, sembla música i, al cap d’unes hores, ja és simplement part del pensament. La Gavina Coqueta avançava amb dignitat modesta, i nosaltres començàvem a acostumar-nos a la idea que, potser, per una vegada, el camí cap al perill no havia de ser ell mateix un perill.
 
 La primera escala fou en una illa intermèdia, situada encara dins la ruta cap a la nostra destinació final. Hi baixàrem per carregar provisions i completar allò que el vaixell, per mida i prudència, no havia pogut dur en excés des de Valdeluna. L’indret no tenia res d’extraordinari a primer cop d’ull: un petit port, gent avesada a veure cares de pas i aquella olor barreja de sal, fruita madura i fusta humida que tenen les illes quan encara no han decidit si volen ser refugi o trampa.
 
