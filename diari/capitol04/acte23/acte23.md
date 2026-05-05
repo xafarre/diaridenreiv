@@ -2,43 +2,35 @@
 layout: act
 type: act
 chapter: chapter04
-title: La Gavina Coqueta
+title: Per fi a casa
 label: Acte XXIII
 order: 23
 ---
 
-L’endemà arribaren finalment l’Alina i en Cedric, i amb ells la companyia tornà a estar completa. Érem sis de nou, reunits sota el mateix sostre, amb aquella estranya satisfacció que produeix comprovar que ningú no ha mort, desaparegut o estat empresonat durant una absència breu. No era una pau profunda, certament, però sí prou sòlida per permetre’ns respirar abans que el món decidís reclamar-nos una altra vegada.
+Quan arribàrem al desfilader, no poguérem evitar de somriure. Encara ens quedaven unes poques hores de camí, però l’aire ja tenia una altra mena de gust: menys pols de fugida, menys amenaça amagada entre els arbres, més promesa de sostre conegut i de cares que no ens rebrien amb arcs tensats. Valdeluna no era exactament casa meva, però començava a adquirir aquell perillós costum dels llocs que un home enyora abans d’adonar-se’n.
 
-No trigà gaire a arribar Alarik Dantès. Anàrem a casa seva a veure’l, i ell ens convidà a passar sense cerimònia, tot i que el cansament li pesava damunt les espatlles com una capa mullada. Digué que havia tingut un bon viatge, però la seva veu no acabava de convèncer el rostre que la sostenia. A les mans duia un llibre molt desgastat, de cobertes gastades i cantonades menjades pel temps, com si hagués passat per més mans de les que qualsevol volum prudent hauria desitjat.
+![acte xxiii desfilader valdeluna retorn]({{ '/diari/capitol04/acte23/acte-xxiii-desfilader-valdeluna-retorn.webp' | relative_url }})
 
-![acte xxiii gavina coqueta alarik]({{ '/diari/capitol04/acte23/acte-xxiii-gavina-coqueta-alarik.webp' | relative_url }})
+Entràrem al poble sense grans cerimònies i ens dirigírem directament a casa d’en Johannes. Li explicàrem el percal del viatge, els bandits, els ostatges i tota aquella successió d’inconveniències que semblaven haver-nos sortit al pas amb una puntualitat gairebé professional. Ell ens escoltà amb aquella calma seva, més pròpia d’algú que rep un encàrrec de llenya que no pas d’algú a qui li porten presoners.
 
-Abans no avancéssim cap a una nova empresa, parlàrem breument de la darrera missió. Alarik ens reforçà allò que ja ens havia dit: estava content pels resultats, però no pas per les formes. Era una manera elegant de recordar-nos que havíem tornat amb els objectius complerts i una rastellera de decisions discutibles al darrere. Jo li oferí algunes pàgines del meu diari perquè pogués entendre com havia passat tot. Les acceptà amb un gest agraït, i em semblà que, per un instant, aquella severitat seva s’afluixava una mica.
+Després ens acompanyà fins a l’ajuntament i deixàrem els captius al calabós. No li donà gaire més importància. Potser a Valdeluna, després de nosaltres, la paraula “incident” havia perdut una part del seu antic prestigi.
 
-Després estengué els mapes sobre la taula. Les línies antigues, les marques de navegació i les anotacions que s’hi encreuaven assenyalaven la posició d’una illa remota on, segons ell, hi havia ruïnes syrne. Ens recordà que aquella civilització es creia extingida de feia molt, però que havia estat d’una saviesa i d’una tècnica tan avançades que encara avui els seus vestigis despertaven cobdícia, temor i una curiositat difícil de confessar en veu baixa.
+Alarik Dantès havia de tornar al cap de dos dies, de manera que aprofitàrem aquell breu respir per posar una mica d’ordre a les nostres vides. Primer anàrem al banc. Per una vegada, les notícies foren bones: els ingressos dels nobles havien estat confirmats. El director ens rebé amb una cortesia gairebé untuosa, ens demanà disculpes pels entrebancs anteriors i insistí que tot plegat formava part d’un protocol necessari per garantir la qualitat i la seguretat de l’entitat.
 
-—No sé per què —digué, assenyalant una capsa—, però sé que us servirà.
+Amb els plebeus del grup acordàrem també la qüestió de la casa. El lloguer seria domiciliat entre els nobles: dos mil quatre-cents gremials repartits entre cinc butxaques de sang distingida. A més, establírem que, de cada missió, un trenta per cent del botí es destinaria al manteniment de la casa i al pagament de les rendes.
 
-En Günnar fumava la seva pipa sense parar, com si cada núvol de fum l’ajudés a ordenar les paraules d’Alarik. Li demaní de provar-la, mogut per una curiositat que no era del tot acadèmica. Ell m’observà uns instants i, amb aquella generositat seca que tenen els homes pràctics, em regalà la pipa d’en Kinnehan per la bona feina feta en les missions. Vaig acceptar-la amb solemnitat, perquè hi ha honors que no vénen amb medalles, sinó amb olor de tabac.
+Després anàrem al Kraken. La gent ens reconegué de seguida i celebrà la nostra tornada amb aquella alegria franca dels qui encara no han hagut de pagar les conseqüències de les teves decisions. Ens convidaren a la primera ronda, i nosaltres, generosos com prínceps en vigília de ruïna, obrírem un parell d’ampolles de whisky de Magerit perquè tothom en tastés. La beguda fou rebuda amb entusiasme, i ben aviat començaren les bromes sobre iniciar-ne el comerç a Valdeluna. He vist empreses més absurdes néixer amb menys aplaudiments.
 
-Mentrestant, la Helen agafà la capsa. Era molt més pesada del que semblava. Quan l’obrí, descobrírem a l’interior una bola negra, llisa i muda, d’una foscor que no semblava limitar-se a reflectir la llum, sinó a negar-la. Jo hi sentí un poder inusual, una mena de presència quieta que no podia explicar sense mentir. No brillava, no tremolava, no feia cap d’aquelles coses que els objectes perillosos tenen la mala educació de fer en les històries. I precisament per això em resultà inquietant.
+![acte xxiii kraken brindis eufòria]({{ '/diari/capitol04/acte23/acte-xxiii-kraken-brindis-euforia.webp' | relative_url }})
 
-![acte xxiii gavina coqueta esfera]({{ '/diari/capitol04/acte23/acte-xxiii-gavina-coqueta-esfera.webp' | relative_url }})
+També parlàrem amb el propietari de la casa, que d’entrada es mostrà ofès per la nostra desaparició. No el podia culpar del tot: havíem promès interès i havíem respost amb absència. Tanmateix, una mica de whisky, quatre històries de Magerit ben servides i el primer pagament tingueren l’efecte balsàmic que sovint no aconsegueixen ni les disculpes més sinceres.
 
-Alarik ens informà que la missió es duria a terme amb un únic vaixell: la Gavina Coqueta, capitanejada per en Johannes i reforçada amb deu mercenaris. Hi hauria provisions mínimes per a deu dies de viatge, així com un estoc modest de munició i armes. No més. El vaixell no era gran, i la prudència, en aquell cas, havia d’aprendre a cabre en una bodega estreta.
+Acceptà que la resta quedés domiciliada i ens prometé que l’endemà, a primera hora, ens lliuraria tres còpies de les claus. També procuraria tenir els llits llestos. Amb això resolt, la festa continuà.
 
-Abans d’acabar la reunió, li demanàrem que ens enviés algú de confiança per tenir cura de la casa mentre fóssim fora. Era curiós comprovar com, després de tantes expedicions absurdes, la idea d’una cuina abandonada o d’un rebost mal administrat començava a semblar-nos una amenaça digna de consideració.
+L’endemà, la casa ens esperava en ordre, en un carrer proper al port, envoltada d’altres llars prou respectables per no semblar solitària i prou discretes per no disputar-li presència. Era una casa burgesa de gust castellà, de dues plantes, gran sense caure en l’arrogància d’un palau noble. Una tanca l’abraçava pel davant, i l’heura, que pujava per la façana i s’enredava entre pedra i fusta, delatava que havia passat massa temps esperant veus noves.
 
-Amb tota la informació rebuda, marxàrem a fer els darrers encàrrecs. Jo aní al mercat i comprí vint-i-set racions de menjar variades, dos paquets de tabac —un de suau i un de fort—, dues capses de mistos i tres barrils grans de cervesa. Potser algú hauria considerat excessiva la previsió. Jo en dic civilització.
+La planta baixa s’obria en un vestíbul ample, amb terres de marbre, una moqueta al centre i una escala bella que pujava cap a les habitacions nobles. També hi havia un menjador capaç d’acollir vint persones al voltant d’una taula ovalada de fusta fosca, amb una llar de foc a un lateral; una cuina ampla, sala de neteja i espai suficient perquè dues persones de servei hi treballessin sense maleir-nos més del necessari. A baix hi havia cinc habitacions més, antigament del servei, però dignes en mida i llum. Els nobles ens reservàrem la planta superior, amb cinc cambres com cal; els plebeus ocuparen la inferior, i ningú no protestà prou fort perquè constés en acta.
 
-La Marta ens esperava a la casa. Li ensenyàrem les estances, la cuina, el rebost i els racons que encara demanaven mà més que no pas diners. Acordàrem un salari de cinc-cents gremials mensuals, i li donàrem tres-cents més perquè pogués adequar la cuina i omplir el rebost com calia. Jo, a més, li’n doní dos-cents perquè preparés la meva habitació amb una mica de criteri. Marta semblava bona persona: d’aquelles que miren una casa i no veuen parets, sinó feina pendent.
+![acte xxiii casa valdeluna exterior]({{ '/diari/capitol04/acte23/acte-xxiii-casa-valdeluna-exterior.webp' | relative_url }})
 
-![acte xxiii gavina coqueta marta]({{ '/diari/capitol04/acte23/acte-xxiii-gavina-coqueta-marta.webp' | relative_url }})
-
-A l’alba ens dirigírem cap al port. La Gavina Coqueta ens esperava amb una modèstia gairebé ofensiva, però en Johannes tenia aquell aire de saber exactament quina mena de fustes podia confiar al mar i quines no. Embarcàrem provisions, armes i equipatge, i deixàrem que la primera jornada ens anés acostumant al cruixir del vaixell i a la presència dels mercenaris.
-
-La primera nit la passàrem bé, coneixent-nos a coberta sota la llum vacil·lant dels fanals. Els mercenaris resultaren menys esquerps del que m’havia esperat, cosa que sempre s’agraeix quan un ha de compartir coberta amb homes armats durant dies. En Günnar fumava la seva pipa amb l’autoritat d’un sacerdot davant l’altar, i jo proví la meva amb una dignitat que, em plau pensar, no fou del tot fingida. M’agradà. El fum era dens, aspre i estranyament tranquil·litzador.
-
-Mirí la Helen. Ella també em mirava, amb aquell gest seu que podia significar aprovació, burla o totes dues coses alhora. Potser la pipa em donava un aire més sever. Potser la nit era generosa amb la meva vanitat. Qui sap. Quan vaig insinuar, amb més audàcia que prudència, que podríem allargar una mica més la conversa, ella em regalà un somriure i em deixà clar que no pensava facilitar-me cap victòria aquella nit. Vaig acceptar la derrota amb la compostura d’un cavaller, que és la forma més elegant de perdre quan un encara espera tornar a jugar.
-
-![acte xxiii gavina coqueta coberta]({{ '/diari/capitol04/acte23/acte-xxiii-gavina-coqueta-coberta.webp' | relative_url }})
+Encara li mancava aquella pàtina que només donen l’ús, les discussions i algun moble adquirit amb criteri dubtós, però ja era nostra en tot allò que importava.
