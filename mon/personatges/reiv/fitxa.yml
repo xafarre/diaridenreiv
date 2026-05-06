@@ -50,7 +50,7 @@ combat:
       abast: ""
       curt_llarg: ""
       recarrega: ""
-      notes: "Visible a la portada i al canon."
+      notes: "Visible a la imatge de referencia i a descripcio.yml."
     - nom: "Ganivet"
       tipus: "cos_a_cos"
       nivell: 0
@@ -58,7 +58,7 @@ combat:
       abast: ""
       curt_llarg: ""
       recarrega: ""
-      notes: "Visible al canon textual."
+      notes: "Documentat a descripcio.yml."
 esgrima:
   escoles: []
 bruixeria:
@@ -80,4 +80,4 @@ formes_i_vestimentes:
     imatge_referencia: ""
     notes_visuals: "Ha de rebaixar la qualitat dels teixits sense perdre del tot la postura noble."
     notes_joc: ""
-notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."
+notes: "Fitxa inicial creada a partir de descripcio.yml i dades de joc; valors mecanics pendents de confirmacio."

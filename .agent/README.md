@@ -15,7 +15,7 @@ Aquest directori conte instruccions modulars per a agents IA que redacten, revis
 
 Els agents han de buscar informacio especifica de la campanya fora de `.agent`:
 
-- `mon/personatges/`: personatges, fitxes, descripcions, variants visuals i canon complementari.
+- `mon/personatges/`: personatges, fitxes, descripcions completes, imatge inicial source of truth, variants visuals i notes lliures.
 - `mon/naus/`: naus i embarcacions recurrents.
 - `mon/llocs/`: llocs recurrents.
 - `mon/objectes/`: objectes, reliquies, armes o artefactes recurrents, si existeix.

@@ -1,0 +1,77 @@
+schema: "personatge-descripcio/v2"
+id: "sigurd-ragnarson"
+nom: "Sigurd Ragnarson"
+nacio:
+  id: "avalon"
+  nom: "Avalon"
+  equivalent_historic: "Regne Unit"
+  nota: "Capita pirata avalonia; teatralitat fosca, vermells intensos i presencia llegendaria."
+imatge_inicial:
+  path: "mon/personatges/sigurd-ragnarson/imatge-inicial.jpeg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc."
+imatge_portada:
+  path: ""
+  source_of_truth_web: false
+  nota: ""
+resum_web: ""
+descripcio_fisica:
+  edat_aparent: ""
+  edat_real: ""
+  alcada: "molt alt"
+  constitucio: "robust i imponent"
+  pell: ""
+  ulls: ""
+  cabell: "negre intens, de llargada mitjana"
+  rostre: "barba negra, cicatriu prominent i aura amenaçadora"
+  marques_distintives:
+    - "cicatriu prominent"
+    - "barret pirata classic negre"
+  postura_i_moviment: "dominant, teatral i amenaçadora"
+  veu: ""
+  olor_o_presencia: "rom, cuir negre, fum i por"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "capita pirata teatral amb capa vermella i barret negre"
+  peces_principals:
+    - "botes negres"
+    - "pantalons carmesi"
+    - "camisa fosca"
+    - "capa vermella"
+    - "barret pirata classic negre"
+  colors:
+    - "negre"
+    - "carmesi"
+    - "vermell"
+    - "acer"
+  materials:
+    - "cuir"
+    - "llana"
+    - "metall"
+  armes_visibles:
+    - "espasa llarga distintiva al costat"
+  joies_i_objectes: []
+  notes: "Ha de semblar una amenaça llegendaria, teatral pero creible."
+caracter:
+  primera_impressio: "respecte, por i invencibilitat"
+  temperament: "dominant, teatral i cruelment segur"
+  virtuts_visibles:
+    - "autoritat"
+    - "presencia"
+  defectes_visibles:
+    - "intimidacio"
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "teatralitat extrema i credibilitat de capita perillos"
+biografia_breu: "Capita pirata avalonia, alt i robust, amb aura d'invencibilitat."
+referencies_visuals:
+  prompt_original: "Sigurd Ragnarson, an English pirate captain, towering and robust, aura of invincibility, mid-length jet-black hair, black beard, prominent facial scar, black boots, crimson pants, dark shirt, red cape, classic black pirate hat, distinctive long sword at his side, commanding respect and fear."
+  prompt_base: "Sigurd Ragnarson, towering robust Avalon pirate captain, aura of invincibility, mid-length jet-black hair, black beard, prominent facial scar, black boots, crimson pants, dark shirt, red cape, classic black pirate hat, distinctive long sword at his side, theatrical but believable maritime menace, commanding respect and fear, classic realistic swashbuckling oil portrait."
+  evitar:
+    - "fer-lo comic o caricaturesc"
+    - "treure-li la capa vermella o el barret negre"
+variants_visuals: []
+notes_lliures: []

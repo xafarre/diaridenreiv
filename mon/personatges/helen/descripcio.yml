@@ -1,31 +1,41 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "helen"
 nom: "Helen O'Donell"
+nacio:
+  id: "avalon"
+  nom: "Avalon"
+  equivalent_historic: "Regne Unit"
+  nota: "Noblesa avaloniana amb elegancia marcial i colors de llinatge."
+imatge_inicial:
+  path: "mon/personatges/helen/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa rostre, cabell, capa i aire noble."
 imatge_portada:
   path: "mon/personatges/helen/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-helen.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Helen O'Donell apareix com una aventurera noble de figura prima i gest contingut, embolcallada per una capa vermella que li dona presència de llinatge fins i tot al port. La portada fixa un cabell ros fosc o castany clar, recollit en una cua llarga, roba clara de viatge, corretges de cuir i una espasa a l'esquena.
+  Helen O'Donell apareix com una aventurera noble de figura prima i gest contingut, embolcallada per una capa vermella que li dona presencia de llinatge fins i tot al port. Porta cabell ros fosc o castany clar recollit enrere, roba clara de viatge, corretges de cuir i una espasa a l'esquena. La seva elegancia sembla preparada per convertir-se en accio.
 descripcio_fisica:
   edat_aparent: "25 anys"
   edat_real: "25 anys"
   alcada: ""
-  constitucio: "prima i elegant"
+  constitucio: "prima, elegant i agil"
   pell: "clara"
   ulls: ""
-  cabell: "ros fosc o castany clar, llarg i recollit en cua"
-  rostre: "fi, seriós i aristocràtic"
+  cabell: "ros fosc o castany clar, llarg i recollit en cua o trena"
+  rostre: "fi, serios, aristocratic i atent"
   marques_distintives: []
-  postura_i_moviment: "continguda, dreta, amb elegància marcial"
+  postura_i_moviment: "continguda, dreta, amb elegancia marcial"
   veu: ""
-  olor_o_presencia: ""
+  olor_o_presencia: "tela neta, cuir clar i metall discret"
   mans: ""
-  gestos_recorrents: []
+  gestos_recorrents:
+    - "mantenir la distancia abans de decidir"
 vestuari_base:
-  silueta: "capa llarga sobre roba clara de viatge"
+  silueta: "capa llarga vermella sobre roba clara de viatge"
   peces_principals:
-    - "capa vermella"
+    - "capa vermella de llinatge"
     - "brusa clara"
     - "faixa i corretges de cuir"
     - "botes de viatge"
@@ -33,32 +43,38 @@ vestuari_base:
     - "vermell"
     - "blanc trencat"
     - "marró cuir"
+    - "blau discret"
   materials:
     - "llana"
     - "lli"
     - "cuir"
+    - "metall"
   armes_visibles:
     - "espasa a l'esquena"
     - "ganivet"
   joies_i_objectes:
     - "penjoll discret"
-  notes: "La portada fa prevaldre un cabell més clar que el castany del canon textual."
+  notes: "La capa vermella ha de ser el senyal de llinatge; les botes poden mantenir un to blau o fred si ajuda a distingir-la."
 caracter:
   primera_impressio: "noble, reservada i preparada per al perill"
-  temperament: ""
+  temperament: "continguda, decidida i orgullosa"
   virtuts_visibles:
-    - "determinació"
-  defectes_visibles: []
+    - "determinacio"
+    - "gracia"
+    - "autocontrol"
+  defectes_visibles:
+    - "distancia emocional"
   pors_o_tensions: []
-  manera_de_parlar: ""
+  manera_de_parlar: "mesurada, amb cortesia i fermesa"
   relacio_amb_el_grup: ""
   contradiccions:
-    - "gràcia aristocràtica i vida d'aventurera"
-biografia_breu: "Aventurera d'origen noble vinculada a les primeres cròniques de la tripulació."
+    - "gracia aristocratica i vida d'aventurera"
+biografia_breu: "Aventurera d'origen noble vinculada a les primeres croniques de la tripulacio."
 referencies_visuals:
-  prompts_base:
-    - "Helen O'Donell, a slim elegant 25-year-old noble adventurer, long dark-blonde hair tied back, red family cape, light adventuring clothes, leather straps, sword on her back, poised and determined."
+  prompt_original: "Helen O'Donell, a slim elegant 25-year-old English noble adventurer, long brown hair tied in a ponytail or braid, light adventuring clothes, long elegant red family cape, beautiful blue leather boots, sword on her back, knife at her waist, poised and determined."
+  prompt_base: "Helen O'Donell, slim elegant 25-year-old Avalon noble adventurer, refined pale face, long dark-blonde or light brown hair tied back in a ponytail or braid, composed determined expression, long elegant red family cape over light travel clothes, leather straps and belt, blue-toned leather boots, sword on her back and knife at her waist, poised aristocratic swashbuckler, realistic classic oil-painting style."
   evitar:
-    - "fer-la massa cortesana o estàtica"
+    - "fer-la massa cortesana o estatica"
+    - "treure-li la capa vermella com a senyal visual"
 variants_visuals: []
-notes_canon: "El canon textual deia cabell castany; la portada actual el mostra ros fosc o castany clar i aquesta versio preval visualment."
+notes_lliures: []

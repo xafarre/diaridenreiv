@@ -1,29 +1,39 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "gunnar"
 nom: "Günnar Sønsteby"
+nacio:
+  id: "vendel"
+  nom: "Vendel / Vestenmannavnjar"
+  equivalent_historic: "Escandinavia"
+  nota: "Procedencia nordica; estetica de cuir practic, robustesa i austeritat marinera."
+imatge_inicial:
+  path: "mon/personatges/gunnar/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa cabell llarg, barba i cuir treballat."
 imatge_portada:
   path: "mon/personatges/gunnar/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-gunnar.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Günnar Sønsteby és una presència ampla i sòlida, amb cabell castany llarg, barba ben retallada i ulls cansats de qui ha vist prou sang per aprendre a curar-la. Porta cuir nòrdic treballat, corretges gruixudes i una gran espasa a l'esquena. La seva imatge transmet força pràctica, veterania i una calma fiable.
+  Günnar Sønsteby es una presencia ampla i solida, amb cabell castany llarg, barba ben retallada i ulls cansats de qui ha vist prou sang per aprendre a curar-la. Porta cuir nordic treballat, corretges gruixudes i una gran espasa a l'esquena. La seva imatge transmet forca practica, veterania i una calma fiable.
 descripcio_fisica:
   edat_aparent: "30 anys"
   edat_real: "30 anys"
   alcada: "inusualment alt"
-  constitucio: "robust i atlètic"
+  constitucio: "robust, atlètic i ample d'espatlles"
   pell: "clara"
   ulls: ""
   cabell: "llarg, ondulat i castany"
-  rostre: "barba ben retallada, expressió seriosa i fiable"
+  rostre: "barba ben retallada, expressio seriosa i fiable"
   marques_distintives: []
-  postura_i_moviment: "plantat amb pes i seguretat"
+  postura_i_moviment: "plantat amb pes, seguretat i paciencia de veterà"
   veu: ""
-  olor_o_presencia: "cuir, metall i aire de port"
-  mans: ""
-  gestos_recorrents: []
+  olor_o_presencia: "cuir, metall, herbes de metge i aire de port"
+  mans: "mans fortes de combat i cura"
+  gestos_recorrents:
+    - "observar abans d'intervenir"
 vestuari_base:
-  silueta: "cuir nòrdic reforçat i espasa gran a l'esquena"
+  silueta: "cuir nordic reforçat i espasa gran a l'esquena"
   peces_principals:
     - "armilla o cuirassa de cuir marró"
     - "mànigues fosques"
@@ -33,32 +43,36 @@ vestuari_base:
     - "marró"
     - "gris fosc"
     - "negre"
+    - "acer"
   materials:
-    - "cuir"
+    - "cuir treballat"
     - "llana"
     - "metall"
   armes_visibles:
     - "espasa llarga a l'esquena"
     - "ganivet o eines al cinturó"
-  joies_i_objectes: []
-  notes: ""
+  joies_i_objectes:
+    - "eines o bosses de metge"
+  notes: "La roba ha de semblar practica, gastada per l'us i construida per protegir sense ornament excessiu."
 caracter:
-  primera_impressio: "veterà robust, pràctic i fiable"
+  primera_impressio: "veterà robust, practic i fiable"
   temperament: "calma de guerrer i sanador"
   virtuts_visibles:
     - "fiabilitat"
-    - "resistència"
+    - "resistencia"
+    - "sentit practic"
   defectes_visibles: []
   pors_o_tensions: []
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
-    - "mans de combat i vocació de metge"
-biografia_breu: "Guerrer-metge de les regions nòrdiques, pràctic i acostumat al perill."
+    - "mans de combat i vocacio de metge"
+biografia_breu: "Guerrer-metge de les regions nordiques, practic i acostumat al perill."
 referencies_visuals:
-  prompts_base:
-    - "Günnar Sønsteby, an unusually tall Nordic warrior-doctor, long wavy brown hair, neatly trimmed beard, rugged brown leather armor, heavy straps, formidable long sword on his back, seasoned and reliable."
+  prompt_original: "Günnar Sønsteby, an unusually tall 30-year-old Nordic warrior-doctor, long wavy brown hair, neatly trimmed beard, humble Nordic leather attire, brown boots, formidable long sword carried on his back, seasoned and reliable."
+  prompt_base: "Gunnar Sonsteby, unusually tall 30-year-old Vendel Nordic warrior-doctor, broad athletic build, long wavy brown hair, neatly trimmed brown beard, serious reliable eyes, rugged brown worked-leather armor and heavy straps, dark wool sleeves, sturdy boots, formidable long sword carried on his back, small healer pouches or tools at the belt, seasoned practical protective presence, classic realistic swashbuckling oil portrait."
   evitar:
-    - "fer-lo refinat o aristocràtic"
+    - "fer-lo refinat o aristocratic"
+    - "fer-lo massa jove o lleuger"
 variants_visuals: []
-notes_canon: "La portada reforça el cuir treballat, el cabell llarg castany i la presència de veterà robust."
+notes_lliures: []

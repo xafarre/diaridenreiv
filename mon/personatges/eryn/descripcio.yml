@@ -1,27 +1,37 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "eryn"
 nom: "Eryn"
+nacio:
+  id: "avalon"
+  nom: "Avalon / Inismore"
+  equivalent_historic: "Regne Unit / Irlanda"
+  nota: "Origen inismore o irlandes dins l'entorn d'Avalon; estetica de bosc, cuir, verds i cabell roig."
+imatge_inicial:
+  path: "mon/personatges/eryn/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa pigues, cabell roig i equip de caçadora."
 imatge_portada:
   path: "mon/personatges/eryn/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-eryn.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Eryn té una presència àgil i lluminosa, amb cabell roig recollit en trenes gruixudes, ulls verds i pigues que li encenen el rostre. La roba de cuir marró i verd li deixa llibertat de moviment, mentre l'arc i el buirac a l'esquena recorden que la seva elegància és de bosc, no de saló.
+  Eryn te una presencia agil i lluminosa, amb cabell roig recollit en trenes gruixudes, ulls verds i pigues que li encenen el rostre. La roba de cuir marró i verd li deixa llibertat de moviment, mentre l'arc i el buirac a l'esquena recorden que la seva elegancia es de bosc, no de salo.
 descripcio_fisica:
   edat_aparent: "26 anys"
   edat_real: "26 anys"
   alcada: ""
-  constitucio: "àgil"
+  constitucio: "agil i lleugera"
   pell: "clara amb pigues"
   ulls: "verds"
-  cabell: "llarg, roig, recollit en trenes"
+  cabell: "llarg, roig, recollit en trenes o monyo polit"
   rostre: "viu, amb pigues i somriure contingut"
   marques_distintives:
     - "pigues visibles"
-  postura_i_moviment: "lleugera, girada com si sempre pogués marxar corrent"
+    - "cabell roig intens"
+  postura_i_moviment: "lleugera, preparada per moure's, com si sempre pogues marxar corrent"
   veu: ""
   olor_o_presencia: "cuir, fusta d'arc i aire obert"
-  mans: ""
+  mans: "mans rapides de caçadora i arquera"
   gestos_recorrents: []
 vestuari_base:
   silueta: "cuir de caçadora, arc i buirac a l'esquena"
@@ -29,7 +39,7 @@ vestuari_base:
     - "cosset o cuir marró"
     - "mànigues verdes"
     - "cinturó ample"
-    - "botes robustes"
+    - "botes robustes de cuir vermell o marró rogenc"
   colors:
     - "roig"
     - "verd"
@@ -40,16 +50,17 @@ vestuari_base:
     - "fusta"
   armes_visibles:
     - "arc"
-    - "buitrac"
+    - "buirac"
     - "ganivet"
   joies_i_objectes: []
-  notes: ""
+  notes: "La combinacio de cabell roig, pigues, verds i cuir de bosc l'ha d'identificar immediatament."
 caracter:
-  primera_impressio: "ràpida, desperta i preparada"
-  temperament: ""
+  primera_impressio: "rapida, desperta i preparada"
+  temperament: "agil, atenta i silenciosa quan cal"
   virtuts_visibles:
     - "agilitat"
-    - "atenció"
+    - "atencio"
+    - "adaptabilitat"
   defectes_visibles: []
   pors_o_tensions: []
   manera_de_parlar: ""
@@ -58,9 +69,10 @@ caracter:
     - "aspecte amable i habilitat de caçadora silenciosa"
 biografia_breu: "Caçadora irlandesa, preparada per moure's pel bosc i actuar amb rapidesa."
 referencies_visuals:
-  prompts_base:
-    - "Eryn, an agile Irish huntress, long red braided hair, green eyes, freckled face, brown leather hunting clothes, green sleeves, bow and quiver on her back, swift and alert."
+  prompt_original: "Eryn, an agile 26-year-old Irish huntress, long red hair in braids or a neat bun, green eyes, humble leather garments for stealth and movement, sturdy red leather boots, bow and quiver on her back, knife at her waist."
+  prompt_base: "Eryn, agile 26-year-old Inish or Irish Avalon huntress, long vivid red hair in thick braids or a neat bun, green eyes, freckled fair face, alert half-smile, humble brown leather hunting clothes with green sleeves, sturdy red-brown leather boots, bow and quiver on her back, knife at her waist, swift forest-ready presence, classic realistic swashbuckling oil-painting detail."
   evitar:
     - "treure-li les pigues o el cabell roig"
+    - "vestir-la com una dama de cort"
 variants_visuals: []
-notes_canon: "La portada confirma i reforça cabell roig, ulls verds, pigues, arc i cuir de caçadora."
+notes_lliures: []

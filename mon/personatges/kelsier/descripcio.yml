@@ -1,29 +1,39 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "kelsier"
 nom: "Kelsier Dupont"
+nacio:
+  id: "montaigne"
+  nom: "Montaigne"
+  equivalent_historic: "França"
+  nota: "Gentilhome montaignes; refinament, negre auster, teatralitat controlada i secrets."
+imatge_inicial:
+  path: "mon/personatges/kelsier/imatge-inicial.png"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa barret negre, barba, pal.lidesa i roba fosca."
 imatge_portada:
   path: "mon/personatges/kelsier/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-kelsier.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Kelsier Dupont és tot reserva i control: rostre pàl·lid, cabell fosc, barba negra espessa i bigoti polit, sota un barret ample i roba negra d'una elegància severa. La corretja de cuir i la bossa penjada trenquen la perfecció cortesana amb una promesa de secrets. Sembla mirar abans de decidir què vol revelar.
+  Kelsier Dupont es tot reserva i control: rostre pal.lid, cabell fosc, barba negra espessa i bigoti polit, sota un barret ample i roba negra d'una elegancia severa. La corretja de cuir i la bossa penjada trenquen la perfeccio cortesana amb una promesa de secrets. Sembla mirar abans de decidir que vol revelar.
 descripcio_fisica:
   edat_aparent: "27 anys"
   edat_real: "27 anys"
   alcada: ""
-  constitucio: "atractiu i elegant"
-  pell: "pàl·lida"
+  constitucio: "atractiu, elegant i contingut"
+  pell: "pal.lida"
   ulls: ""
   cabell: "fosc, parcialment ocult pel barret"
-  rostre: "barba negra espessa, bigoti polit i expressió reservada"
+  rostre: "barba negra espessa, bigoti polit i expressio reservada"
   marques_distintives:
     - "barret negre ample"
     - "bossa misteriosa penjada"
-  postura_i_moviment: "quiet, simètric i controlat"
+  postura_i_moviment: "quiet, simetric i controlat"
   veu: ""
-  olor_o_presencia: "tela fosca, cuir i discreció"
-  mans: ""
-  gestos_recorrents: []
+  olor_o_presencia: "tela fosca, cuir i discrecio"
+  mans: "mans de gentilhome, curoses i contingudes"
+  gestos_recorrents:
+    - "mirar abans de revelar res"
 vestuari_base:
   silueta: "roba negra de gentilhome, coll alt i barret ample"
   peces_principals:
@@ -43,25 +53,28 @@ vestuari_base:
     - "espasa"
   joies_i_objectes:
     - "bossa misteriosa"
-    - "botons o fermalls metàl·lics"
-  notes: "La portada reforça molt el barret, la barba i el negre auster."
+    - "botons o fermalls metal.lics"
+  notes: "El barret, la barba i el negre auster defineixen la silueta."
 caracter:
-  primera_impressio: "refinat, secret i difícil de llegir"
-  temperament: "reservat"
+  primera_impressio: "refinat, secret i dificil de llegir"
+  temperament: "reservat, calculador i teatral sense exces"
   virtuts_visibles:
     - "autocontrol"
+    - "elegancia"
   defectes_visibles:
-    - "distància"
+    - "distancia"
+    - "opacitat"
   pors_o_tensions: []
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
-    - "elegància pública i secrets privats"
-biografia_breu: "Gentilhome montaignès d'aparença refinada i aura de secrets."
+    - "elegancia publica i secrets privats"
+biografia_breu: "Gentilhome montaignes d'aparença refinada i aura de secrets."
 referencies_visuals:
-  prompts_base:
-    - "Kelsier Dupont, an attractive Montaigne gentleman, pale face, dark hair, thick black beard and shaped moustache, black wide hat, elegant dark clothes, leather strap, mysterious bag, refined secretive presence."
+  prompt_original: "Kelsier Dupont, an attractive 27-year-old French gentleman, pale face, neatly trimmed black beard, elegant dark clothes, mysterious bag hanging from his belt, sword on his back, refined and secretive presence."
+  prompt_base: "Kelsier Dupont, attractive 27-year-old Montaigne gentleman, pale face, dark hair under a wide black hat, thick black beard and shaped moustache, controlled secretive expression, elegant austere black clothes with white ruffled collar, leather strap across the chest, mysterious pouch hanging from his belt, sword on his back, refined and enigmatic swashbuckling noble, classic realistic oil-painting detail."
   evitar:
-    - "fer-lo massa lluminós o informal"
+    - "fer-lo massa lluminos o informal"
+    - "treure-li el barret negre"
 variants_visuals: []
-notes_canon: "El canon deia barba negra ben retallada; la portada la mostra més plena i teatral, amb barret negre prominent."
+notes_lliures: []

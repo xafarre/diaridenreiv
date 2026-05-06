@@ -1,0 +1,70 @@
+schema: "personatge-descripcio/v2"
+id: "johannes"
+nom: "Johannes"
+nacio:
+  id: "castella"
+  nom: "Castella"
+  equivalent_historic: "Espanya"
+  nota: "Pirata castella veterà; estetica humil, practica i marcada per combat."
+imatge_inicial:
+  path: "mon/personatges/johannes/imatge-inicial.jpeg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc."
+imatge_portada:
+  path: ""
+  source_of_truth_web: false
+  nota: ""
+resum_web: ""
+descripcio_fisica:
+  edat_aparent: "35 anys"
+  edat_real: "35 anys"
+  alcada: ""
+  constitucio: "fort, robust i atractiu"
+  pell: ""
+  ulls: ""
+  cabell: ""
+  rostre: "experimentat, atractiu, amb cicatriu prominent"
+  marques_distintives:
+    - "cicatriu prominent al rostre"
+  postura_i_moviment: "practic, capaç i avesat a moure's en coberta"
+  veu: ""
+  olor_o_presencia: "sal, suor, cuir i ferro"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "roba humil de pirata i espasa distintiva al costat"
+  peces_principals:
+    - "roba humil"
+    - "cinturó de cuir"
+  colors:
+    - "marró"
+    - "gris"
+    - "acer"
+  materials:
+    - "cuir"
+    - "lli"
+    - "metall"
+  armes_visibles:
+    - "espasa distintiva al costat"
+  joies_i_objectes: []
+  notes: "Ha de semblar veterà i capaç, sense ornament innecessari."
+caracter:
+  primera_impressio: "pirata veterà, practic i formidable"
+  temperament: "experimentat, directe i funcional"
+  virtuts_visibles:
+    - "capacitat"
+    - "resistencia"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions: []
+biografia_breu: "Pirata castella robust i experimentat, reconeixible per la cicatriu i l'espasa."
+referencies_visuals:
+  prompt_original: "Johannes, a 35-year-old Spanish pirate, strong robust and handsome, experienced aura, humble clothes, prominent facial scar, distinctive sword at his side, formidable practical presence."
+  prompt_base: "Johannes, 35-year-old Castillian pirate, strong robust and handsome, experienced weathered aura, humble practical clothes, prominent facial scar, distinctive sword at his side, capable maritime stance, formidable practical presence, classic realistic swashbuckling oil portrait."
+  evitar:
+    - "fer-lo massa refinat"
+    - "amagar la cicatriu"
+variants_visuals: []
+notes_lliures: []

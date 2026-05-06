@@ -1,75 +1,91 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "reiv"
 nom: "Reiv Anvil"
+nacio:
+  id: "vendel"
+  nom: "Vendel / Vestenmannavnjar"
+  equivalent_historic: "Escandinavia"
+  nota: "Origen nordenc noble; l'estetica ha de conservar fredor marina, contencio aristocratica i materials robustos de viatge."
+imatge_inicial:
+  path: "mon/personatges/reiv/imatge-inicial.png"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa rostre, cabell, paleta i presencia."
 imatge_portada:
   path: "mon/personatges/reiv/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-reiv.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Reiv Anvil té la bellesa encara neta d'un noble massa jove per haver après a amagar del tot l'orgull. Porta els cabells rossos fins a la barbeta, una mirada gris blavosa i un abric gris de tall refinat, creuat per corretges de cuir, espasa i escut. La seva presència barreja educació, impuls i una elegància que l'aventura comença a esgarrapar.
+  Reiv Anvil te la bellesa encara neta d'un noble massa jove per haver apres a amagar del tot l'orgull. Porta els cabells rossos fins a la barbeta, una mirada gris blavosa i un abric gris de tall refinat, creuat per corretges de cuir, espasa i escut. La seva presencia barreja educacio, impuls i una elegancia que l'aventura comenca a esgarrapar.
 descripcio_fisica:
   edat_aparent: "17 anys"
-  edat_real: "17 anys"
-  alcada: "alt"
-  constitucio: "esvelt i atractiu"
+  edat_real: "18 anys"
+  alcada: "185 cm"
+  constitucio: "alt, esvelt i atractiu"
   pell: "clara"
   ulls: "gris blavosos"
-  cabell: "ros, de llargada mitjana, amb volum i caient cap als costats"
-  rostre: "jove, simetric, amb trets nobles i expressio seriosa"
+  cabell: "ros daurat, de llargada mitjana, amb volum, caient cap als costats i acabat en una cua curta"
+  rostre: "jove, simetric, trets nobles, llavis seriosos i expressio continguda"
   marques_distintives: []
-  postura_i_moviment: "postura recta, encara educada per la noblesa"
+  postura_i_moviment: "postura recta, educada per la noblesa, encara massa pulcra per semblar del tot endurit"
   veu: ""
-  olor_o_presencia: "neteja de roba bona, cuir i metall portuari"
-  mans: ""
-  gestos_recorrents: []
+  olor_o_presencia: "roba bona, cuir polit, metall i aire sali de port"
+  mans: "mans de noble avesades a l'esgrima i a l'escriptura, no a feines dures"
+  gestos_recorrents:
+    - "mirada frontal quan vol demostrar seguretat"
 vestuari_base:
-  silueta: "abric llarg i ajustat, corretges creuades i equip visible d'aventurer"
+  silueta: "abric llarg i ajustat, corretges creuades i equip visible d'aventurer noble"
   peces_principals:
-    - "abric gris refinat"
-    - "camisa clara"
-    - "corretges de cuir marró"
-    - "botes robustes"
+    - "abric gris refinat amb tancaments metal.lics"
+    - "camisa clara arrugada de viatge"
+    - "corretges de cuir marró creuant el pit"
+    - "botes robustes de cuir"
   colors:
-    - "gris"
+    - "gris pedra"
     - "marró cuir"
     - "crema"
+    - "acer envellit"
   materials:
-    - "llana"
+    - "llana gruixuda"
     - "cuir"
     - "metall"
+    - "lli"
   armes_visibles:
-    - "espasa"
+    - "espasa d'un sol tall"
     - "ganivet"
     - "escut rodó"
   joies_i_objectes: []
-  notes: "La portada confirma el to gris de la roba i el pes visual de l'escut i les corretges."
+  notes: "L'escut rodó i la corretja diagonal han de tenir pes visual; l'abric gris defineix la silueta."
 caracter:
-  primera_impressio: "noble jove, seriós i amb ganes de demostrar-se"
-  temperament: "impulsiu, lleial i atret per la glòria"
+  primera_impressio: "noble jove, serios, atractiu i amb ganes de demostrar-se"
+  temperament: "impulsiu, lleial, orgullos i atret per la gloria"
   virtuts_visibles:
     - "lleialtat"
     - "coratge"
+    - "educacio"
   defectes_visibles:
     - "orgull"
-    - "excés de confiança"
-  pors_o_tensions: []
-  manera_de_parlar: ""
-  relacio_amb_el_grup: "veu central del diari i company de la tripulació"
+    - "exces de confianca"
+  pors_o_tensions:
+    - "no estar a l'altura del propi llinatge"
+  manera_de_parlar: "formal quan vol imposar-se, amb ironia juvenil quan se sent segur"
+  relacio_amb_el_grup: "veu central del diari i company de la tripulacio"
   contradiccions:
-    - "educació noble i vida de port"
+    - "educacio noble i vida de port"
+    - "aparença pulcra i voluntat d'aventura"
 biografia_breu: "Noble aventurer de Valdeluna i cronista de la campanya."
 referencies_visuals:
-  prompts_base:
-    - "Reiv Anvil, a tall handsome 17-year-old noble scholar, blonde medium-length hair, grey refined coat, brown leather straps, round shield, sword and knife, youthful noble adventurer."
+  prompt_original: "Reiv Anvil, a tall handsome 17-year-old northern noble scholar, elegant bearing, blonde chin-length hair tied into a short tail, long refined grey coat, sturdy brown leather boots, round shield on his back, single-edged sword and knife at his waist, youthful noble adventurer."
+  prompt_base: "Reiv Anvil, tall handsome 17-year-old northern Vendel noble scholar and young adventurer, refined youthful face, clear blue-grey eyes, medium-length golden blond hair with volume and a short tied tail, elegant but practical long grey coat with metal clasps, cream linen shirt, brown leather straps across the chest, sturdy leather boots, round wooden shield at his side or back, single-edged sword and knife at the belt, noble posture, harbor background, classic realistic swashbuckling oil-painting detail."
   evitar:
     - "envellir-lo massa"
     - "fer-lo brut o brutal com un mercenari veterà"
+    - "convertir-lo en cavaller medieval generic"
 variants_visuals:
   - id: "reiv-disfressat-pobre"
     nom: "Reiv disfressat de pobre"
     tipus: "disfressa"
-    descripcio_visual: "Roba més basta, colors apagats i menys metall visible, però amb la mateixa postura massa recta."
-    diferencies_respecte_base: "Substitueix l'abric refinat per peces gastades i amaga armes nobles."
-    prompt_visual: ""
+    descripcio_visual: "Roba basta, colors apagats, menys metall visible i l'abric substituit per peces gastades; malgrat la disfressa, conserva una postura massa recta i una mirada massa educada."
+    diferencies_respecte_base: "Amaga les armes nobles i redueix la qualitat dels materials, pero no elimina del tot la noblesa corporal."
+    prompt_visual: "Reiv Anvil disguised as a poor young traveler, worn muted clothes, rough cloak, hidden weapons, blond hair and blue-grey eyes, still too upright and noble in posture, subtle swashbuckling realism."
     imatge_referencia: ""
-notes_canon: "La web antiga el feia més indefinit; la portada fixa cabell ros, abric gris, escut rodó i presència noble juvenil."
+notes_lliures: []

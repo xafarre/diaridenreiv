@@ -1,94 +1,108 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "alina"
 nom: "Alina Ivanova"
+nacio:
+  id: "ussura"
+  nom: "Ussura"
+  equivalent_historic: "Russia"
+  nota: "Estetica de fred, caça, pells blanques i natura salvatge."
+imatge_inicial:
+  path: "mon/personatges/alina/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa ulls verds pal.lids, cabell negre i pells blanques."
 imatge_portada:
   path: "mon/personatges/alina/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-alina.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Alina Ivanova té una bellesa freda i feral: pell clara, ulls verds molt pàl·lids, cabell negre i ondulat caient sobre pells blanques de llop i ós. Les marques fines a les galtes i el buirac rere l'espatlla li donen una presència de caçadora acostumada al gel, al silenci i a mirar abans de moure's.
+  Alina Ivanova te una bellesa freda i feral: pell clara, ulls verds molt pal.lids, cabell negre i ondulat caient sobre pells blanques de llop i os. Les marques fines a les galtes i el buirac rere l'espatlla li donen una presencia de caçadora acostumada al gel, al silenci i a mirar abans de moure's.
 descripcio_fisica:
   edat_aparent: "22 anys"
   edat_real: "22 anys"
   alcada: ""
-  constitucio: "esvelta"
+  constitucio: "esvelta, resistent i agil"
   pell: "clara"
-  ulls: "verds molt pàl·lids"
+  ulls: "verds molt pal.lids"
   cabell: "llarg, negre i ondulat"
-  rostre: "serè, intens, amb faccions marcades"
+  rostre: "serè, intens, amb faccions marcades i mirada depredadora"
   marques_distintives:
     - "marques fines o cicatrius a les galtes"
   postura_i_moviment: "quietud de caçadora, atenta i continguda"
   veu: ""
-  olor_o_presencia: "fred, pell blanca i cuir"
-  mans: ""
-  gestos_recorrents: []
+  olor_o_presencia: "fred, pell blanca, cuir i bosc nevat"
+  mans: "mans de caçadora, precises i rapides"
+  gestos_recorrents:
+    - "mirar abans de moure's"
 vestuari_base:
   silueta: "pells blanques voluminoses sobre cuir ajustat de caçadora"
   peces_principals:
-    - "pell blanca de llop o ós"
+    - "pell blanca de llop o os polar"
     - "cuir fosc"
     - "corretges de cuir"
     - "botes negres"
   colors:
-    - "blanc"
+    - "blanc neu"
     - "negre"
     - "marró cuir"
+    - "acer fred"
   materials:
     - "pell"
     - "cuir"
     - "metall"
   armes_visibles:
     - "arc"
-    - "buitrac amb fletxes"
+    - "buirac amb fletxes"
     - "espasa curta"
   joies_i_objectes: []
-  notes: "La portada fa molt visibles les pells blanques, el buirac i les marques facials."
+  notes: "Les pells blanques, el buirac i les marques facials han de ser trets identificadors."
 caracter:
   primera_impressio: "salvatge, precisa i distant"
-  temperament: "instintiva i observadora"
+  temperament: "instintiva, observadora i autosuficient"
   virtuts_visibles:
-    - "astúcia"
-    - "resistència"
-  defectes_visibles: []
+    - "astucia"
+    - "resistencia"
+    - "paciencia"
+  defectes_visibles:
+    - "distancia"
   pors_o_tensions: []
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
-    - "bellesa delicada i presència depredadora"
-biografia_breu: "Caçadora ussura vinculada a la natura, al fred i a la bruixeria de transformació."
+    - "bellesa delicada i presencia depredadora"
+biografia_breu: "Caçadora ussura vinculada a la natura, al fred i a la bruixeria de transformacio."
 referencies_visuals:
-  prompts_base:
-    - "Alina Ivanova, a slender Ussuran huntress, long wavy black hair, pale skin, pale green eyes, fine cheek scars, white wolf and polar bear furs, black leather, bow and quiver, wild experienced aura."
+  prompt_original: "Alina Ivanova, a slender 22-year-old Russian huntress with a wild experienced aura, long wavy black hair, white skin, green eyes, clothing made from white wolf and polar bear leather, black leather boots, bow and quiver, short sword at her waist."
+  prompt_base: "Alina Ivanova, slender 22-year-old Ussuran huntress, pale skin, very pale green eyes, long wavy black hair, fine cheek scars, calm feral expression, white wolf and polar bear furs over dark fitted leather, black leather boots, bow and quiver over the shoulder, short sword at her waist, cold northern wilderness aura, agile silent predator presence, classic realistic swashbuckling oil-painting detail."
   evitar:
     - "fer-la massa urbana o cortesana"
+    - "canviar-li els ulls verds pal.lids"
 variants_visuals:
   - id: "alina-cacadora-hivern"
     nom: "Alina amb roba de caçadora d'hivern"
     tipus: "vestimenta"
     descripcio_visual: "Pells blanques, cuir fosc, cabell negre solt i buirac visible."
-    diferencies_respecte_base: "És la base visual actual."
-    prompt_visual: ""
-    imatge_referencia: "mon/personatges/alina/portada.png"
+    diferencies_respecte_base: "Es la base visual actual."
+    prompt_visual: "Alina Ivanova in winter huntress clothing, white wolf and polar bear furs, dark leather, long black wavy hair, pale green eyes, bow and quiver, cold Ussuran wilderness presence."
+    imatge_referencia: "mon/personatges/alina/imatge-inicial.jpg"
   - id: "alina-gat"
     nom: "Alina transformada en gat"
     tipus: "transformacio"
-    descripcio_visual: "En forma de gat, Alina adopta l'aspecte d'un gat siberià de mida mitjana, d'uns 7 kg, amb el pèl gris platejat i blanc perla. Els ulls continuen sent d'un verd molt pàl·lid, gairebé glaçat, i tot el cos transmet agilitat, silenci i precisió."
-    diferencies_respecte_base: "Redueix la seva presència humana a una forma felina clara i freda, conservant els ulls verds pàl·lids com a senyal d'identitat."
-    prompt_visual: "Siberian cat, medium-sized, silver-gray and pearl-white fur, very pale green eyes, agile elegant body, cold northern presence."
+    descripcio_visual: "En forma de gat, Alina adopta l'aspecte d'un gat siberia de mida mitjana, d'uns 7 kg, amb el pel gris platejat i blanc perla. Els ulls continuen sent d'un verd molt pal.lid, gairebe glaçat, i tot el cos transmet agilitat, silenci i precisio."
+    diferencies_respecte_base: "Redueix la seva presencia humana a una forma felina clara i freda, conservant els ulls verds pal.lids com a senyal d'identitat."
+    prompt_visual: "Siberian cat, medium-sized, about 7 kg, silver-gray and pearl-white fur, very pale green eyes, agile elegant body, cold northern presence."
     imatge_referencia: ""
   - id: "alina-mico"
     nom: "Alina transformada en mico"
     tipus: "transformacio"
-    descripcio_visual: "En forma de mico, Alina sembla un ximpanzé de mida mitjana, d'uns 130 cm i 45 kg, amb pèl gris platejat i blanc perla. Té una constitució forta, però es mou amb una agilitat sorprenent. Tot i que no existeix cap raça de ximpanzé pròpia de Sibèria, aquesta forma sembla exactament això: l'encarnació d'un ximpanzé siberià."
-    diferencies_respecte_base: "Transforma la seva feralitat de caçadora en força compacta, mans hàbils i moviment vertical, però manté la paleta freda de gris platejat i blanc perla."
+    descripcio_visual: "En forma de mico, Alina sembla un ximpanze de mida mitjana, d'uns 130 cm i 45 kg, amb pel gris platejat i blanc perla. Te una constitucio forta, pero es mou amb una agilitat sorprenent. Tot i que no existeix cap raça de ximpanze propia de Siberia, aquesta forma sembla exactament aixo: l'encarnacio d'un ximpanze siberia."
+    diferencies_respecte_base: "Transforma la seva feralitat de caçadora en força compacta, mans habils i moviment vertical, pero mante la paleta freda de gris platejat i blanc perla."
     prompt_visual: "A Siberian-looking chimpanzee, medium-sized, 130 cm tall, 45 kg, silver-gray and pearl-white fur, strong compact build, very agile, pale northern aura."
     imatge_referencia: ""
   - id: "alina-sierpe-voladora"
     nom: "Alina transformada en sierpe voladora"
     tipus: "transformacio"
-    descripcio_visual: "En forma de sierpe voladora, Alina és una serp d'aproximadament un metre de llarg. Des del cap fins al primer terç del cos s'estenen unes ales plegables: quan estan tancades semblen una protuberància llarga sobre el llom; quan s'obren, recorden ales de ratpenat, amb la base prop del cap i una membrana tensada fins a la punta d'aquesta extensió."
-    diferencies_respecte_base: "La identitat visual passa de caçadora humana a criatura reptiliana i alada, pensada per lliscar, planar i aparèixer com una forma estranya però elegant."
+    descripcio_visual: "En forma de sierpe voladora, Alina es una serp d'aproximadament un metre de llarg. Des del cap fins al primer terç del cos s'estenen unes ales plegables: quan estan tancades semblen una protuberancia llarga sobre el llom; quan s'obren, recorden ales de ratpenat, amb la base prop del cap i una membrana tensada fins a la punta d'aquesta extensio."
+    diferencies_respecte_base: "La identitat visual passa de caçadora humana a criatura reptiliana i alada, pensada per lliscar, planar i apareixer com una forma estranya pero elegant."
     prompt_visual: "A flying serpent about one meter long, wings running from the head to the first third of the body, folded wings forming a long dorsal bulge, open bat-like membranes stretched from near the head to the wing tips, elegant strange creature."
     imatge_referencia: ""
-notes_canon: "El canon textual i la portada coincideixen en cabell fosc, ulls verds, pells blanques i rol de caçadora; la portada afegeix marques facials clares. Les formes animals canon actuals són gat siberià, mico d'aparença siberiana i sierpe voladora."
+notes_lliures: []

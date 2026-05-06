@@ -1,0 +1,71 @@
+schema: "personatge-descripcio/v2"
+id: "alarik-dantes"
+nom: "Alarik Dantés"
+nacio:
+  id: "castella"
+  nom: "Castella"
+  equivalent_historic: "Espanya"
+  nota: "Capita pirata castella; autoritat sobria, foscor elegant i confiança perillosa."
+imatge_inicial:
+  path: "mon/personatges/alarik-dantes/imatge-inicial.jpeg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc."
+imatge_portada:
+  path: ""
+  source_of_truth_web: false
+  nota: ""
+resum_web: ""
+descripcio_fisica:
+  edat_aparent: "40 anys"
+  edat_real: "40 anys"
+  alcada: "190 cm"
+  constitucio: "imponent i fort"
+  pell: ""
+  ulls: ""
+  cabell: "fosc"
+  rostre: "serios, madur, amb barba fosca i presencia de capita"
+  marques_distintives: []
+  postura_i_moviment: "quietud d'autoritat, com algu avesat a ser obeït"
+  veu: ""
+  olor_o_presencia: "sal, cuir fosc i comandament"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "roba fosca, senzilla pero elegant, de capita pirata"
+  peces_principals:
+    - "jaqueta fosca"
+    - "camisa o armilla austera"
+    - "cinturó de cuir"
+  colors:
+    - "negre"
+    - "marró fosc"
+    - "acer"
+  materials:
+    - "cuir"
+    - "llana"
+    - "metall"
+  armes_visibles: []
+  joies_i_objectes: []
+  notes: "Ha de combinar austeritat amb rang; res massa cridaner."
+caracter:
+  primera_impressio: "intimidant, serios i estranyament fiable"
+  temperament: "autoritat calmada, perillosa i pragmatica"
+  virtuts_visibles:
+    - "fiabilitat"
+    - "autoritat"
+  defectes_visibles:
+    - "intimidacio"
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "pirata intimidador i home a qui altres confiarien secrets"
+biografia_breu: "Capita pirata castella d'autoritat sobria i presencia fiable."
+referencies_visuals:
+  prompt_original: "Alarik Dantés, a 40-year-old Spanish pirate captain, 1.90 meters tall, dark hair and beard, imposing serious presence, simple yet elegant dark understated clothing, intimidating but trustworthy."
+  prompt_base: "Alarik Dantes, 40-year-old Castillian pirate captain, 1.90 meters tall, imposing strong build, dark hair and dark beard, serious mature face, simple yet elegant dark understated captain's clothing, leather belt, restrained maritime authority, intimidating but trustworthy presence, classic realistic swashbuckling oil portrait."
+  evitar:
+    - "fer-lo teatral en exces"
+    - "fer-lo massa luxos o noble de cort"
+variants_visuals: []
+notes_lliures: []

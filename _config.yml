@@ -15,3 +15,7 @@ exclude:
   - Gemfile.lock
   - mon/personatges/*/fitxa.yml
   - mon/personatges/*/descripcio.yml
+  - mon/personatges/*/imatge-inicial.*
+  - mon/naus/*/canon.md
+  - mon/llocs/*/canon.md
+  - mon/objectes/*/canon.md

@@ -1,70 +1,84 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "antonella"
 nom: "Antonella Verdiccio"
+nacio:
+  id: "vodacce"
+  nom: "Vodacce"
+  equivalent_historic: "Italia"
+  nota: "Noblesa vodaccia exiliada; estetica de caputxa, foscor elegant, cabell coure i bruixeria subtil."
+imatge_inicial:
+  path: "mon/personatges/antonella/imatge-inicial.png"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa caputxa, cabell coure, ulls de mel i piga."
 imatge_portada:
   path: "mon/personatges/antonella/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-antonella.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Antonella Verdiccio porta la noblesa com una cosa que cal amagar però no pot desaparèixer. Sota una caputxa fosca, el cabell coure cau en ones brillants, els ulls de mel observen amb calma i una petita piga prop de la boca trenca la perfecció del rostre. La seva bellesa és refinada, prudent i perillosa.
+  Antonella Verdiccio porta la noblesa com una cosa que cal amagar pero no pot desapareixer. Sota una caputxa fosca, el cabell coure cau en ones brillants, els ulls de mel observen amb calma i una petita piga prop de la boca trenca la perfeccio del rostre. La seva bellesa es refinada, prudent i perillosa.
 descripcio_fisica:
   edat_aparent: "23 anys"
   edat_real: "23 anys"
   alcada: ""
-  constitucio: "esvelta"
+  constitucio: "esvelta, amb malucs arrodonits i presencia refinada"
   pell: "oliva clara"
-  ulls: "mel daurat"
-  cabell: "coure amb reflexos daurats, llarg i ondulat"
-  rostre: "oval, bell i serè"
+  ulls: "mel daurat, esmolats i misteriosos, amb pestanyes llargues"
+  cabell: "coure amb reflexos daurats, llarg, gruixut i ondulat"
+  rostre: "oval, bell, serè i captivador"
   marques_distintives:
     - "piga prop de la boca"
-  postura_i_moviment: "quieta, refinada i esquiva"
+  postura_i_moviment: "quieta, refinada, esquiva i calculada"
   veu: ""
   olor_o_presencia: "tela fosca, perfum discret i cautela"
-  mans: ""
-  gestos_recorrents: []
+  mans: "mans fines i controlades"
+  gestos_recorrents:
+    - "ocultar part del rostre sota la caputxa"
 vestuari_base:
   silueta: "caputxa ampla i roba fosca elegant"
   peces_principals:
-    - "caputxa fosca"
+    - "caputxa fosca ampla"
     - "vestit o roba negra refinada"
     - "detalls de puntes o brodat"
   colors:
     - "negre"
     - "coure"
     - "daurat"
+    - "oliva"
   materials:
     - "vellut o tela fina"
     - "puntes"
+    - "brodat"
   armes_visibles: []
   joies_i_objectes: []
-  notes: "La portada mostra sobretot rostre, caputxa i cabell; la resta del vestuari queda parcialment ocult."
+  notes: "La caputxa ha d'ocultar-la sense anul.lar la noblesa; el cabell coure i la piga son senyals principals."
 caracter:
-  primera_impressio: "noble, fugitiva i magnètica"
-  temperament: "calculadora i prudent"
+  primera_impressio: "noble, fugitiva i magnetica"
+  temperament: "calculadora, prudent i captivadora"
   virtuts_visibles:
     - "control"
-    - "elegància"
+    - "elegancia"
+    - "discrecio"
   defectes_visibles:
-    - "distància"
+    - "distancia"
   pors_o_tensions:
     - "necessitat d'ocultar identitat"
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
-    - "vol ocultar-se però la seva elegància la delata"
+    - "vol ocultar-se pero la seva elegancia la delata"
 biografia_breu: "Noble vodaccia exiliada, marcada per una bellesa que suggereix sang de bruixa."
 referencies_visuals:
-  prompts_base:
-    - "Antonella Verdiccio, a 23-year-old Vodacce noblewoman in exile, copper hair with golden highlights, honey-gold eyes, light olive skin, beauty mark near her mouth, dark hood, elegant black garments, refined elusive witch lineage."
+  prompt_original: "Antonella Verdiccio, a 23-year-old noblewoman in exile, slender figure with rounded hips, beautiful oval face, sharp mysterious golden-honey eyes with long lashes, thick copper hair with golden highlights in soft waves, dark olive-toned skin, beauty mark near her mouth, loose dark hood, elegant dark gowns, elusive witch lineage."
+  prompt_base: "Antonella Verdiccio, 23-year-old Vodacce noblewoman in exile, slender figure with rounded hips, beautiful oval face, light olive skin, sharp mysterious golden-honey eyes with long lashes, thick copper hair with golden highlights in soft waves, beauty mark near her mouth, loose dark hood framing the face, elegant dark gowns with subtle lace or embroidery, elusive witch lineage, refined dangerous grace, classic realistic swashbuckling oil-painting detail."
   evitar:
     - "fer-la vulgar o massa oberta"
+    - "convertir la bruixeria en efectes visuals exagerats"
 variants_visuals:
   - id: "antonella-caputxa-fugitiva"
     nom: "Antonella amb caputxa de fugitiva"
     tipus: "vestimenta"
-    descripcio_visual: "Caputxa fosca, cabell coure visible, rostre serè i mirada de mel."
-    diferencies_respecte_base: "És la base visual actual."
-    prompt_visual: ""
-    imatge_referencia: "mon/personatges/antonella/portada.png"
-notes_canon: "La portada fa la pell més clara que el text original de pell fosca oliva; es conserva com a oliva clara per respectar totes dues fonts."
+    descripcio_visual: "Caputxa fosca, cabell coure visible, rostre serè, mirada de mel i piga prop de la boca."
+    diferencies_respecte_base: "Es la base visual actual."
+    prompt_visual: "Antonella Verdiccio under a loose dark hood, copper hair visible, golden-honey eyes, beauty mark near the mouth, refined elusive Vodacce noblewoman in exile."
+    imatge_referencia: "mon/personatges/antonella/imatge-inicial.png"
+notes_lliures: []

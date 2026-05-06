@@ -1,12 +1,21 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "kamui"
 nom: "Kamui"
+nacio:
+  id: "eisen"
+  nom: "Eisen"
+  equivalent_historic: "Alemanya"
+  nota: "Guerrer eisen; l'estetica ha d'anar lligada al pes del Dracheneisen, metall fosc i disciplina marcial."
+imatge_inicial:
+  path: "mon/personatges/kamui/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa armadura, rostre i presencia monumental."
 imatge_portada:
   path: "mon/personatges/kamui/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-kamui.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Kamui és una figura frontal i imponent, gairebé construïda per l'armadura Dracheneisen que li cobreix el tors i les espatlles amb metall fosc ornamentat. Té cabell negre curt, mandíbula marcada i una mirada dura, blavosa o grisa, que no busca agradar. La seva presència és marcial, pesada i difícil d'apartar de l'escena.
+  Kamui es una figura frontal i imponent, gairebe construida per l'armadura Dracheneisen que li cobreix el tors i les espatlles amb metall fosc ornamentat. Te cabell negre curt, mandibula marcada i una mirada dura, blavosa o grisa, que no busca agradar. La seva presencia es marcial, pesada i dificil d'apartar de l'escena.
 descripcio_fisica:
   edat_aparent: "30 anys"
   edat_real: "30 anys"
@@ -15,20 +24,22 @@ descripcio_fisica:
   pell: "clara"
   ulls: "blaus o grisos"
   cabell: "curt i negre"
-  rostre: "mandíbula marcada, barba molt curta o ombra de barba"
+  rostre: "mandibula marcada, barba molt curta o ombra de barba, expressio severa"
   marques_distintives: []
   postura_i_moviment: "frontal, pesat i disciplinat"
   veu: ""
   olor_o_presencia: "metall polit, cuir i disciplina militar"
   mans: ""
-  gestos_recorrents: []
+  gestos_recorrents:
+    - "encarar-se frontalment als obstacles"
 vestuari_base:
   silueta: "armadura Dracheneisen ampla i ornamentada, amb espasa a l'esquena"
   peces_principals:
-    - "cuirassa metàl·lica"
+    - "cuirassa metal.lica de Dracheneisen"
     - "espatlleres ornamentades"
     - "cota o mànigues fosques"
     - "corretges de cuir"
+    - "gamberes metal.liques amb forma de peus de drac"
   colors:
     - "acer fosc"
     - "negre"
@@ -41,38 +52,41 @@ vestuari_base:
     - "espasa a l'esquena"
     - "arma curta al cinturó"
   joies_i_objectes: []
-  notes: "La portada confirma que l'armadura domina completament la silueta."
+  notes: "L'armadura domina completament la silueta i ha de donar-li una presencia gairebe monumental."
 caracter:
   primera_impressio: "guerrer sever, estable i intimidant"
-  temperament: "disciplinat"
+  temperament: "disciplinat, ferm i poc ornamental"
   virtuts_visibles:
     - "fermesa"
-    - "resistència"
-  defectes_visibles: []
+    - "resistencia"
+    - "control"
+  defectes_visibles:
+    - "duresa"
   pors_o_tensions: []
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
-    - "home ocult rere una armadura gairebé monumental"
-biografia_breu: "Guerrer eisen lligat al pes visual i simbòlic del Dracheneisen."
+    - "home ocult rere una armadura gairebe monumental"
+biografia_breu: "Guerrer eisen lligat al pes visual i simbolic del Dracheneisen."
 referencies_visuals:
-  prompts_base:
-    - "Kamui, a tall strong Eisen warrior, short black hair, stern blue-grey eyes, imposing ornate Dracheneisen armor, dark metal shoulders, leather straps, sword on his back, monumental martial presence."
+  prompt_original: "Kamui, a tall strong 30-year-old warrior from the Holy Roman Empire, short black hair, clean-shaven face, piercing blue eyes, imposing Dracheneisen armor, metal greaves shaped like dragon feet, sword on his back, monumental martial presence."
+  prompt_base: "Kamui, tall strong 30-year-old Eisen warrior, short black hair, stern blue-grey eyes, square jaw with very short stubble, imposing ornate dark Dracheneisen armor, broad metal shoulders, dragon-foot shaped greaves, leather straps, sword carried on his back, monumental martial silhouette, disciplined frontal stance, classic realistic swashbuckling oil-painting detail."
   evitar:
-    - "fer-lo lleuger o massa cortesà"
+    - "fer-lo lleuger o massa cortesa"
+    - "reduir visualment l'armadura"
 variants_visuals:
   - id: "kamui-armadura-dracheneisen"
     nom: "Kamui amb armadura Dracheneisen"
     tipus: "armadura"
-    descripcio_visual: "Metall fosc ornamentat, espatlleres amples, corretges de cuir i espasa a l'esquena."
-    diferencies_respecte_base: "És la base visual actual."
-    prompt_visual: ""
-    imatge_referencia: "mon/personatges/kamui/portada.png"
+    descripcio_visual: "Metall fosc ornamentat, espatlleres amples, corretges de cuir, gamberes amb forma de peus de drac i espasa a l'esquena."
+    diferencies_respecte_base: "Es la base visual actual."
+    prompt_visual: "Kamui in imposing ornate Dracheneisen armor, dark metal shoulders, dragon-foot greaves, leather straps, sword on his back, monumental Eisen warrior presence."
+    imatge_referencia: "mon/personatges/kamui/imatge-inicial.jpg"
   - id: "kamui-sense-armadura"
     nom: "Kamui sense armadura"
     tipus: "vestimenta"
-    descripcio_visual: ""
-    diferencies_respecte_base: "Mostra cos i roba sense el volum monumental del Dracheneisen."
-    prompt_visual: ""
+    descripcio_visual: "Sense el volum del Dracheneisen, Kamui conserva l'alçada, la constitucio forta, el cabell negre curt, la mirada blavosa o grisa i una postura disciplinada. Porta roba fosca i practica d'entrenament o viatge, amb cinturó i botes robustes."
+    diferencies_respecte_base: "Mostra cos i roba sense el volum monumental del Dracheneisen, pero mante severitat i presencia militar."
+    prompt_visual: "Kamui without armor, tall strong Eisen warrior, short black hair, stern blue-grey eyes, square jaw with stubble, dark practical travel clothes, leather belt and sturdy boots, disciplined martial posture."
     imatge_referencia: ""
-notes_canon: "El canon textual deia rostre afaitat; la portada mostra barba molt curta o ombra de barba. La portada preval com a estat visual actual."
+notes_lliures: []

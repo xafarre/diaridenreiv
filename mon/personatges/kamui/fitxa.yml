@@ -32,7 +32,7 @@ avantatges:
     cost_ph: 0
     font: "Canon visual i textual"
     efecte: ""
-    notes: "Armadura visible i descrita al canon; cost i detalls mecanics pendents."
+    notes: "Armadura documentada a descripcio.yml; cost i detalls mecanics pendents."
 trasfons: []
 habilitats:
   civils: []
@@ -64,7 +64,7 @@ formes_i_vestimentes:
   - id: "kamui-armadura-dracheneisen"
     nom: "Kamui amb armadura Dracheneisen"
     tipus: "armadura"
-    estat: "canon"
+    estat: "confirmat"
     vinculada_a:
       sistema: "Dracheneisen"
       capacitat: ""
@@ -87,4 +87,4 @@ formes_i_vestimentes:
     imatge_referencia: ""
     notes_visuals: "Ha de conservar cos fort, cabell negre curt i mirada dura."
     notes_joc: ""
-notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."
+notes: "Fitxa inicial creada a partir de descripcio.yml i dades de joc; valors mecanics pendents de confirmacio."

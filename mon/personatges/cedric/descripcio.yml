@@ -1,28 +1,37 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: "cedric"
 nom: "Cedric"
+nacio:
+  id: "montaigne"
+  nom: "Montaigne"
+  equivalent_historic: "França"
+  nota: "Origen humil montaignes; estetica popular, de cami i duelista de carrer."
+imatge_inicial:
+  path: "mon/personatges/cedric/imatge-inicial.jpg"
+  source_of_truth_fisica: true
+  nota: "Retrat inicial sense marc; fixa mocador verd, cuir gastat i barba curta."
 imatge_portada:
   path: "mon/personatges/cedric/portada.png"
-  source_of_truth: true
-  origen: ".olddiary/septimo-mar-portada-cedric.png"
+  source_of_truth_web: true
+  nota: "Versio de portada del web."
 resum_web: >-
-  Cedric sembla sortit d'un camí polsós més que d'una cort: cabell castany despentinat, barba curta, mocador verd al front i cuir marró gastat sobre una camisa fosca. Les marques al rostre i l'espasa a l'esquena li donen aire de duelista popular, humil però capaç de saltar a l'acció sense demanar permís.
+  Cedric sembla sortit d'un cami polsos mes que d'una cort: cabell castany despentinat, barba curta, mocador verd al front i cuir marró gastat sobre una camisa fosca. Les marques al rostre i l'espasa a l'esquena li donen aire de duelista popular, humil pero capaç de saltar a l'accio sense demanar permis.
 descripcio_fisica:
   edat_aparent: "25 anys"
   edat_real: "25 anys"
   alcada: ""
-  constitucio: "atlètic"
+  constitucio: "atlètic i nervios"
   pell: "clara"
   ulls: "marrons"
   cabell: "curt, castany i despentinat"
-  rostre: "barba curta, faccions humils i marques de vida dura"
+  rostre: "barba castanya d'una setmana, faccions humils i marques de vida dura"
   marques_distintives:
     - "petites marques o cicatrius al rostre"
     - "mocador verd al front"
-  postura_i_moviment: "relaxat, pràctic, sempre amb equip de viatge"
+  postura_i_moviment: "relaxat, practic, sempre amb equip de viatge"
   veu: ""
-  olor_o_presencia: "cuir gastat, camí i port"
-  mans: ""
+  olor_o_presencia: "cuir gastat, cami i port"
+  mans: "mans de treball i d'espasa"
   gestos_recorrents: []
 vestuari_base:
   silueta: "roba humil de cuir, motxilla i espasa a l'esquena"
@@ -31,6 +40,7 @@ vestuari_base:
     - "armilla de cuir marró"
     - "camisa verda o fosca"
     - "corretges i bossa de viatge"
+    - "botes verdes distintives"
   colors:
     - "verd"
     - "marró cuir"
@@ -44,24 +54,26 @@ vestuari_base:
     - "ganivet"
   joies_i_objectes:
     - "bossa o motxilla de viatge"
-  notes: "La portada confirma mocador verd, cuir humil i marques facials."
+  notes: "El mocador verd i les botes verdes han de donar-li una identitat visual popular i reconeixible."
 caracter:
   primera_impressio: "humil, despert i resistent"
-  temperament: ""
+  temperament: "practic, energetic i directe"
   virtuts_visibles:
     - "pragmatisme"
     - "energia"
+    - "agilitat"
   defectes_visibles: []
   pors_o_tensions: []
   manera_de_parlar: ""
   relacio_amb_el_grup: ""
   contradiccions:
     - "origen senzill i potencial de duelista"
-biografia_breu: "Home de procedència humil, amb energia física i habilitat d'aventurer popular."
+biografia_breu: "Home de procedencia humil, amb energia fisica i habilitat d'aventurer popular."
 referencies_visuals:
-  prompts_base:
-    - "Cedric, a humble athletic Montaigne peasant adventurer, short messy brown hair, short brown beard, brown eyes, green headscarf, worn brown leather vest, travel pack, sword on his back, practical popular duelist."
+  prompt_original: "Cedric, a humble athletic 25-year-old French peasant, short messy brown hair, one-week brown beard, brown eyes, green forehead scarf, humble French leather attire, distinctive green boots, one-handed sword on his back, knife at his waist."
+  prompt_base: "Cedric, humble athletic 25-year-old Montaigne peasant duelist, short messy brown hair, one-week brown beard, brown eyes, green forehead scarf, weathered face with small marks, humble worn brown leather vest over dark green shirt, travel pack and straps, distinctive green boots, one-handed sword on his back, knife at his waist, practical energetic popular adventurer, classic realistic swashbuckling oil-painting detail."
   evitar:
     - "vestir-lo com un noble refinat"
+    - "netejar-li massa l'aspecte de cami"
 variants_visuals: []
-notes_canon: "La portada reforça el mocador verd, el cuir gastat i algunes marques facials que no quedaven tan clares al canon."
+notes_lliures: []

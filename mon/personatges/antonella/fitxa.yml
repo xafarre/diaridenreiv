@@ -50,14 +50,14 @@ bruixeria:
       grau: ""
       punts_hechiceria: 0
       capacitats: []
-      notes: "Possible herència vodaccia suggerida pel canon de bruixa; nivells pendents."
+      notes: "Possible herència vodaccia suggerida per la descripcio del personatge; nivells pendents."
 habilitats_especials: []
 motxilla: []
 formes_i_vestimentes:
   - id: "antonella-caputxa-fugitiva"
     nom: "Antonella amb caputxa de fugitiva"
     tipus: "vestimenta"
-    estat: "canon"
+    estat: "confirmat"
     vinculada_a:
       sistema: ""
       capacitat: ""
@@ -67,4 +67,4 @@ formes_i_vestimentes:
     imatge_referencia: "mon/personatges/antonella/portada.png"
     notes_visuals: "Font visual base actual."
     notes_joc: ""
-notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."
+notes: "Fitxa inicial creada a partir de descripcio.yml i dades de joc; valors mecanics pendents de confirmacio."

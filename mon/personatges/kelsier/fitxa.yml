@@ -48,7 +48,7 @@ combat:
       abast: ""
       curt_llarg: ""
       recarrega: ""
-      notes: "Visible al canon textual."
+      notes: "Documentat a descripcio.yml."
 esgrima:
   escoles: []
 bruixeria:
@@ -57,4 +57,4 @@ habilitats_especials: []
 motxilla:
   - "Bossa misteriosa"
 formes_i_vestimentes: []
-notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."
+notes: "Fitxa inicial creada a partir de descripcio.yml i dades de joc; valors mecanics pendents de confirmacio."

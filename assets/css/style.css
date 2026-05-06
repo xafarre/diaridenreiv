@@ -510,6 +510,12 @@ img {
   font-size: clamp(1.7rem, 3vw, 2.35rem);
   line-height: 1;
   text-transform: uppercase;
+  overflow-wrap: anywhere;
+}
+
+.world-card-with-icon h2 {
+  font-size: clamp(1.35rem, 2vw, 1.6rem);
+  overflow-wrap: normal;
 }
 
 .world-card span {

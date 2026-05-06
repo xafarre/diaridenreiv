@@ -1,10 +1,19 @@
-schema: "personatge-descripcio/v1"
+schema: "personatge-descripcio/v2"
 id: null
 nom: null
+nacio:
+  id: null
+  nom: null
+  equivalent_historic: null
+  nota: ""
+imatge_inicial:
+  path: null
+  source_of_truth_fisica: true
+  nota: "Ha de viure dins mon/personatges/<slug>/, habitualment com imatge-inicial.<ext>."
 imatge_portada:
   path: null
-  source_of_truth: true
-  origen: ""
+  source_of_truth_web: true
+  nota: ""
 resum_web: null
 descripcio_fisica:
   edat_aparent: ""
@@ -40,12 +49,23 @@ caracter:
   contradiccions: []
 biografia_breu: ""
 referencies_visuals:
-  prompts_base: []
+  prompt_original: ""
+  prompt_base: ""
   evitar: []
 variants_visuals: []
-notes_canon: ""
+notes_lliures: []
 
 # resum_web hauria de ser un paragraf curt, en catala, de 40-90 paraules.
+#
+# nacio.id ha de ser un dels valors: castella, montaigne, vendel, avalon, vodacce, eisen, ussura.
+# nacio.equivalent_historic orientatiu:
+#   castella: Espanya
+#   montaigne: França
+#   vendel: Escandinavia
+#   avalon: Regne Unit / Irlanda / Inismore segons nota
+#   vodacce: Italia
+#   eisen: Alemanya
+#   ussura: Russia
 #
 # variants_visuals:
 #   - id: "personatge-variant"
