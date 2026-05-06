@@ -1,0 +1,117 @@
+schema: "personatge-descripcio/v2"
+id: "pablo-pato"
+nom: "Pablo Pato"
+nacio:
+  id: "castella"
+  nom: "Castella"
+  equivalent_historic: "Espanya"
+  nota: "El nom i el tractament apunten a un origen castella; l'origen exacte no esta confirmat dins el diari."
+imatge_inicial:
+  path: "mon/personatges/pablo-pato/imatge-inicial.png"
+  source_of_truth_fisica: true
+  nota: "Retall creat a partir de les imatges de l'Acte XXVI, especialment l'escena on mostra el seu coneixement de plantes."
+imatge_portada:
+  path: "mon/personatges/pablo-pato/portada.png"
+  source_of_truth_web: true
+  nota: "Copia publica de la imatge inicial per a la pagina de personatge."
+resum_web: >-
+  Pablo Pato és un home baixet i grassonet, de cabell negre, ulleres rodones i gestos tan prudents que gairebé fan nosa. Sembla maldestre, sempre a punt de disculpar-se amb el món, però quan parla d'arrels, fulles, bàlsams i verins, la veu li troba una precisió inesperada. La seva saviesa ve de dits tacats de terra, no de vanitat.
+descripcio_fisica:
+  edat_aparent: "adult"
+  edat_real: ""
+  alcada: "baixet"
+  constitucio: "grassonet, tou i poc heroic"
+  pell: "clara o lleugerament torrada pel port"
+  ulls: "foscos, sovint amagats rere ulleres rodones"
+  cabell: "negre, abundant, llis o lleugerament ondulat, sovint humit i desordenat"
+  rostre: "rodó, insegur, amb expressió avergonyida i concentrada"
+  marques_distintives:
+    - "ulleres rodones"
+    - "cabell negre sovint enganxat al front"
+    - "posat xop, atabalat o massa prudent"
+  postura_i_moviment: "abaixa el cap, mira sovint a terra i es mou amb una cautela maldestra"
+  veu: "balbucejant i entretallada quan esta nervios; precisa quan parla de plantes"
+  olor_o_presencia: "aigua de moll, cuir humit, arrels seques i herbes aixafades"
+  mans: "mans curtes i expertes, avesades a triar fulles, arrels i escorces"
+  gestos_recorrents:
+    - "prémer-se les ulleres pel pont amb dos dits"
+    - "abaixar la mirada abans de respondre"
+    - "fregar-se les mans quan pensa en plantes"
+vestuari_base:
+  silueta: "roba senzilla de viatge, armilla fosca i camisa clara, sovint humida o tacada"
+  peces_principals:
+    - "camisa clara arrugada"
+    - "armilla fosca de cuir o tela gruixuda"
+    - "pantalons foscos de viatge"
+    - "cinturó pràctic"
+    - "bossa de plantes i eines petites"
+  colors:
+    - "crema brut"
+    - "marró fosc"
+    - "negre humit"
+    - "verd sec"
+  materials:
+    - "lli gastat"
+    - "cuir humit"
+    - "cordill"
+    - "paper o tela per embolicar herbes"
+  armes_visibles: []
+  joies_i_objectes:
+    - "ulleres rodones"
+    - "bossa de botanica"
+    - "arrels assecades"
+    - "fulles i herbes embolicades"
+  notes: "El seu equip ha de parlar de botanica i supervivencia abans que d'aventura heroica."
+caracter:
+  primera_impressio: "maldestre, ximplet, espantadís i una mica còmic"
+  temperament: "prudent, nervios, obsessiu amb les plantes i molt menys babau del que sembla"
+  virtuts_visibles:
+    - "coneixement botanic"
+    - "humilitat"
+    - "prudencia"
+    - "paciencia d'observador"
+  defectes_visibles:
+    - "maldestre"
+    - "poruc"
+    - "poca presencia social"
+  pors_o_tensions:
+    - "l'aigua"
+    - "quedar en ridicul"
+    - "fer nosa al grup"
+  manera_de_parlar: "frases curtes, sovint entretallades; quan parla de plantes es torna concret i sorprenentment segur"
+  relacio_amb_el_grup: "NPC incorporat a la tripulacio com a coneixedor d'herbes, bàlsams, pomades i alguns verins"
+  contradiccions:
+    - "aparenca babaua i coneixement real"
+    - "por constant i curiositat prou forta per embarcar-se"
+biografia_breu: "Botanic o herbolari castella trobat en una escala de port, rescatat per Reiv després de caure a l'aigua i acceptat a bord per la seva utilitat amb plantes, bàlsams, pomades i verins."
+referencies_visuals:
+  imatges_referencia:
+    - "diari/capitol05/acte26/acte-xxvi-pablo-pato-rescat-moll.webp"
+    - "diari/capitol05/acte26/acte-xxvi-pablo-pato-coneixement-plantes.webp"
+    - "diari/capitol05/acte26/acte-xxvi-pablo-pato-acceptat-a-bord.webp"
+  prompt_original: ""
+  prompt_base: "Pablo Pato, short chubby Castillian botanist and herbalist NPC, adult man with wet messy black hair, round spectacles, round anxious face, awkward timid posture, cream wrinkled shirt under a dark wet vest, practical dark travel trousers, small herb satchel, dried roots and leaves in his hands, nervous but knowledgeable expression, adjusting his glasses with two fingers, humble port-side swashbuckling setting, classic realistic oil-painting detail, no modern objects."
+  evitar:
+    - "fer-lo heroic o atlètic"
+    - "treure-li les ulleres rodones"
+    - "fer-lo massa refinat o noble"
+    - "convertir-lo en caricatura grotesca"
+variants_visuals:
+  - id: "pablo-xop-moll"
+    nom: "Pablo xop al moll"
+    tipus: "estat"
+    descripcio_visual: "Roba completament xopa, cabell negre enganxat al front, ulleres tortes i expressió de tragèdia marítima desproporcionada."
+    diferencies_respecte_base: "Accentua el costat còmic i vulnerable després del rescat."
+    prompt_visual: "Pablo Pato soaked at a wooden dock, short chubby botanist with round spectacles, wet messy black hair, cream shirt and dark vest dripping water, anxious embarrassed expression, humble comic maritime survival moment."
+    imatge_referencia: "diari/capitol05/acte26/acte-xxvi-pablo-pato-rescat-moll.webp"
+  - id: "pablo-botanic-treballant"
+    nom: "Pablo examinant plantes"
+    tipus: "estat"
+    descripcio_visual: "Pablo assegut o inclinat sobre una taula de moll, amb arrels, fulles, escorces i embolcalls davant seu; el gest continua insegur, però la mirada i les mans són precises."
+    diferencies_respecte_base: "Mostra la seva competència real com a botànic."
+    prompt_visual: "Pablo Pato examining dried roots and strange leaves on a dockside table, round spectacles, wet black hair, dark vest, cream shirt, nervous but precise botanist hands, humble herbalist expertise."
+    imatge_referencia: "mon/personatges/pablo-pato/imatge-inicial.png"
+notes_lliures:
+  - "Primera aparicio documentada: diari/capitol05/acte26/acte26.md."
+  - "A l'Acte XXIX es reforça la seva por a l'aigua i la imatge d'home prudent amb ulleres."
+  - "A l'Acte XXX es confirma la seva utilitat preparant un bàlsam contra insectes o irritacions."

@@ -49,6 +49,7 @@ caracter:
   contradiccions: []
 biografia_breu: ""
 referencies_visuals:
+  imatges_referencia: []
   prompt_original: ""
   prompt_base: ""
   evitar: []
