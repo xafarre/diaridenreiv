@@ -7,17 +7,17 @@ label: Acte XXIV
 order: 24
 ---
 
-Decidírem separar-nos per fer gestions personals. Jo aní al ferrer, on comprí un conjunt d’escut i espasa que em cridà l’atenció des del primer moment. L’espasa era d’acer negre, amb detalls blancs com marfil polit; tenia una aparença severa, gairebé cerimonial, però el tall prometia més que ornament. L’escut, de fusta reforçada amb acer negre, semblava fet per resistir no pas cops, sinó opinions.
+Decidírem separar-nos per fer gestions personals. Jo aní al ferrer, on un conjunt d’escut i espasa em cridà l’atenció des del primer moment. L’espasa era d’acer negre, amb detalls blancs com marfil polit; tenia una aparença severa, gairebé cerimonial, però el tall prometia més que ornament. L’escut, de fusta reforçada amb acer negre, semblava fet per resistir no pas cops, sinó opinions.
 
 Mentre provava l’espasa, entrà en Kamui. Li demaní que colpegés l’escut amb tota la seva força. Ho feu sense gaire necessitat de convèncer-lo, i el cop ressonà dins la ferreria com si algú hagués tancat una porta al rostre del destí. L’aturí. Miràrem tots dos la superfície. Ni una marca. Ni una esquerda. Res. Vaig contenir el somriure amb una dignitat que, confesso, no sentia del tot. Aquell escut era increïble.
 
 ![acte xxiv ferreria escut kamui]({{ '/diari/capitol04/acte24/acte-xxiv-ferreria-escut-kamui.webp' | relative_url }})
 
-Finalment, visití la costurera, a qui havia deixat la jaqueta perquè me la reparés. Me la retornà en un estat impecable. Havia reforçat les costures, netejat la tela, polit i curat les cintes de pell, i afegit petits detalls que elevaven encara més la noblesa de la peça sense convertir-la en una fanfarronada. Me la vaig posar amb discreció, que és la forma més refinada de la vanitat quan un sap que la peça parla prou bé tota sola.
+Després visití la costurera, a qui havia deixat la jaqueta perquè me la reparés. Me la retornà impecable: costures reforçades, tela neta, cintes de pell polides i alguns detalls nous que elevaven la peça sense convertir-la en una fanfarronada. Me la vaig posar amb discreció, que és la forma més refinada de la vanitat quan un sap que la roba parla prou bé tota sola.
 
 ![acte xxiv la perla de valdeluna jaqueta]({{ '/diari/capitol04/acte21/acte-xxi-una-casa-valdeluna-jaqueta.webp' | relative_url }})
 
-Quan el sol s’amagà darrere els turons, la llum de Valdeluna prengué aquell daurat trist que tenen les ciutats quan el dia no vol acabar de morir. Caminí pels carrerons empedrats sense pressa, deixant enrere el brogit més franc de les tavernes i les finestres obertes, fins que arribí davant La Perla, el prostíbul més refinat i discret del poble. El rètol, tallat en fusta i daurat pel temps, oscil·lava suaument amb el vent, com si saludés només aquells que ja sabien què hi cercaven.
+Quan el sol s’amagà darrere els turons, la llum de Valdeluna prengué aquell daurat trist que tenen les ciutats quan el dia no vol acabar de morir. Caminí pels carrerons empedrats sense pressa, deixant enrere el brogit de les tavernes i les finestres obertes, fins que arribí davant La Perla, el prostíbul més refinat i discret del poble. El rètol, tallat en fusta i daurat pel temps, oscil·lava suaument amb el vent, com si saludés només aquells que ja sabien què hi cercaven.
 
 ![acte xxiv la perla exterior capvespre]({{ '/diari/capitol04/acte24/acte-xxiv-la-perla-exterior-capvespre.webp' | relative_url }})
 
@@ -27,7 +27,7 @@ A l’interior, l’aire era espès i càlid, perfumat amb essències de canyell
 
 M’incliní lleugerament, amb aquella cortesia que sovint evita haver de respondre, i em decantí per la dreta.
 
-La sala era fosca i elegant, il·luminada per espelmes que tremolaven dins petites gàbies metàl·liques. Hi havia poques taules, gairebé totes disposades per a parelles, una barra curta de fusta noble i, al centre, un piano de cua que trencava la quietud amb una melodia suau. La pianista, vestida de negre, tocava amb el rostre serè, però els dits li lliscaven sobre les tecles com si cada nota li arrenqués un record que hauria preferit conservar tancat.
+La sala era fosca i elegant, il·luminada per espelmes que tremolaven dins petites gàbies metàl·liques. Hi havia poques taules, gairebé totes disposades per a parelles, una barra curta de fusta noble i, al centre, un piano de cua que sostenia la quietud amb una melodia suau. La pianista, vestida de negre, tocava amb el rostre serè, però els dits li lliscaven sobre les tecles com si cada nota li arrenqués un record que hauria preferit conservar tancat.
 
 ![acte xxiv la perla pianista]({{ '/diari/capitol04/acte24/acte-xxiv-la-perla-pianista.webp' | relative_url }})
 
@@ -53,4 +53,4 @@ Ella s’aixecà amb gràcia i s’apropà. El seu perfum, una barreja de flors 
 
 S’assegué al meu costat. Els seus ulls tenien un to que cap espelma no podia imitar del tot. Parlàrem primer del vi, després del piano, i més tard de res concret, que és sovint el camí més ràpid cap a les converses que importen. La seva veu posseïa una calma hipnòtica, i el seu riure, quan finalment aparegué, trencà amb delicadesa el vel de solemnitat que cobria la sala.
 
-A cada paraula i a cada pausa, la distància entre nosaltres s’anà desfent com el vi sobre la llengua. No hauria sabut dir si la conversa era més sensual que intel·ligent o més intel·ligent que sensual, i potser hauria estat una vulgaritat intentar separar una cosa de l’altra. Dins La Perla, aquella nit, el temps deixà de comptar-se per minuts.
+A cada paraula i a cada pausa, la distància entre nosaltres s’anà desfent com el vi sobre la llengua. No hauria sabut dir si la conversa era més sensual que intel·ligent o més intel·ligent que sensual, i potser hauria estat una vulgaritat intentar separar una cosa de l’altra. Dins La Perla, aquella nit, el temps deixà de comptar-se per minuts; fora, Valdeluna guardava silenci, i per primera vegada en molts dies aquell silenci no semblava una amenaça.
