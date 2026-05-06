@@ -1,0 +1,83 @@
+schema: "personatge-fitxa/v1"
+id: "reiv"
+nom: "Reiv Anvil"
+jugador: ""
+estat_campanya:
+  actiu: true
+  ultima_actualitzacio: "2026-05-06"
+  sessio_o_acte: ""
+identitat_joc:
+  nacionalitat: "Castilla"
+  professio: "Noble aventurer i cronista"
+  organitzacions:
+    - "Companyia d'Alarik Dantés"
+    - "Tripulació vinculada al Corazón Sombrío"
+  reputacio:
+    punts: 0
+    daus_totals: 0
+  experiencia:
+    total: 0
+    gastada: 0
+    disponible: 0
+caracteristiques:
+  musculo: 0
+  mana: 0
+  ingenio: 0
+  brio: 0
+  donaire: 0
+arcano:
+  tipus: ""
+  nom: ""
+  efecte_resum: ""
+avantatges: []
+trasfons: []
+habilitats:
+  civils: []
+  marcials: []
+combat:
+  daus_accio: []
+  defenses: []
+  ferides:
+    superficials_actuals: 0
+    dramatiques_actuals: 0
+    tirada_ferides: 0
+    inconscient: false
+  armes:
+    - nom: "Espasa d'un sol tall"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible a la portada i al canon."
+    - nom: "Ganivet"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible al canon textual."
+esgrima:
+  escoles: []
+bruixeria:
+  herencies: []
+habilitats_especials: []
+motxilla:
+  - "Escut rodó"
+formes_i_vestimentes:
+  - id: "reiv-disfressat-pobre"
+    nom: "Reiv disfressat de pobre"
+    tipus: "disfressa"
+    estat: "proposta"
+    vinculada_a:
+      sistema: ""
+      capacitat: ""
+    descripcio_curta: "Variant per ocultar l'origen noble i moure's entre gent humil."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: ""
+    notes_visuals: "Ha de rebaixar la qualitat dels teixits sense perdre del tot la postura noble."
+    notes_joc: ""
+notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."

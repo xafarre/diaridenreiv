@@ -1,0 +1,75 @@
+schema: "personatge-descripcio/v1"
+id: "reiv"
+nom: "Reiv Anvil"
+imatge_portada:
+  path: "mon/personatges/reiv/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-reiv.png"
+resum_web: >-
+  Reiv Anvil té la bellesa encara neta d'un noble massa jove per haver après a amagar del tot l'orgull. Porta els cabells rossos fins a la barbeta, una mirada gris blavosa i un abric gris de tall refinat, creuat per corretges de cuir, espasa i escut. La seva presència barreja educació, impuls i una elegància que l'aventura comença a esgarrapar.
+descripcio_fisica:
+  edat_aparent: "17 anys"
+  edat_real: "17 anys"
+  alcada: "alt"
+  constitucio: "esvelt i atractiu"
+  pell: "clara"
+  ulls: "gris blavosos"
+  cabell: "ros, de llargada mitjana, amb volum i caient cap als costats"
+  rostre: "jove, simetric, amb trets nobles i expressio seriosa"
+  marques_distintives: []
+  postura_i_moviment: "postura recta, encara educada per la noblesa"
+  veu: ""
+  olor_o_presencia: "neteja de roba bona, cuir i metall portuari"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "abric llarg i ajustat, corretges creuades i equip visible d'aventurer"
+  peces_principals:
+    - "abric gris refinat"
+    - "camisa clara"
+    - "corretges de cuir marró"
+    - "botes robustes"
+  colors:
+    - "gris"
+    - "marró cuir"
+    - "crema"
+  materials:
+    - "llana"
+    - "cuir"
+    - "metall"
+  armes_visibles:
+    - "espasa"
+    - "ganivet"
+    - "escut rodó"
+  joies_i_objectes: []
+  notes: "La portada confirma el to gris de la roba i el pes visual de l'escut i les corretges."
+caracter:
+  primera_impressio: "noble jove, seriós i amb ganes de demostrar-se"
+  temperament: "impulsiu, lleial i atret per la glòria"
+  virtuts_visibles:
+    - "lleialtat"
+    - "coratge"
+  defectes_visibles:
+    - "orgull"
+    - "excés de confiança"
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: "veu central del diari i company de la tripulació"
+  contradiccions:
+    - "educació noble i vida de port"
+biografia_breu: "Noble aventurer de Valdeluna i cronista de la campanya."
+referencies_visuals:
+  prompts_base:
+    - "Reiv Anvil, a tall handsome 17-year-old noble scholar, blonde medium-length hair, grey refined coat, brown leather straps, round shield, sword and knife, youthful noble adventurer."
+  evitar:
+    - "envellir-lo massa"
+    - "fer-lo brut o brutal com un mercenari veterà"
+variants_visuals:
+  - id: "reiv-disfressat-pobre"
+    nom: "Reiv disfressat de pobre"
+    tipus: "disfressa"
+    descripcio_visual: "Roba més basta, colors apagats i menys metall visible, però amb la mateixa postura massa recta."
+    diferencies_respecte_base: "Substitueix l'abric refinat per peces gastades i amaga armes nobles."
+    prompt_visual: ""
+    imatge_referencia: ""
+notes_canon: "La web antiga el feia més indefinit; la portada fixa cabell ros, abric gris, escut rodó i presència noble juvenil."

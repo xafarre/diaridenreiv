@@ -473,6 +473,28 @@ img {
   text-decoration: none;
 }
 
+.world-card-with-icon a {
+  grid-template-columns: auto 1fr;
+  min-height: 160px;
+  align-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.world-card-icon {
+  width: 86px;
+  height: 86px;
+  border: 2px solid rgba(91, 23, 21, 0.56);
+  border-radius: 50%;
+  box-shadow: 0 8px 20px rgba(43, 22, 17, 0.22);
+  object-fit: cover;
+}
+
+.world-card-body {
+  display: block;
+  min-width: 0;
+}
+
 .world-card p {
   margin: 0 0 8px;
   color: var(--sea);
@@ -497,6 +519,10 @@ img {
   line-height: 1.5;
 }
 
+.world-card-body span {
+  display: block;
+}
+
 .world-card:hover,
 .world-card:focus-within {
   background: var(--paper-light);
@@ -505,6 +531,18 @@ img {
 .world-entry {
   max-width: var(--measure);
   margin: 0 auto;
+}
+
+.character-portrait {
+  max-width: min(100%, 430px);
+  margin: 0 auto 28px;
+}
+
+.character-portrait img {
+  width: 100%;
+  border: 2px solid rgba(91, 23, 21, 0.58);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
 }
 
 .character-sheet {

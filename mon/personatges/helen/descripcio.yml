@@ -1,0 +1,64 @@
+schema: "personatge-descripcio/v1"
+id: "helen"
+nom: "Helen O'Donell"
+imatge_portada:
+  path: "mon/personatges/helen/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-helen.png"
+resum_web: >-
+  Helen O'Donell apareix com una aventurera noble de figura prima i gest contingut, embolcallada per una capa vermella que li dona presència de llinatge fins i tot al port. La portada fixa un cabell ros fosc o castany clar, recollit en una cua llarga, roba clara de viatge, corretges de cuir i una espasa a l'esquena.
+descripcio_fisica:
+  edat_aparent: "25 anys"
+  edat_real: "25 anys"
+  alcada: ""
+  constitucio: "prima i elegant"
+  pell: "clara"
+  ulls: ""
+  cabell: "ros fosc o castany clar, llarg i recollit en cua"
+  rostre: "fi, seriós i aristocràtic"
+  marques_distintives: []
+  postura_i_moviment: "continguda, dreta, amb elegància marcial"
+  veu: ""
+  olor_o_presencia: ""
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "capa llarga sobre roba clara de viatge"
+  peces_principals:
+    - "capa vermella"
+    - "brusa clara"
+    - "faixa i corretges de cuir"
+    - "botes de viatge"
+  colors:
+    - "vermell"
+    - "blanc trencat"
+    - "marró cuir"
+  materials:
+    - "llana"
+    - "lli"
+    - "cuir"
+  armes_visibles:
+    - "espasa a l'esquena"
+    - "ganivet"
+  joies_i_objectes:
+    - "penjoll discret"
+  notes: "La portada fa prevaldre un cabell més clar que el castany del canon textual."
+caracter:
+  primera_impressio: "noble, reservada i preparada per al perill"
+  temperament: ""
+  virtuts_visibles:
+    - "determinació"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "gràcia aristocràtica i vida d'aventurera"
+biografia_breu: "Aventurera d'origen noble vinculada a les primeres cròniques de la tripulació."
+referencies_visuals:
+  prompts_base:
+    - "Helen O'Donell, a slim elegant 25-year-old noble adventurer, long dark-blonde hair tied back, red family cape, light adventuring clothes, leather straps, sword on her back, poised and determined."
+  evitar:
+    - "fer-la massa cortesana o estàtica"
+variants_visuals: []
+notes_canon: "El canon textual deia cabell castany; la portada actual el mostra ros fosc o castany clar i aquesta versio preval visualment."

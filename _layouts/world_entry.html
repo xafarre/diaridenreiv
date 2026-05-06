@@ -11,6 +11,12 @@ layout: default
     {% endif %}
   </header>
 
+  {% if page.type == "character" and page.image %}
+    <figure class="character-portrait">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+    </figure>
+  {% endif %}
+
   {% if page.type == "character" and page.sheet %}
     <section class="character-sheet" aria-label="Fitxa de personatge">
       {% for field in site.data.character_fields %}

@@ -1,0 +1,67 @@
+schema: "personatge-descripcio/v1"
+id: "kelsier"
+nom: "Kelsier Dupont"
+imatge_portada:
+  path: "mon/personatges/kelsier/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-kelsier.png"
+resum_web: >-
+  Kelsier Dupont és tot reserva i control: rostre pàl·lid, cabell fosc, barba negra espessa i bigoti polit, sota un barret ample i roba negra d'una elegància severa. La corretja de cuir i la bossa penjada trenquen la perfecció cortesana amb una promesa de secrets. Sembla mirar abans de decidir què vol revelar.
+descripcio_fisica:
+  edat_aparent: "27 anys"
+  edat_real: "27 anys"
+  alcada: ""
+  constitucio: "atractiu i elegant"
+  pell: "pàl·lida"
+  ulls: ""
+  cabell: "fosc, parcialment ocult pel barret"
+  rostre: "barba negra espessa, bigoti polit i expressió reservada"
+  marques_distintives:
+    - "barret negre ample"
+    - "bossa misteriosa penjada"
+  postura_i_moviment: "quiet, simètric i controlat"
+  veu: ""
+  olor_o_presencia: "tela fosca, cuir i discreció"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "roba negra de gentilhome, coll alt i barret ample"
+  peces_principals:
+    - "barret negre"
+    - "jaqueta negra"
+    - "coll blanc arrissat"
+    - "corretja de cuir"
+  colors:
+    - "negre"
+    - "blanc"
+    - "marró cuir"
+  materials:
+    - "vellut o llana fina"
+    - "cuir"
+    - "metall"
+  armes_visibles:
+    - "espasa"
+  joies_i_objectes:
+    - "bossa misteriosa"
+    - "botons o fermalls metàl·lics"
+  notes: "La portada reforça molt el barret, la barba i el negre auster."
+caracter:
+  primera_impressio: "refinat, secret i difícil de llegir"
+  temperament: "reservat"
+  virtuts_visibles:
+    - "autocontrol"
+  defectes_visibles:
+    - "distància"
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "elegància pública i secrets privats"
+biografia_breu: "Gentilhome montaignès d'aparença refinada i aura de secrets."
+referencies_visuals:
+  prompts_base:
+    - "Kelsier Dupont, an attractive Montaigne gentleman, pale face, dark hair, thick black beard and shaped moustache, black wide hat, elegant dark clothes, leather strap, mysterious bag, refined secretive presence."
+  evitar:
+    - "fer-lo massa lluminós o informal"
+variants_visuals: []
+notes_canon: "El canon deia barba negra ben retallada; la portada la mostra més plena i teatral, amb barret negre prominent."

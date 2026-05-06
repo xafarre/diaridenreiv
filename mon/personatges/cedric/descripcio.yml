@@ -1,0 +1,67 @@
+schema: "personatge-descripcio/v1"
+id: "cedric"
+nom: "Cedric"
+imatge_portada:
+  path: "mon/personatges/cedric/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-cedric.png"
+resum_web: >-
+  Cedric sembla sortit d'un camí polsós més que d'una cort: cabell castany despentinat, barba curta, mocador verd al front i cuir marró gastat sobre una camisa fosca. Les marques al rostre i l'espasa a l'esquena li donen aire de duelista popular, humil però capaç de saltar a l'acció sense demanar permís.
+descripcio_fisica:
+  edat_aparent: "25 anys"
+  edat_real: "25 anys"
+  alcada: ""
+  constitucio: "atlètic"
+  pell: "clara"
+  ulls: "marrons"
+  cabell: "curt, castany i despentinat"
+  rostre: "barba curta, faccions humils i marques de vida dura"
+  marques_distintives:
+    - "petites marques o cicatrius al rostre"
+    - "mocador verd al front"
+  postura_i_moviment: "relaxat, pràctic, sempre amb equip de viatge"
+  veu: ""
+  olor_o_presencia: "cuir gastat, camí i port"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "roba humil de cuir, motxilla i espasa a l'esquena"
+  peces_principals:
+    - "mocador verd"
+    - "armilla de cuir marró"
+    - "camisa verda o fosca"
+    - "corretges i bossa de viatge"
+  colors:
+    - "verd"
+    - "marró cuir"
+    - "gris fosc"
+  materials:
+    - "cuir"
+    - "lli"
+    - "metall"
+  armes_visibles:
+    - "espasa d'una mà"
+    - "ganivet"
+  joies_i_objectes:
+    - "bossa o motxilla de viatge"
+  notes: "La portada confirma mocador verd, cuir humil i marques facials."
+caracter:
+  primera_impressio: "humil, despert i resistent"
+  temperament: ""
+  virtuts_visibles:
+    - "pragmatisme"
+    - "energia"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "origen senzill i potencial de duelista"
+biografia_breu: "Home de procedència humil, amb energia física i habilitat d'aventurer popular."
+referencies_visuals:
+  prompts_base:
+    - "Cedric, a humble athletic Montaigne peasant adventurer, short messy brown hair, short brown beard, brown eyes, green headscarf, worn brown leather vest, travel pack, sword on his back, practical popular duelist."
+  evitar:
+    - "vestir-lo com un noble refinat"
+variants_visuals: []
+notes_canon: "La portada reforça el mocador verd, el cuir gastat i algunes marques facials que no quedaven tan clares al canon."

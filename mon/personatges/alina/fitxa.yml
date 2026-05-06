@@ -1,0 +1,135 @@
+schema: "personatge-fitxa/v1"
+id: "alina"
+nom: "Alina Ivanova"
+jugador: ""
+estat_campanya:
+  actiu: true
+  ultima_actualitzacio: "2026-05-06"
+  sessio_o_acte: ""
+identitat_joc:
+  nacionalitat: "Ussura"
+  professio: "Caçadora"
+  organitzacions: []
+  reputacio:
+    punts: 0
+    daus_totals: 0
+  experiencia:
+    total: 0
+    gastada: 0
+    disponible: 0
+caracteristiques:
+  musculo: 0
+  mana: 0
+  ingenio: 0
+  brio: 0
+  donaire: 0
+arcano:
+  tipus: ""
+  nom: ""
+  efecte_resum: ""
+avantatges: []
+trasfons: []
+habilitats:
+  civils: []
+  marcials: []
+combat:
+  daus_accio: []
+  defenses: []
+  ferides:
+    superficials_actuals: 0
+    dramatiques_actuals: 0
+    tirada_ferides: 0
+    inconscient: false
+  armes:
+    - nom: "Arc"
+      tipus: "distancia"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Arc i buirac visibles a la portada."
+    - nom: "Espasa curta"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible al canon textual."
+esgrima:
+  escoles: []
+bruixeria:
+  herencies:
+    - nom: "Pyeryem"
+      tipus_sang: ""
+      grau: ""
+      punts_hechiceria: 0
+      capacitats:
+        - nom: "Gat"
+          nivell: 0
+          efecte: "Forma de gat siberià gris platejat i blanc perla, molt àgil."
+        - nom: "Mico"
+          nivell: 0
+          efecte: "Forma de ximpanzé d'aparença siberiana, fort i molt àgil."
+        - nom: "Sierpe voladora"
+          nivell: 0
+          efecte: "Forma de serp alada d'aproximadament un metre."
+      notes: "El tipus de sang i nivells exactes estan pendents; les formes conegudes actuals són gat, mico i sierpe voladora."
+habilitats_especials: []
+motxilla:
+  - "Buirac"
+formes_i_vestimentes:
+  - id: "alina-cacadora-hivern"
+    nom: "Alina amb roba de caçadora d'hivern"
+    tipus: "vestimenta"
+    estat: "canon"
+    vinculada_a:
+      sistema: ""
+      capacitat: ""
+    descripcio_curta: "Pells blanques, cuir fosc, arc i buirac."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: "mon/personatges/alina/portada.png"
+    notes_visuals: "Font visual base actual."
+    notes_joc: ""
+  - id: "alina-gat"
+    nom: "Alina transformada en gat"
+    tipus: "transformacio"
+    estat: "canon"
+    vinculada_a:
+      sistema: "Pyeryem"
+      capacitat: "Gat"
+    descripcio_curta: "Gat siberià de mida mitjana, pèl gris platejat i blanc perla, ulls verds molt pàl·lids i moviments extraordinàriament àgils."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: ""
+    notes_visuals: "Ha de pesar uns 7 kg i conservar una elegància freda, clara i siberiana."
+    notes_joc: "Pes aproximat: 7 kg."
+  - id: "alina-mico"
+    nom: "Alina transformada en mico"
+    tipus: "transformacio"
+    estat: "canon"
+    vinculada_a:
+      sistema: "Pyeryem"
+      capacitat: "Mico"
+    descripcio_curta: "Ximpanzé de mida mitjana, pèl gris platejat i blanc perla, constitució forta però molt àgil."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: ""
+    notes_visuals: "Tot i no correspondre a cap raça real de Sibèria, ha de semblar l'encarnació d'un ximpanzé siberià."
+    notes_joc: "Alçada aproximada: 130 cm. Pes aproximat: 45 kg."
+  - id: "alina-sierpe-voladora"
+    nom: "Alina transformada en sierpe voladora"
+    tipus: "transformacio"
+    estat: "canon"
+    vinculada_a:
+      sistema: "Pyeryem"
+      capacitat: "Sierpe voladora"
+    descripcio_curta: "Serp d'aproximadament un metre de llarg, amb ales plegables que neixen prop del cap i arriben fins al primer terç del cos."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: ""
+    notes_visuals: "Amb les ales plegades, semblen un bony allargat sobre el cos. Obertes, recorden unes ales de ratpenat: la base queda prop del cap i la membrana es tensa fins a la punta d'aquesta protuberància."
+    notes_joc: ""
+notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."

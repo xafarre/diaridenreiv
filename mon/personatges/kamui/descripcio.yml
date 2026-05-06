@@ -1,0 +1,78 @@
+schema: "personatge-descripcio/v1"
+id: "kamui"
+nom: "Kamui"
+imatge_portada:
+  path: "mon/personatges/kamui/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-kamui.png"
+resum_web: >-
+  Kamui és una figura frontal i imponent, gairebé construïda per l'armadura Dracheneisen que li cobreix el tors i les espatlles amb metall fosc ornamentat. Té cabell negre curt, mandíbula marcada i una mirada dura, blavosa o grisa, que no busca agradar. La seva presència és marcial, pesada i difícil d'apartar de l'escena.
+descripcio_fisica:
+  edat_aparent: "30 anys"
+  edat_real: "30 anys"
+  alcada: "alt"
+  constitucio: "fort i imponent"
+  pell: "clara"
+  ulls: "blaus o grisos"
+  cabell: "curt i negre"
+  rostre: "mandíbula marcada, barba molt curta o ombra de barba"
+  marques_distintives: []
+  postura_i_moviment: "frontal, pesat i disciplinat"
+  veu: ""
+  olor_o_presencia: "metall polit, cuir i disciplina militar"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "armadura Dracheneisen ampla i ornamentada, amb espasa a l'esquena"
+  peces_principals:
+    - "cuirassa metàl·lica"
+    - "espatlleres ornamentades"
+    - "cota o mànigues fosques"
+    - "corretges de cuir"
+  colors:
+    - "acer fosc"
+    - "negre"
+    - "marró cuir"
+  materials:
+    - "Dracheneisen"
+    - "cuir"
+    - "malla"
+  armes_visibles:
+    - "espasa a l'esquena"
+    - "arma curta al cinturó"
+  joies_i_objectes: []
+  notes: "La portada confirma que l'armadura domina completament la silueta."
+caracter:
+  primera_impressio: "guerrer sever, estable i intimidant"
+  temperament: "disciplinat"
+  virtuts_visibles:
+    - "fermesa"
+    - "resistència"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "home ocult rere una armadura gairebé monumental"
+biografia_breu: "Guerrer eisen lligat al pes visual i simbòlic del Dracheneisen."
+referencies_visuals:
+  prompts_base:
+    - "Kamui, a tall strong Eisen warrior, short black hair, stern blue-grey eyes, imposing ornate Dracheneisen armor, dark metal shoulders, leather straps, sword on his back, monumental martial presence."
+  evitar:
+    - "fer-lo lleuger o massa cortesà"
+variants_visuals:
+  - id: "kamui-armadura-dracheneisen"
+    nom: "Kamui amb armadura Dracheneisen"
+    tipus: "armadura"
+    descripcio_visual: "Metall fosc ornamentat, espatlleres amples, corretges de cuir i espasa a l'esquena."
+    diferencies_respecte_base: "És la base visual actual."
+    prompt_visual: ""
+    imatge_referencia: "mon/personatges/kamui/portada.png"
+  - id: "kamui-sense-armadura"
+    nom: "Kamui sense armadura"
+    tipus: "vestimenta"
+    descripcio_visual: ""
+    diferencies_respecte_base: "Mostra cos i roba sense el volum monumental del Dracheneisen."
+    prompt_visual: ""
+    imatge_referencia: ""
+notes_canon: "El canon textual deia rostre afaitat; la portada mostra barba molt curta o ombra de barba. La portada preval com a estat visual actual."

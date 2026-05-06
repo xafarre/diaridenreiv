@@ -1,0 +1,90 @@
+schema: "personatge-fitxa/v1"
+id: "kamui"
+nom: "Kamui"
+jugador: ""
+estat_campanya:
+  actiu: true
+  ultima_actualitzacio: "2026-05-06"
+  sessio_o_acte: ""
+identitat_joc:
+  nacionalitat: "Eisen"
+  professio: "Guerrer"
+  organitzacions: []
+  reputacio:
+    punts: 0
+    daus_totals: 0
+  experiencia:
+    total: 0
+    gastada: 0
+    disponible: 0
+caracteristiques:
+  musculo: 0
+  mana: 0
+  ingenio: 0
+  brio: 0
+  donaire: 0
+arcano:
+  tipus: ""
+  nom: ""
+  efecte_resum: ""
+avantatges:
+  - nom: "Dracheneisen"
+    cost_ph: 0
+    font: "Canon visual i textual"
+    efecte: ""
+    notes: "Armadura visible i descrita al canon; cost i detalls mecanics pendents."
+trasfons: []
+habilitats:
+  civils: []
+  marcials: []
+combat:
+  daus_accio: []
+  defenses: []
+  ferides:
+    superficials_actuals: 0
+    dramatiques_actuals: 0
+    tirada_ferides: 0
+    inconscient: false
+  armes:
+    - nom: "Espasa"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible a l'esquena."
+esgrima:
+  escoles: []
+bruixeria:
+  herencies: []
+habilitats_especials: []
+motxilla: []
+formes_i_vestimentes:
+  - id: "kamui-armadura-dracheneisen"
+    nom: "Kamui amb armadura Dracheneisen"
+    tipus: "armadura"
+    estat: "canon"
+    vinculada_a:
+      sistema: "Dracheneisen"
+      capacitat: ""
+    descripcio_curta: "Armadura metàl·lica ornamentada que domina tota la silueta."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: "mon/personatges/kamui/portada.png"
+    notes_visuals: "Font visual base actual."
+    notes_joc: ""
+  - id: "kamui-sense-armadura"
+    nom: "Kamui sense armadura"
+    tipus: "vestimenta"
+    estat: "proposta"
+    vinculada_a:
+      sistema: ""
+      capacitat: ""
+    descripcio_curta: "Variant per mostrar la persona rere la presència marcial."
+    efectes_mecanics: ""
+    restriccions: ""
+    imatge_referencia: ""
+    notes_visuals: "Ha de conservar cos fort, cabell negre curt i mirada dura."
+    notes_joc: ""
+notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."

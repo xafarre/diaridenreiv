@@ -1,0 +1,67 @@
+schema: "personatge-fitxa/v1"
+id: "cedric"
+nom: "Cedric"
+jugador: ""
+estat_campanya:
+  actiu: true
+  ultima_actualitzacio: "2026-05-06"
+  sessio_o_acte: ""
+identitat_joc:
+  nacionalitat: "Montaigne"
+  professio: "Duelista d'origen humil"
+  organitzacions: []
+  reputacio:
+    punts: 0
+    daus_totals: 0
+  experiencia:
+    total: 0
+    gastada: 0
+    disponible: 0
+caracteristiques:
+  musculo: 0
+  mana: 0
+  ingenio: 0
+  brio: 0
+  donaire: 0
+arcano:
+  tipus: ""
+  nom: ""
+  efecte_resum: ""
+avantatges: []
+trasfons: []
+habilitats:
+  civils: []
+  marcials: []
+combat:
+  daus_accio: []
+  defenses: []
+  ferides:
+    superficials_actuals: 0
+    dramatiques_actuals: 0
+    tirada_ferides: 0
+    inconscient: false
+  armes:
+    - nom: "Espasa d'una mà"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible a l'esquena."
+    - nom: "Ganivet"
+      tipus: "cos_a_cos"
+      nivell: 0
+      dany: ""
+      abast: ""
+      curt_llarg: ""
+      recarrega: ""
+      notes: "Visible al cinturó/canon."
+esgrima:
+  escoles: []
+bruixeria:
+  herencies: []
+habilitats_especials: []
+motxilla: []
+formes_i_vestimentes: []
+notes: "Fitxa inicial creada a partir del canon visual i textual; valors mecanics pendents de confirmacio."

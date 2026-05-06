@@ -1,0 +1,64 @@
+schema: "personatge-descripcio/v1"
+id: "gunnar"
+nom: "Günnar Sønsteby"
+imatge_portada:
+  path: "mon/personatges/gunnar/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-gunnar.png"
+resum_web: >-
+  Günnar Sønsteby és una presència ampla i sòlida, amb cabell castany llarg, barba ben retallada i ulls cansats de qui ha vist prou sang per aprendre a curar-la. Porta cuir nòrdic treballat, corretges gruixudes i una gran espasa a l'esquena. La seva imatge transmet força pràctica, veterania i una calma fiable.
+descripcio_fisica:
+  edat_aparent: "30 anys"
+  edat_real: "30 anys"
+  alcada: "inusualment alt"
+  constitucio: "robust i atlètic"
+  pell: "clara"
+  ulls: ""
+  cabell: "llarg, ondulat i castany"
+  rostre: "barba ben retallada, expressió seriosa i fiable"
+  marques_distintives: []
+  postura_i_moviment: "plantat amb pes i seguretat"
+  veu: ""
+  olor_o_presencia: "cuir, metall i aire de port"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "cuir nòrdic reforçat i espasa gran a l'esquena"
+  peces_principals:
+    - "armilla o cuirassa de cuir marró"
+    - "mànigues fosques"
+    - "braçals"
+    - "corretges gruixudes"
+  colors:
+    - "marró"
+    - "gris fosc"
+    - "negre"
+  materials:
+    - "cuir"
+    - "llana"
+    - "metall"
+  armes_visibles:
+    - "espasa llarga a l'esquena"
+    - "ganivet o eines al cinturó"
+  joies_i_objectes: []
+  notes: ""
+caracter:
+  primera_impressio: "veterà robust, pràctic i fiable"
+  temperament: "calma de guerrer i sanador"
+  virtuts_visibles:
+    - "fiabilitat"
+    - "resistència"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "mans de combat i vocació de metge"
+biografia_breu: "Guerrer-metge de les regions nòrdiques, pràctic i acostumat al perill."
+referencies_visuals:
+  prompts_base:
+    - "Günnar Sønsteby, an unusually tall Nordic warrior-doctor, long wavy brown hair, neatly trimmed beard, rugged brown leather armor, heavy straps, formidable long sword on his back, seasoned and reliable."
+  evitar:
+    - "fer-lo refinat o aristocràtic"
+variants_visuals: []
+notes_canon: "La portada reforça el cuir treballat, el cabell llarg castany i la presència de veterà robust."

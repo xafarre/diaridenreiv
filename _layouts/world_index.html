@@ -14,13 +14,18 @@ layout: default
 
 <section class="world-grid" aria-label="{{ page.title }}">
   {% for entry in entries %}
-    <article class="world-card">
+    <article class="world-card{% if entry.icon %} world-card-with-icon{% endif %}">
       <a href="{{ entry.url | relative_url }}">
-        <p>{{ entry.section_label }}</p>
-        <h2>{{ entry.title }}</h2>
-        {% if entry.summary %}
-          <span>{{ entry.summary }}</span>
+        {% if entry.icon %}
+          <img class="world-card-icon" src="{{ entry.icon | relative_url }}" alt="" aria-hidden="true">
         {% endif %}
+        <div class="world-card-body">
+          <p>{{ entry.section_label }}</p>
+          <h2>{{ entry.title }}</h2>
+          {% if entry.summary %}
+            <span>{{ entry.summary }}</span>
+          {% endif %}
+        </div>
       </a>
     </article>
   {% else %}

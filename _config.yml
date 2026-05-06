@@ -13,3 +13,5 @@ exclude:
   - LICENSE
   - Gemfile
   - Gemfile.lock
+  - mon/personatges/*/fitxa.yml
+  - mon/personatges/*/descripcio.yml

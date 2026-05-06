@@ -1,0 +1,66 @@
+schema: "personatge-descripcio/v1"
+id: "eryn"
+nom: "Eryn"
+imatge_portada:
+  path: "mon/personatges/eryn/portada.png"
+  source_of_truth: true
+  origen: ".olddiary/septimo-mar-portada-eryn.png"
+resum_web: >-
+  Eryn té una presència àgil i lluminosa, amb cabell roig recollit en trenes gruixudes, ulls verds i pigues que li encenen el rostre. La roba de cuir marró i verd li deixa llibertat de moviment, mentre l'arc i el buirac a l'esquena recorden que la seva elegància és de bosc, no de saló.
+descripcio_fisica:
+  edat_aparent: "26 anys"
+  edat_real: "26 anys"
+  alcada: ""
+  constitucio: "àgil"
+  pell: "clara amb pigues"
+  ulls: "verds"
+  cabell: "llarg, roig, recollit en trenes"
+  rostre: "viu, amb pigues i somriure contingut"
+  marques_distintives:
+    - "pigues visibles"
+  postura_i_moviment: "lleugera, girada com si sempre pogués marxar corrent"
+  veu: ""
+  olor_o_presencia: "cuir, fusta d'arc i aire obert"
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: "cuir de caçadora, arc i buirac a l'esquena"
+  peces_principals:
+    - "cosset o cuir marró"
+    - "mànigues verdes"
+    - "cinturó ample"
+    - "botes robustes"
+  colors:
+    - "roig"
+    - "verd"
+    - "marró cuir"
+  materials:
+    - "cuir"
+    - "llana"
+    - "fusta"
+  armes_visibles:
+    - "arc"
+    - "buitrac"
+    - "ganivet"
+  joies_i_objectes: []
+  notes: ""
+caracter:
+  primera_impressio: "ràpida, desperta i preparada"
+  temperament: ""
+  virtuts_visibles:
+    - "agilitat"
+    - "atenció"
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions:
+    - "aspecte amable i habilitat de caçadora silenciosa"
+biografia_breu: "Caçadora irlandesa, preparada per moure's pel bosc i actuar amb rapidesa."
+referencies_visuals:
+  prompts_base:
+    - "Eryn, an agile Irish huntress, long red braided hair, green eyes, freckled face, brown leather hunting clothes, green sleeves, bow and quiver on her back, swift and alert."
+  evitar:
+    - "treure-li les pigues o el cabell roig"
+variants_visuals: []
+notes_canon: "La portada confirma i reforça cabell roig, ulls verds, pigues, arc i cuir de caçadora."
