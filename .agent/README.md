@@ -7,7 +7,7 @@ Aquest directori conte instruccions modulars per a agents IA que redacten, revis
 ## Estructura
 
 - `globals/`: instruccions estables d'estil textual i visual.
-- `actions/`: protocols de tasca per redactar, revisar, il.lustrar o produir actes.
+- `actions/`: protocols de tasca per redactar, revisar, il.lustrar, produir actes o editar capitols complets.
 - `templates/`: plantilles reutilitzables de dades, com fitxes de personatge.
 - `examples/`: exemples bons de sortida per calibrar futurs agents.
 
@@ -26,6 +26,7 @@ Els agents han de buscar informacio especifica de la campanya fora de `.agent`:
 
 - `actions/redaccio-acte.md`: transforma un esborrany brut en un acte narratiu curat.
 - `actions/revisio-acte.md`: postprodueix un acte existent i el poleix dins el context de la campanya.
+- `actions/edicio-capitol.md`: llegeix un capitol complet, reequilibra focus narratiu i revisa divisions d'acte/arcs.
 - `actions/illustracio-acte.md`: selecciona escenes i genera prompts visuals coherents.
 - `actions/produccio-acte.md`: orquestra redaccio, il.lustracio i revisio per produir un acte complet.
 
