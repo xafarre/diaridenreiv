@@ -19,13 +19,15 @@ No volíem perdre més temps fent volta. Decidírem creuar amb una corda.
 
 En Cedric fou el primer. Li lliguí la corda amb un nus ferm al voltant del cos i avançà cap al salt, grimpant per la pedra mullada mentre l’aigua li colpejava l’esquena i li robava cada respiració. A l’altra banda, en Kamui i la Helen mantenien la corda tensa des del nostre costat, preparats per aguantar qualsevol relliscada. En Cedric arribà a l’altra riba, però aleshores deixà de respondre.
 
+![acte xxix cedric llops]({{ '/diari/capitol05/acte29/acte-xxix-cedric-llops.webp' | relative_url }})
+
 —Cedric! —cridà l’Alina.
 
 Només la remor de l’aigua ens retornà la veu.
 
 Després sabérem que tres llops enormes li havien aparegut al davant. No l’atacaren. Se li acostaren, l’ensumaren amb una calma inquietant i restaren allà, prou a prop per convertir qualsevol moviment en una pregunta delicada. Des del nostre costat, però, només vèiem que en Cedric no contestava, i l’Alina no esperà més. Es llançà a creuar.
 
-![acte xxix cedric llops altra riba]({{ '/diari/capitol05/acte29/acte-xxix-cedric-llops.webp' | relative_url }})
+![acte xxix cedric llops altra riba]({{ '/diari/capitol05/acte29/acte-xxix-cedric-llops-altra-riba.webp' | relative_url }})
 
 El corrent l’agafà amb violència. Durant un instant la veiérem desaparèixer entre escuma i roca, però l’Alina reaccionà amb aquella naturalitat seva que sempre fa semblar raonable el que, en qualsevol altre cos, seria una temeritat. Es transformà en mico i aconseguí sortir del riu a l’altra banda, xopa, furiosa i viva. Quan arribà amb en Cedric, els llops ja no hi eren. Havien ensumat prou i s’havien esvaït entre la vegetació sense deixar-nos cap explicació, que és una manera molt pròpia de les coses desagradablement significatives.
 
