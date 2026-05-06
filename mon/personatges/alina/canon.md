@@ -17,5 +17,5 @@ Font: `.olddiary/personatges.pdf`, pàgina 9.
 ## Prompt base
 
 ```text
-Alina Ivanova, a slender 22-year-old Russian huntress with a wild experienced aura, long wavy black hair, green eyes, clothing made from white wolf and polar bear leather, black leather boots, bow and quiver, short sword at her waist.
+Alina Ivanova, a slender 22-year-old Russian huntress with a wild experienced aura, long wavy black hair, white skin, green eyes, clothing made from white wolf and polar bear leather, black leather boots, bow and quiver, short sword at her waist.
 ```

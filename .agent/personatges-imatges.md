@@ -7,7 +7,11 @@ Usa ara:
 - `.agent/globals/estil-imatge.md`
 - `.agent/actions/illustracio-acte.md`
 
-Les fitxes canonices continuen a:
+Les fitxes, portades, variants visuals i notes canon de personatges s'han de buscar a:
 
-- `.agent/canon/personatges/`
-- `.agent/canon/naus/`
+- `mon/personatges/`
+- `mon/naus/`
+- `mon/llocs/`
+- `mon/objectes/`, si existeix
+
+No afegeixis canon concret de partida dins de `.agent`.

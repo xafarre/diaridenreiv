@@ -1,0 +1,92 @@
+schema: "personatge-fitxa/v1"
+id: null
+nom: null
+jugador: ""
+estat_campanya:
+  actiu: true
+  ultima_actualitzacio: null
+  sessio_o_acte: ""
+identitat_joc:
+  nacionalitat: null
+  professio: ""
+  organitzacions: []
+  reputacio:
+    punts: 0
+    daus_totals: 0
+  experiencia:
+    total: 0
+    gastada: 0
+    disponible: 0
+caracteristiques:
+  musculo: 0
+  mana: 0
+  ingenio: 0
+  brio: 0
+  donaire: 0
+arcano:
+  tipus: ""
+  nom: ""
+  efecte_resum: ""
+avantatges: []
+trasfons: []
+habilitats:
+  civils: []
+  marcials: []
+combat:
+  daus_accio: []
+  defenses: []
+  ferides:
+    superficials_actuals: 0
+    dramatiques_actuals: 0
+    tirada_ferides: 0
+    inconscient: false
+  armes: []
+esgrima:
+  escoles: []
+bruixeria:
+  herencies: []
+habilitats_especials: []
+motxilla: []
+formes_i_vestimentes: []
+notes: ""
+
+# Estructures recomanades:
+#
+# avantatges:
+#   - nom: "Dureza"
+#     cost_ph: 5
+#     font: "Guia del Jugador"
+#     efecte: "Dau guardat addicional a tirades de ferides."
+#     notes: ""
+#
+# trasfons:
+#   - nom: "Vendetta"
+#     valor: 2
+#     estat: "actiu"
+#     descripcio: ""
+#     resolucio: ""
+#
+# habilitats:
+#   civils:
+#     - nom: "Cazador"
+#       tipus: "civil"
+#       capacitats:
+#         - nom: "Rastrear"
+#           nivell: 3
+#           tipus: "basica"
+#           notes: ""
+#
+# formes_i_vestimentes:
+#   - id: "personatge-variant"
+#     nom: "Nom de la variant"
+#     tipus: "vestimenta"
+#     estat: "proposta"
+#     vinculada_a:
+#       sistema: ""
+#       capacitat: ""
+#     descripcio_curta: ""
+#     efectes_mecanics: ""
+#     restriccions: ""
+#     imatge_referencia: ""
+#     notes_visuals: ""
+#     notes_joc: ""

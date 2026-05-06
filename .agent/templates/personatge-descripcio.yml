@@ -1,0 +1,57 @@
+schema: "personatge-descripcio/v1"
+id: null
+nom: null
+imatge_portada:
+  path: null
+  source_of_truth: true
+  origen: ""
+resum_web: null
+descripcio_fisica:
+  edat_aparent: ""
+  edat_real: ""
+  alcada: ""
+  constitucio: ""
+  pell: ""
+  ulls: ""
+  cabell: ""
+  rostre: ""
+  marques_distintives: []
+  postura_i_moviment: ""
+  veu: ""
+  olor_o_presencia: ""
+  mans: ""
+  gestos_recorrents: []
+vestuari_base:
+  silueta: ""
+  peces_principals: []
+  colors: []
+  materials: []
+  armes_visibles: []
+  joies_i_objectes: []
+  notes: ""
+caracter:
+  primera_impressio: ""
+  temperament: ""
+  virtuts_visibles: []
+  defectes_visibles: []
+  pors_o_tensions: []
+  manera_de_parlar: ""
+  relacio_amb_el_grup: ""
+  contradiccions: []
+biografia_breu: ""
+referencies_visuals:
+  prompts_base: []
+  evitar: []
+variants_visuals: []
+notes_canon: ""
+
+# resum_web hauria de ser un paragraf curt, en catala, de 40-90 paraules.
+#
+# variants_visuals:
+#   - id: "personatge-variant"
+#     nom: "Nom de la variant"
+#     tipus: "vestimenta"
+#     descripcio_visual: ""
+#     diferencies_respecte_base: ""
+#     prompt_visual: ""
+#     imatge_referencia: ""
