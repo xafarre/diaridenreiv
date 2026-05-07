@@ -7,9 +7,9 @@ La sèrie cobreix el canvi d’estat de l’acte: pèrdua de provisions, supervi
 ## Cobertura de personatges
 
 - Reiv: imatges 4 i 5.
-- Antonella: imatge 5.
+- Antonella: imatges 4 i 5.
 - Cedric: imatges 2 i 4.
-- Alina: imatges 3 i 7.
+- Alina: imatges 3, 4 i 7.
 - Kamui: imatges 4 i 8.
 - Helen i Gunnar: imatge 4 com a part del grup.
 - Pablo Pato: imatge 4
@@ -33,7 +33,7 @@ Funció: respir aparent abans que el llac reveli una força invisible.
 Prompt:
 
 ```text
-Cedric, a humble athletic 25-year-old Montaigne peasant adventurer with short messy brown hair, short brown beard, brown eyes, green headscarf, worn brown leather vest, travel pack, sword on his back and practical green boots, fishing with an improvised rod beside a jungle river near a lake, focused and slightly wary, a freshly caught fish nearby, rippling dark water suggesting something heavy below, humid tropical vegetation, midday light filtered through leaves, classic hyperrealistic oil painting, refined realistic faces and hands, cinematic but natural composition, no modern fishing gear, no cartoon, no anime.
+Cedric, humble athletic 25-year-old Montaigne peasant duelist, short messy brown hair, one-week brown beard, brown eyes, green forehead scarf clearly visible, weathered face with small marks, humble worn brown leather vest over dark green shirt, travel pack and straps, distinctive green boots, one-handed sword on his back, knife at his waist, fishing with an improvised wooden rod beside a jungle river near a lake, focused and slightly wary, a freshly caught fish nearby, rippling dark water suggesting something heavy below, humid tropical vegetation, midday light filtered through leaves, classic hyperrealistic oil painting, refined realistic face and hands, cinematic but natural composition, no modern fishing gear, no noble clothing, no generic sailor look, do not remove the green headscarf, no cartoon, no anime.
 ```
 
 ### 3. Alina i el cérvol gegant
@@ -53,7 +53,7 @@ Funció: recuperar comunitat i provisions després de la pèrdua.
 Prompt:
 
 ```text
-The expedition gathered around a modest campfire in a humid jungle clearing, preparing and eating meat from a giant deer, Reiv Anvil as a tall handsome 17-year-old noble scholar with blonde chin-length hair tied back, refined grey coat, leather straps, round shield, sword and knife; Cedric helping cook; Pablo Pato, short chubby Castillian botanist and herbalist NPC, adult man with wet messy black hair, round spectacles, round anxious face, awkward timid posture, cream wrinkled shirt under a dark wet vest, practical dark travel trousers, small herb satchel, dried roots and leaves in his hands, nervously adjusting his glasses while helping with provisions; Kamui in imposing dark ornate Dracheneisen armor seated heavily nearby; Helen O'Donell with dark-blonde hair tied back, red family cape and sword; Günnar Sønsteby unusually tall with long wavy brown hair, trimmed beard, Nordic leather and great sword, practical and calm, warm firelight on tired faces, meat roasting on branches, shared relief after hardship, classic hyperrealistic oil painting, detailed leather, metal and smoke, no modern objects, no cartoon, do not make Pablo heroic or athletic.
+The expedition gathered around a modest campfire in a humid jungle clearing, preparing and eating meat from a giant deer. Reiv Anvil, tall handsome 17-year-old northern noble scholar, blonde chin-length hair tied back, refined grey coat, leather straps, round shield, sword and knife. Cedric, humble athletic 25-year-old Montaigne peasant duelist, short messy brown hair, one-week brown beard, brown eyes, clearly visible green forehead scarf, worn brown leather vest over dark green shirt, distinctive green boots, helping cook. Alina Ivanova in human form, slender 22-year-old Ussuran huntress, pale skin, very pale green eyes, long wavy black hair, fine cheek scars, white wolf and polar bear furs over dark fitted leather, bow and quiver nearby, eating quietly with a calm feral expression. Antonella Verdiccio, 23-year-old Vodacce noblewoman in exile, light olive skin, copper hair visible under a loose dark hood, golden-honey eyes, beauty mark near her mouth, elegant dark garments, seated with refined guarded grace. Pablo Pato, short chubby Castillian botanist and herbalist NPC, wet messy black hair, round spectacles, round anxious face, awkward timid posture, cream wrinkled shirt under a dark wet vest, herb satchel and dried roots, nervously adjusting his glasses. Kamui, tall strong 30-year-old Eisen warrior, short black hair, stern blue-grey eyes, square jaw with very short stubble, imposing ornate dark Dracheneisen armor with broad metal shoulders and dragon-foot greaves, seated heavily nearby, unmistakably Eisen and not Asian. Helen O'Donell with dark-blonde hair tied back, red family cape and sword. Günnar Sønsteby unusually tall with long wavy brown hair, trimmed beard, Nordic leather and great sword, practical and calm. Warm firelight on tired faces, meat roasting on branches, shared relief after hardship, classic hyperrealistic oil painting, detailed leather, metal and smoke, no modern objects, no cartoon, do not make Pablo heroic or athletic, no long-haired Kamui, no Asian or samurai aesthetics for Kamui, do not omit Cedric's green headscarf.
 ```
 
 ### 5. La foguera apagada i el refugi
@@ -83,7 +83,7 @@ Funció: acció vertical i intel·ligència contra força bruta.
 Prompt:
 
 ```text
-Dynamic high-angle view from near the top of a jungle tree, Alina transformed into an agile monkey climbing among thin upper branches, still conveying her Ussuran huntress spirit through alert pale green eyes and nimble controlled movement, below her a colossal bear claws up from the base of the tree, splintering bark and shaking leaves, extreme vertical composition, motion, danger and height, humid jungle canopy, shafts of light, classic hyperrealistic oil painting with crisp anatomy and realistic fur, cinematic action, no cartoon, no childish monkey proportions, no modern elements.
+Dynamic high-angle view from near the top of a jungle tree, Alina fully transformed into a completely animal Siberian-looking chimpanzee, medium-sized, silver-gray and pearl-white fur, strong compact build, very agile, complete chimpanzee anatomy with no human parts at all: no human hair, no human face, no human eyes, no human skin, no clothing, no weapons, no quiver, no humanoid anatomy. The chimpanzee climbs among thin upper branches with nimble controlled movement, while below a colossal bear claws up from the base of the tree, splintering bark and shaking leaves, extreme vertical composition, motion, danger and height, humid jungle canopy, shafts of light, classic hyperrealistic oil painting with crisp animal anatomy and realistic fur, cinematic action, no cartoon, no childish monkey proportions, no modern elements.
 ```
 
 ### 8. Kamui davant l’os
@@ -93,7 +93,7 @@ Funció: imatge de perill pur i immobilitat fatal.
 Prompt:
 
 ```text
-Low ground-level view from behind Kamui, a tall strong Eisen warrior in imposing ornate dark Dracheneisen armor with metal greaves shaped like dragon feet and sword on his back, standing frozen in a jungle clearing as a colossal bear charges toward him, the bear filling the frame with terrifying mass, dust, leaves and broken branches kicked up, Kamui's armored silhouette rigid against the incoming impact, intense sense of danger and scale, dramatic natural light, classic hyperrealistic oil painting, sharp metal and fur detail, no gore, no modern elements, no cartoon or anime style.
+Low ground-level view from behind Kamui, a tall strong 30-year-old Eisen warrior with short black hair, stern blue-grey eyes if partly visible in profile, square jaw with very short stubble, imposing ornate dark Dracheneisen armor, broad metal shoulders, dragon-foot shaped greaves, leather straps, monumental martial silhouette. Kamui stands in a proper sword guard stance with his sword held in both hands, blade ready between himself and the colossal bear charging toward him. The bear fills the frame with terrifying mass, dust, leaves and broken branches kicked up, same dangerous low perspective from the ground, intense sense of danger and scale, dramatic natural jungle light, classic hyperrealistic oil painting, sharp metal and fur detail, no gore, no modern elements, no cartoon or anime style, no long hair on Kamui, no Asian or samurai aesthetics, no katana, no oriental armor.
 ```
 
 ## Pendents visuals
