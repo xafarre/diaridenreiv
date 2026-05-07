@@ -27,6 +27,8 @@ Has de fer tres coses:
 
 Tambe pots proposar titols nous per als actes quan els existents no representin prou be la seva funcio o quan un titol mes viu ajudaria el lector.
 
+Revisa tambe el titol i el `summary` del capitol. Si l'edicio canvia el centre de gravetat, posa en primer pla un esdeveniment abans secundari, retalla una promesa que ja no pesa o revela una consequencia que ara ha de quedar anunciada, actualitza el front matter de `diari/capitolXX/index.md` perque titol i resum representin millor el capitol editat.
+
 ## Material d'entrada
 
 Pots rebre:

@@ -74,6 +74,10 @@ referencies_visuals:
   evitar:
     - "fer-lo lleuger o massa cortesa"
     - "reduir visualment l'armadura"
+    - "fer-li cabell llarg"
+    - "donar-li una estetica asiatica o oriental"
+    - "fer-lo semblar samurai, ronin o guerrer oriental"
+    - "substituir l'estetica eisen per armadura o roba d'inspiracio asiatica"
 variants_visuals:
   - id: "kamui-armadura-dracheneisen"
     nom: "Kamui amb armadura Dracheneisen"
