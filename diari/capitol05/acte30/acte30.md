@@ -31,9 +31,15 @@ En Gunnar, en Kamui i la Helen arribaren poc després. Davant aquella massa de c
 
 ![acte xxx carn foguera]({{ '/diari/capitol05/acte30/acte-xxx-carn-foguera.webp' | relative_url }})
 
-Amb l’estómac més ferm i l’ànim una mica menys irritat, reprenguérem el camí cap al fum. Quan finalment hi arribàrem, veiérem que la foguera no era un foc abandonat qualsevol. Hi havia un refugi petit, antic, enfonsat en part dins la terra, amb una teulada inclinada que li donava un aire septentrional, gairebé víking, com si la casa hagués preferit amagar les parets i deixar només el llom exposat al temps. No hi hauríem dormit vuit persones sense apilar-nos com mercaderia.
+Amb l’estómac més ferm i l’ànim una mica menys irritat, reprenguérem el camí cap al fum. Quan finalment hi arribàrem, veiérem que la foguera no era un foc abandonat qualsevol. Hi havia una cabana petita, antiga, enfonsada en part dins la terra, amb una teulada inclinada que li donava un aire septentrional, gairebé víking, com si la casa hagués preferit amagar les parets i deixar només el llom exposat al temps. No hi hauríem dormit vuit persones sense apilar-nos com mercaderia.
 
-La porta no s’obria perquè la sorra l’havia presonera. Apartàrem prou terra per entrar i inspeccionàrem l’interior, però no hi trobàrem res de valor ni cap senyal recent d’habitatge. Semblava que feia anys que ningú no el trepitjava de debò. A fora, en canvi, el terreny parlava millor que les parets. Identifiquí rastres d’un grup nombrós, potser deu persones. Venien del nord, de la zona on l’Alina havia vist una embarcació, i marxaven cap a l’oest. Havien fet una parada breu per cuinar i continuar. Res més.
+La porta no s’obria perquè la sorra l’havia fet presonera. Apartàrem prou terra per entrar i inspeccionàrem l’interior, però d’entrada no hi trobàrem res de valor ni cap senyal recent d’habitatge. El paviment de fusta era gairebé invisible sota una capa de sorra, fullaraca i malesa seca, i la cabana semblava buida amb aquella pobresa resignada dels llocs que han estat abandonats massa temps.
+
+Fou la Helen qui ens féu escoltar millor el terra. En moure’s, una de les seves passes provocà un so diferent, un grinyol de fusta que no responia igual que la resta del paviment. Ens ajupírem a netejar la sorra i la brossa amb les mans, apartant arrels fines i terra compactada fins que aparegué una mena de portella dissimulada entre les fustes. L’obrírem amb compte. A sota hi havia un petit amagatall, i dins l’amagatall, un llibre menjat pel temps, de cobertes gastades i pàgines massa fràgils per confiar-les a la pressa.
+
+![acte xxx helen portella]({{ '/diari/capitol05/acte30/acte-xxx-helen-portella.webp' | relative_url }})
+
+La Helen el guardà per llegir-lo amb calma. Era una bona intenció, i per això mateix gairebé feia pena: la calma no pensava visitar-nos encara. A fora, el terreny parlava millor que les parets. Identifiquí rastres d’un grup nombrós, potser deu persones. Venien del nord, de la zona on l’Alina havia vist una embarcació, i marxaven cap a l’oest. Havien fet una parada breu per cuinar i continuar. Res més.
 
 ![acte xxx foguera refugi]({{ '/diari/capitol05/acte30/acte-xxx-foguera-refugi.webp' | relative_url }})
 
