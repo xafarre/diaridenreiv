@@ -1,13 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-vendor/
-
-.olddiary/
-.local/
-.DS_Store
-
-.ruby-version
-Gemfile
-Gemfile.lock
+# This publishing worktree accepts new files through reviewed cherry-picks.
+# Existing tracked site files remain tracked. Builds and local material stay ignored.
+*
+!.gitignore
