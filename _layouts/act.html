@@ -5,7 +5,9 @@ layout: default
 {% assign act_chapter = chapters | where: 'slug', page.chapter | first %}
 {% assign current_language = page.language | default: site.lang | default: 'ca' %}
 {% if current_language == 'ca' %}
-{% assign acts = site.pages | where: 'type', 'act' | where_exp: 'act', 'act.language == nil or act.language == current_language' | where_exp: 'act', 'act.published != false' | sort: 'order' %}
+{% assign legacy_acts = site.pages | where: 'type', 'act' | where: 'language', nil %}
+{% assign translated_acts = site.pages | where: 'type', 'act' | where: 'language', current_language %}
+{% assign acts = legacy_acts | concat: translated_acts | where_exp: 'act', 'act.published != false' | sort: 'order' %}
 {% else %}
 {% assign acts = site.pages | where: 'type', 'act' | where: 'language', current_language | where_exp: 'act', 'act.published != false' | sort: 'order' %}
 {% endif %}
