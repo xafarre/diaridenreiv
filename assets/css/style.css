@@ -682,3 +682,51 @@ img {
     right: max(18px, env(safe-area-inset-right));
   }
 }
+
+/* An in-world document quoted inside the diary. */
+.found-document {
+  margin: 2.2rem 0;
+  padding: clamp(1.15rem, 4vw, 2.2rem);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent-dark);
+  background: linear-gradient(115deg, #f8edcf, #e8d7af);
+  box-shadow: 0 5px 18px rgba(43, 22, 17, 0.08);
+  color: var(--ink);
+  font-family: var(--body);
+  font-style: italic;
+  line-height: 1.8;
+  overflow-wrap: break-word;
+}
+
+.found-document .found-document-attribution {
+  margin: 0 0 0.55rem;
+  color: var(--accent-dark);
+  font-family: var(--ui);
+  font-size: 0.72em;
+  font-style: normal;
+  font-weight: 650;
+  letter-spacing: 0.08em;
+  text-transform: none; font-variant-caps: all-small-caps;
+}
+
+.found-document h3 {
+  margin: 0 0 1.15rem;
+  font-size: 1.2em;
+  font-style: normal;
+  line-height: 1.4;
+}
+
+.found-document > :last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  .found-document {
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .found-document h3 {
+    break-after: avoid;
+  }
+}
