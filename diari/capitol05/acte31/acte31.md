@@ -2,6 +2,8 @@
 layout: act
 type: act
 chapter: chapter05
+language: ca
+translation_key: capitol05-acte31
 title: La carn que caminava
 label: Acte XXXI
 order: 31

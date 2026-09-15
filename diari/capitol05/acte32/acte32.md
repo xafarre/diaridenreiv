@@ -2,6 +2,8 @@
 layout: act
 type: act
 chapter: chapter05
+language: ca
+translation_key: capitol05-acte32
 title: El diari de Sakai Tadakiyo
 label: Acte XXXII
 order: 32
