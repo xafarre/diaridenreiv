@@ -1,11 +1,52 @@
 ---
 layout: default
 ---
-
-<article class="act standalone-act">
+{% assign chapters = site.pages | where: 'type', 'chapter' %}
+{% assign act_chapter = chapters | where: 'slug', page.chapter | first %}
+{% assign current_language = page.language | default: site.lang | default: 'ca' %}
+{% if current_language == 'ca' %}
+{% assign acts = site.pages | where: 'type', 'act' | where_exp: 'act', 'act.language == nil or act.language == current_language' | where_exp: 'act', 'act.published != false' | sort: 'order' %}
+{% else %}
+{% assign acts = site.pages | where: 'type', 'act' | where: 'language', current_language | where_exp: 'act', 'act.published != false' | sort: 'order' %}
+{% endif %}
+{% if current_language == 'es' %}
+  {% assign diary_label = 'Diario de Reiv' %}
+  {% assign previous_label = '← Acto anterior' %}
+  {% assign next_label = 'Acto siguiente →' %}
+  {% assign diary_link_label = '← El diario' %}
+  {% assign all_chapters_label = 'Todos los capítulos' %}
+  {% assign return_label = 'El diario →' %}
+  {% assign return_title = 'Volver al diario' %}
+  {% assign reading_label = 'Continuar leyendo' %}
+  {% assign top_label = 'Volver arriba' %}
+{% else %}
+  {% assign diary_label = 'Diari d’en Reiv' %}
+  {% assign previous_label = '← Acte anterior' %}
+  {% assign next_label = 'Acte següent →' %}
+  {% assign diary_link_label = '← El quadern' %}
+  {% assign all_chapters_label = 'Tots els capítols' %}
+  {% assign return_label = 'El quadern →' %}
+  {% assign return_title = 'Tornar al diari' %}
+  {% assign reading_label = 'Continuar la lectura' %}
+  {% assign top_label = 'Tornar a dalt' %}
+{% endif %}
+{% assign previous_act = nil %}
+{% assign next_act = nil %}
+{% assign found_current = false %}
+{% for act in acts %}
+  {% if found_current %}{% assign next_act = act %}{% break %}{% endif %}
+  {% if act.url == page.url %}{% assign found_current = true %}{% else %}{% assign previous_act = act %}{% endif %}
+{% endfor %}
+<nav class="breadcrumb" aria-label="Fil d’Ariadna"><a href="{{ '/diari/' | relative_url }}">{{ diary_label }}</a>{% if act_chapter %}<span aria-hidden="true">/</span><a href="{{ act_chapter.url | relative_url }}">{{ act_chapter.title }}</a>{% endif %}</nav>
+<article class="act standalone-act" id="act-top">
   <header class="act-heading">
     <p>{% if page.label %}{{ page.label }}{% else %}Acte {{ page.order }}{% endif %}</p>
     <h1>{{ page.title }}</h1>
   </header>
   {{ content }}
 </article>
+<nav class="act-pagination" aria-label="{{ reading_label }}">
+  {% if previous_act %}<a href="{{ previous_act.url | relative_url }}"><small>{{ previous_label }}</small><span>{{ previous_act.title }}</span></a>{% else %}<a href="{{ '/diari/' | relative_url }}"><small>{{ diary_link_label }}</small><span>{{ all_chapters_label }}</span></a>{% endif %}
+  {% if next_act %}<a href="{{ next_act.url | relative_url }}"><small>{{ next_label }}</small><span>{{ next_act.title }}</span></a>{% else %}<a href="{{ '/diari/' | relative_url }}"><small>{{ return_label }}</small><span>{{ return_title }}</span></a>{% endif %}
+</nav>
+<nav class="floating-nav" aria-label="Navegació de l’acte"><a class="floating-nav-button" href="#act-top" aria-label="{{ top_label }}" title="{{ top_label }}">↑</a></nav>

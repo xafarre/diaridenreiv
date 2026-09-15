@@ -1,27 +1,39 @@
 <!doctype html>
-<html lang="{{ site.lang | default: 'ca' }}">
+<html lang="{{ page.language | default: site.lang | default: 'ca' }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace }}">
+    <meta name="theme-color" content="#102d32">
+    <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | escape }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
   </head>
-  <body>
+  <body class="layout-{{ page.layout | default: 'default' }}">
+    <a class="skip-link" href="#contingut">Salta al contingut</a>
     <header class="site-header">
-      <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
-        <span>Cròniques del</span>
-        <strong>Setè Mar</strong>
-      </a>
-      <nav class="site-nav" aria-label="Navegacio principal">
-        <a href="{{ '/diari/' | relative_url }}">diari d'en Reiv</a>
-        <a href="{{ '/mon/personatges/' | relative_url }}">personatges</a>
-        <a href="{{ '/mon/naus/' | relative_url }}">naus</a>
-      </nav>
+      <div class="site-header-inner">
+        <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }} — Portada">
+          {% include compass.html %}
+          <span class="brand-copy"><span>Cròniques del</span><strong>Setè Mar</strong></span>
+        </a>
+        <div class="header-navigation">
+          <nav class="site-nav" aria-label="Navegació principal">
+            <a{% if page.url contains '/diari/' %} class="is-current"{% endif %} href="{{ '/diari/' | relative_url }}">Diari d'en Reiv</a>
+            <a{% if page.url contains '/mon/personatges/' %} class="is-current"{% endif %} href="{{ '/mon/personatges/' | relative_url }}">Personatges</a>
+            <a{% if page.url contains '/mon/naus/' %} class="is-current"{% endif %} href="{{ '/mon/naus/' | relative_url }}">Naus</a>
+          </nav>
+          {% include language-switcher.html %}
+        </div>
+      </div>
     </header>
-
-    <main class="site-main">
-      {{ content }}
-    </main>
+    <main class="site-main" id="contingut" tabindex="-1">{{ content }}</main>
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <a class="footer-brand" href="{{ '/' | relative_url }}">{% include compass.html %}<span>Cròniques del Setè Mar<small>El diari d'en Reiv</small></span></a>
+        <p>Una campanya de capa, espasa i mar.</p>
+        <a class="footer-top" href="#contingut">Tornar a dalt <span aria-hidden="true">↑</span></a>
+      </div>
+    </footer>
   </body>
 </html>

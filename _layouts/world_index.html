@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% assign entries = site.pages | where: "type", page.item_type | sort: "order" %}
+{% assign entries = site.pages | where: "type", page.item_type | where_exp: "entry", "entry.published != false" | sort: "order" %}
 
 <header class="world-heading" id="world-top">
-  <p class="chapter-kicker">{{ page.kicker | default: "Mon" }}</p>
+  <p class="chapter-kicker">{{ page.kicker | default: "Món" }}</p>
   <h1>{{ page.title }}</h1>
   {% if page.summary %}
     <p>{{ page.summary }}</p>
@@ -17,7 +17,7 @@ layout: default
     <article class="world-card{% if entry.icon %} world-card-with-icon{% endif %}">
       <a href="{{ entry.url | relative_url }}">
         {% if entry.icon %}
-          <img class="world-card-icon" src="{{ entry.icon | relative_url }}" alt="" aria-hidden="true">
+          <img class="world-card-icon" src="{{ entry.icon | relative_url }}" alt="" aria-hidden="true" loading="lazy" width="90" height="90">
         {% endif %}
         <div class="world-card-body">
           <p>{{ entry.section_label }}</p>
@@ -33,7 +33,7 @@ layout: default
   {% endfor %}
 </section>
 
-<nav class="floating-nav" aria-label="Navegacio de seccio">
-  <a class="floating-nav-button" href="{{ '/' | relative_url }}" aria-label="Tornar a la portada" title="Tornar a la portada">&lt;</a>
-  <a class="floating-nav-button" href="#world-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+<nav class="floating-nav" aria-label="Navegació de secció">
+  <a class="floating-nav-button" href="{{ '/' | relative_url }}" aria-label="Tornar a la portada" title="Tornar a la portada">←</a>
+  <a class="floating-nav-button" href="#world-top" aria-label="Tornar a dalt" title="Tornar a dalt">↑</a>
 </nav>

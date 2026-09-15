@@ -2,16 +2,17 @@
 layout: default
 ---
 
-{% assign chapters = site.pages | where: "type", "chapter" | sort: "order" %}
+{% assign chapters = site.pages | where: "type", "chapter" | where_exp: "chapter", "chapter.published != false" | sort: "order" %}
 
 <header class="home-heading">
+  <p class="chapter-kicker">El quadern de bitàcola</p>
   <h1>{{ page.title }}</h1>
   {% if page.summary %}
     <p>{{ page.summary }}</p>
   {% endif %}
 </header>
 
-<section class="chapter-list" aria-label="Llista de capitols">
+<section class="chapter-list" aria-label="Llista de capítols">
   {% for chapter in chapters %}
     <article class="chapter-card">
       <a href="{{ chapter.url | relative_url }}" aria-label="Llegir {{ chapter.title }}">

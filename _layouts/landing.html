@@ -1,23 +1,62 @@
 ---
 layout: default
 ---
+{% assign latest_acts = site.pages | where: 'type', 'act' | where_exp: 'act', 'act.published != false' | sort: 'order' | reverse %}
+{% assign chapters = site.pages | where: 'type', 'chapter' | where_exp: 'chapter', 'chapter.published != false' | sort: 'order' %}
+{% assign latest_act = latest_acts | first %}
+{% assign first_chapter = chapters | first %}
 
 <section class="landing-hero" aria-labelledby="landing-title">
-  <h1 id="landing-title">{{ site.title }}</h1>
-  <img class="landing-game-logo" src="{{ '/assets/images/brand/7thseatitle.gif' | relative_url }}" alt="7th Sea">
+  <img class="landing-hero-image" src="{{ '/diari/capitol05/acte27/acte-xxvii-illa-syrne-horitzo.webp' | relative_url }}" alt="" fetchpriority="high" width="1672" height="941">
+  <div class="landing-hero-content">
+    <p class="section-kicker"><span aria-hidden="true">✦</span> Un diari de capa i espasa</p>
+    <h1 id="landing-title"><span>Cròniques del</span>Setè Mar</h1>
+    <p class="landing-deck">Pactes, duels i ports remots.<br>Hi ha històries que només el mar coneix.</p>
+    <div class="hero-actions">
+      {% if latest_act %}<a class="button-primary" href="{{ latest_act.url | relative_url }}">Llegir l’últim acte <span aria-hidden="true">→</span></a>{% endif %}
+      {% if first_chapter %}<a class="button-secondary" href="{{ first_chapter.url | relative_url }}">Començar el viatge</a>{% endif %}
+    </div>
+  </div>
+  <div class="hero-caption"><span>El quadern d’en Reiv</span><span aria-hidden="true">Aventures al Setè Mar</span></div>
+  <div class="hero-compass" aria-hidden="true">{% include compass.html %}</div>
 </section>
 
-{% assign latest_acts = site.pages | where: "type", "act" | where_exp: "act", "act.published != false" | sort: "order" | reverse %}
+<div class="voyage-strip"><span>El diari d’en Reiv</span><span class="voyage-rule" aria-hidden="true"></span><span>{{ chapters.size }} capítols <i aria-hidden="true">✦</i> {{ latest_acts.size }} actes</span></div>
 
-<section class="latest-acts" aria-labelledby="latest-acts-title">
-  <h2 id="latest-acts-title">últims actes</h2>
+<section class="latest-acts home-section" aria-labelledby="latest-acts-title">
+  <header class="section-heading">
+    <div><p class="section-kicker">El quadern de bitàcola</p><h2 id="latest-acts-title">Les últimes pàgines</h2></div>
+    <a class="text-link" href="{{ '/diari/' | relative_url }}">Tot el diari <span aria-hidden="true">↗</span></a>
+  </header>
   <div class="latest-act-list">
     {% for act in latest_acts limit: 3 %}
-      <a class="latest-act-card" href="{{ act.url | relative_url }}">
-        <h3>{% if act.label %}{{ act.label }}{% else %}Acte {{ act.order }}{% endif %}. {{ act.title }}</h3>
-        {% assign act_preview = act.content | strip_html | normalize_whitespace | truncatewords: 25, "" | strip %}
-        <p>{% if act_preview == "" %}En curs{% else %}{{ act_preview }}{% endif %}...</p>
-      </a>
-    {% endfor %}
+      {% assign act_chapter = chapters | where: 'slug', act.chapter | first %}
+      <article class="latest-act-card{% if forloop.first %} latest-act-featured{% endif %}">
+        <a href="{{ act.url | relative_url }}">
+          {% if forloop.first and act_chapter.cover %}
+            <div class="entry-image-wrap"><img src="{{ act.cover | default: act_chapter.cover | relative_url }}" alt="" loading="lazy" width="840" height="470"><span class="image-caption">{% if act.cover %}Il·lustració de l’acte{% else %}{{ act_chapter.title }} · Il·lustració del capítol{% endif %}</span></div>
+          {% endif %}
+          <div class="latest-act-body">
+            <p class="entry-kicker">{{ act.label | default: 'Acte' }} <span aria-hidden="true">/</span> Capítol {{ act_chapter.order }}</p>
+            <h3>{{ act.title }}</h3>
+            {% if act.summary %}
+              {% assign act_preview = act.summary | strip_html | normalize_whitespace %}
+            {% else %}
+              {% assign act_preview = act.content | markdownify | strip_html | normalize_whitespace | truncatewords: 28, '…' %}
+            {% endif %}
+            <p class="entry-summary">{{ act_preview }}</p>
+            <span class="text-link">Llegir l’acte <span aria-hidden="true">→</span></span>
+          </div>
+        </a>
+      </article>
+    {% else %}<p class="empty-state">El primer acte d’aquest viatge encara s’ha d’escriure.</p>{% endfor %}
+  </div>
+</section>
+
+<section class="explore-section home-section" aria-labelledby="explore-title">
+  <header class="section-heading"><div><p class="section-kicker">Més enllà del diari</p><h2 id="explore-title">Un món per descobrir</h2></div><span class="section-ornament" aria-hidden="true">✦</span></header>
+  <div class="explore-grid">
+    <a class="explore-card explore-characters" href="{{ '/mon/personatges/' | relative_url }}"><span class="explore-number" aria-hidden="true">I.</span><div><p class="section-kicker">Els noms darrere les gestes</p><h3>Personatges</h3><p>Rostres, aliances i vides que es creuen.</p></div><span class="explore-arrow" aria-hidden="true">↗</span></a>
+    <a class="explore-card explore-ships" href="{{ '/mon/naus/' | relative_url }}"><span class="explore-number" aria-hidden="true">II.</span><div><p class="section-kicker">Amb rumb a l’horitzó</p><h3>Naus</h3><p>Les cobertes on comença cada viatge.</p></div><span class="explore-arrow" aria-hidden="true">↗</span></a>
   </div>
 </section>

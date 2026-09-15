@@ -18,7 +18,7 @@ layout: default
   {% endif %}
 
   {% if page.type == "character" and page.sheet %}
-    <section class="character-sheet" aria-label="Fitxa de personatge">
+    <dl class="character-sheet" aria-label="Fitxa de personatge">
       {% for field in site.data.character_fields %}
         {% assign value = page.sheet[field.key] %}
         {% if value %}
@@ -38,7 +38,7 @@ layout: default
           </div>
         {% endif %}
       {% endfor %}
-    </section>
+    </dl>
   {% endif %}
 
   <div class="world-entry-content">
@@ -46,7 +46,7 @@ layout: default
   </div>
 </article>
 
-<nav class="floating-nav" aria-label="Navegacio d'entrada">
-  <a class="floating-nav-button" href="{{ page.back_url | default: '/' | relative_url }}" aria-label="Tornar enrere" title="Tornar enrere">&lt;</a>
-  <a class="floating-nav-button" href="#entry-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+<nav class="floating-nav" aria-label="Navegació d’entrada">
+  <a class="floating-nav-button" href="{{ page.back_url | default: '/' | relative_url }}" aria-label="Tornar enrere" title="Tornar enrere">←</a>
+  <a class="floating-nav-button" href="#entry-top" aria-label="Tornar a dalt" title="Tornar a dalt">↑</a>
 </nav>

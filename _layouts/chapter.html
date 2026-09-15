@@ -26,7 +26,7 @@ layout: default
   {% endif %}
 
   {% if acts.size > 0 and hide_chapter_chrome != true %}
-    <nav class="act-index" aria-label="Index d'actes">
+    <nav class="act-index" aria-label="Índex d’actes">
       <h2>Actes</h2>
       <ol>
         {% for act in acts %}
@@ -56,7 +56,7 @@ layout: default
   </div>
 </article>
 
-<nav class="floating-nav" aria-label="Navegacio de capítol">
-  <a class="floating-nav-button" href="{{ '/diari/' | relative_url }}" aria-label="Tornar al diari" title="Tornar al diari">&lt;</a>
-  <a class="floating-nav-button" href="#chapter-top" aria-label="Tornar a dalt" title="Tornar a dalt">^</a>
+<nav class="floating-nav" aria-label="Navegació de capítol">
+  <a class="floating-nav-button" href="{{ '/diari/' | relative_url }}" aria-label="Tornar al diari" title="Tornar al diari">←</a>
+  <a class="floating-nav-button" href="#chapter-top" aria-label="Tornar a dalt" title="Tornar a dalt">↑</a>
 </nav>
