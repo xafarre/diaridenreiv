@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign latest_acts = site.pages | where: 'type', 'act' | where_exp: 'act', 'act.published != false' | sort: 'order' | reverse %}
+{% assign latest_acts = site.pages | where: 'type', 'act' | where_exp: 'act', 'act.published != false' | where_exp: 'act', 'act.translation != true' | sort: 'order' | reverse %}
 {% assign chapters = site.pages | where: 'type', 'chapter' | where_exp: 'chapter', 'chapter.published != false' | sort: 'order' %}
 {% assign latest_act = latest_acts | first %}
 {% assign first_chapter = chapters | first %}

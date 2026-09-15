@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign acts = site.pages | where: "type", "act" | where: "chapter", page.slug | where_exp: "act", "act.published != false" | sort: "order" %}
+{% assign acts = site.pages | where: "type", "act" | where: "chapter", page.slug | where_exp: "act", "act.published != false" | where_exp: "act", "act.translation != true" | sort: "order" %}
 {% assign hide_chapter_chrome = page.hide_chapter_chrome | default: false %}
 
 <article class="chapter" id="chapter-top">

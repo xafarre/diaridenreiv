@@ -3,6 +3,7 @@ layout: act
 type: act
 chapter: chapter05
 language: es
+translation: true
 translation_key: capitol05-acte31
 title: La carne que caminaba
 label: Acto XXXI
