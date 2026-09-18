@@ -4,7 +4,7 @@ type: act
 chapter: chapter05
 language: ca
 translation_key: capitol05-acte31
-title: La carn que caminava
+title: La mort ens visita
 label: Acte XXXI
 order: 31
 summary: "La fugida fracassa i una criatura al coll d’en Kamui converteix un company en l’amenaça més propera."
