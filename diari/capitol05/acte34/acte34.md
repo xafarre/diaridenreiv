@@ -58,7 +58,7 @@ Avançàrem així durant mitja hora. Quan encara ens separaven uns tres-cents me
 
 ![El grup arriba a la platja i veu un gran navili de casc i veles blanques mar endins.]({{ '/diari/capitol05/acte34/acte-xxxiv-arribada-platja.png' | relative_url }})
 
-La Freia desembarcà amb els qui venien a rebre els ferits. Era alta, pèl-roja, d’entre trenta i quaranta anys. Les faccions suaus i la bellesa del rostre contrastaven amb la fermesa amb què trepitjà la sorra. Duia una armadura treballada, oberta al pit, amb una faldilla curta de plaques i botes fins als genolls; de la cintura li penjaven uns faldons vermells. Escoltà els seus homes i després rebé la Helen, que s’avançà a presentar-se.
+La Freia desembarcà amb els qui venien a rebre els ferits. Era alta, pèl-roja, d’entre trenta i quaranta anys. Les faccions suaus i la bellesa del rostre contrastaven amb la fermesa amb què trepitjà la sorra. Duia un abric llarg de capitana sobre una camisa oberta, una faixa vermella a la cintura i botes altes. Escoltà els seus homes i després rebé la Helen, que s’avançà a presentar-se.
 
 —Marxem —digué—. No hi ha lloc per a vosaltres al vaixell.
 
